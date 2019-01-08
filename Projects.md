@@ -28,7 +28,7 @@ title: Projects
 ### Some past projects
 
 -   CHOReography Driven programming and Security (CHORDS). PI: Marco
-    Carbone. Steno research grant funded by the\
+    Carbone. Steno research grant funded by the
     Danish agency for research and innovation. Duration: 2011-2013
 -   Modeller og detaljerede kalkuler for effekter i programmeringssprog.
     PI: Rasmus Møgelberg. Steno research grant funded by the Danish

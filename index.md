@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Home
 custom_title: The Programming, Logic, and Semantics group (PLS) at [ITU](http://www.itu.dk)
 ---
@@ -45,11 +45,11 @@ The PLS group conducts research in the theory of programming languages and logic
 -   [João Costa Seco](http://docentes.fct.unl.pt/jrcs/) visits the PLS
     group February 12-23, 2017. Host: Thomas Hildebrandt
 -   Rasmus Møgelberg organises a [seminar on models of type theory
-    in](Type_theory_seminar "wikilink") Spring 2017.
+    in](Type_theory_seminar) Spring 2017.
 -   Rosario Giustolisi joins the PLS group as a postdoc working with
     Carsten Schurmann. February 2017.
 -   [Johannes Åman
     Pohjola](https://www.chalmers.se/en/staff/Pages/pohjola.aspx) visits
     the PLS group January 23-27, 2017. Host: Jesper Bengtson
 
-[Older news](Past news)
+[Past news](Past_news)

@@ -197,11 +197,18 @@ a.sidebar-nav-item:focus {
 
 /* Yellow */
 .theme-base-0a .sidebar {
-  background-color: #f4bf75;
+  background-color: #e5e244;
+  color: #000;
+  background-image: url(../img/applied-pi-semantics.png);
+  background-blend-mode: soft-light;
+  background-size: contain;
+}
+.theme-base-0a .sidebar a {
+  color: #1a1554;
 }
 .theme-base-0a .content a,
 .theme-base-0a .related-posts li a:hover {
-  color: #f4bf75;
+  color: #8075f4;
 }
 
 /* Green */
