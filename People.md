@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: page
 title: People
 ---
 
 Faculty
 
 -   [Patrick Bahr](http://www.itu.dk/people/paba/)
--   [Alessandro Bruni](http://itu.dk/people/brun)
+-   [Alessandro Bruni](http://alessandrobruni.name/)
 -   [Jesper Bengtson](http://www.itu.dk/people/jebe)
 -   [Marco Carbone](http://www.itu.dk/people/maca)
 -   [Søren Debois](http://www.itu.dk/people/debois)

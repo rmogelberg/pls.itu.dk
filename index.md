@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Home
 custom_title: The Programming, Logic, and Semantics group (PLS) at [ITU](http://www.itu.dk)
 ---
