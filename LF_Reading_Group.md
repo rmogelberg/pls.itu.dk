@@ -19,10 +19,10 @@ and logical reasoning.
     Bahr, Jost Berthold, Martin Elsman (2015)
 -   **Nov. 28: Twelf tutorial [cs]**
     [slides](file/view/lectures.pdf/600096268/lectures.pdf "wikilink")
--   **Oct. 31: <span class="s1">A brief introduction to bigraphs
-    </span>[gr]**
--   **Oct. 17: <span class="s1">Behavioral Types and Logical
-    Frameworks</span> [cs]**
+-   **Oct. 31: A brief introduction to bigraphs
+    [gr]**
+-   **Oct. 17: Behavioral Types and Logical
+    Frameworks [cs]**
 -   **Oct. 10: The cX calculus, reducing modulo congruence relation
     [dz]**
     [slides](file/view/CMU_meeting_slides_04.pdf/595620220/CMU_meeting_slides_04.pdf "wikilink")
@@ -33,19 +33,19 @@ and logical reasoning.
 -   **Process calculus for standard classical logic, an investigation
     [dz]**
     based on Wadler's CP calculus
--   **<span style="line-height: 1.5">Jun: Zap logic [ic]</span>**
--   **<span style="line-height: 1.5">May: Coherence proofs and session
-    types [cs]</span>**
--   **<span style="line-height: 1.5">Apr. 11 + Apr. 18: A calculus for
-    classical logic with explicit structural rules [dz]</span>**
-    <span style="line-height: 1.5">based on ["A calculus for classical
+-   **Jun: Zap logic [ic]**
+-   **May: Coherence proofs and session
+    types [cs]**
+-   **Apr. 11 + Apr. 18: A calculus for
+    classical logic with explicit structural rules [dz]**
+    based on ["A calculus for classical
     logic with explicit structural
-    rules"](http://arxiv.org/pdf/1203.4754v1.pdf)</span>
--   **<span style="line-height: 1.5">Mar. 7: Polarised Focusing in
-    (one-sided) Classical Linear Logic [pbb]</span>**
-    <span style="line-height: 1.5">Jean-Marc Andreoli. ["Logic
+    rules"](http://arxiv.org/pdf/1203.4754v1.pdf)
+-   **Mar. 7: Polarised Focusing in
+    (one-sided) Classical Linear Logic [pbb]**
+    Jean-Marc Andreoli. ["Logic
     Programming with Focussing Proofs in Linear
-    Logic"](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/fp/www/courses/15816-s12/misc/andreoli92jlc.pdf)</span>
+    Logic"](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/fp/www/courses/15816-s12/misc/andreoli92jlc.pdf)
 -   **Feb 29: Finite Variant and Equational Theories [ab]**
     based on
     Comon-Lundh,
@@ -64,9 +64,9 @@ and logical reasoning.
 -   **Feb. 1: Proof Search in Proverif + Stateful verification using
     Horn clauses *[ab]***
     based on
-    <span style="line-height: 1.5">1. Bruno Blanchet: [An Efficient
+    1. Bruno Blanchet: [An Efficient
     Cryptographic Protocol Verifier Based on Prolog
-    Rules](http://prosecco.gforge.inria.fr/personal/bblanche/publications/BlanchetCSFW01.html)</span>
+    Rules](http://prosecco.gforge.inria.fr/personal/bblanche/publications/BlanchetCSFW01.html)
     2. Bruni, Mödersheim, Nielson, Nielson: [Set-π: Set Membership
     π-calculus](http://www.imm.dtu.dk/~samo/extended.pdf)
 -   **Jan. 25: *Concurrent Logical Framework [cs]***

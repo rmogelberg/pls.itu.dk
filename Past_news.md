@@ -77,73 +77,73 @@ Host: Rasmus Møgelberg.
     26 - September 2, 2015;  
 Hosts: Carsten Schuermann and Thomas
     Hildebrandt.
--   <span style="line-height: 1.5">[Patrick
-    Bahr](http://www.itu.dk/people/paba/)</span> joins the PLS group as
+-   [Patrick
+    Bahr](http://www.itu.dk/people/paba/) joins the PLS group as
     a post doc with Rasmus Møgelberg. August 1st, 2015.
 -   Aleš Bizjak visits June 8-15, 2015;  
 Host: Rasmus Møgelberg.
 -   [Bas Spitters](http://www.cs.ru.nl/~spitters/) visits May 22, 2015.
   ;  
 Host: Rasmus Møgelberg.
--   <span style="line-height: 1.5">[Jasmin
+-   [Jasmin
     Blanchette](http://www21.in.tum.de/~blanchet/) visits March 19, 2015
     \-;  
-Host: Jesper Bengtson.</span>
--   <span style="line-height: 1.5">[Benedikt
+Host: Jesper Bengtson.
+-   [Benedikt
     Ahrens](http://benedikt-ahrens.de/) visits February 2-6, 2015 \--
   ;  
-Host: Rasmus Møgelberg.</span>
--   <span style="line-height: 1.5">Rasmus Møgelberg has been awarded 2.5
+Host: Rasmus Møgelberg.
+-   Rasmus Møgelberg has been awarded 2.5
     mill DKR to the project Guarded Recursive Types in the Foundations
     of Programming Languages by The Danish Council for Independent
-    Research. The project is to run for 3 years.</span>
--   <span style="line-height: 1.5">Agata Anna Murawska visits Brigitte
+    Research. The project is to run for 3 years.
+-   Agata Anna Murawska visits Brigitte
     Pientka and the Computation and Logic group at McGill University,
-    Montreal, from February 1 to August 1, 2015</span>
--   <span style="line-height: 1.5">[Jesper
+    Montreal, from February 1 to August 1, 2015
+-   [Jesper
     Bengtson](http://www.itu.dk/people/jebe/%20) is having a sabbatical
     at Princeton University from September 1st to December 13 2014 \--
   ;  
-Host: Andrew Appel.</span>
--   <span style="line-height: 1.5">[Thierry
+Host: Andrew Appel.
+-   [Thierry
     Coquand](http://www.cse.chalmers.se/~coquand/%20) and Simon Huber
     visit December 1-3, 2014. They will give a mini course on Cubical
     Sets \-;  
-Host: Rasmus Møgelberg.</span>
--   <span style="line-height: 1.5">[Ales
+Host: Rasmus Møgelberg.
+-   [Ales
     Bizjak](http://cs.au.dk/~abizjak/) visits October 20-December 19,
     2014 \-;  
-Host: Rasmus Møgelberg.</span>
--   <span style="line-height: 1.5">PhD course on [Structural Proof
+Host: Rasmus Møgelberg.
+-   PhD course on [Structural Proof
     Theory](http://www.itu.dk/people/ngue/spt/index.html%20) November
     5 - December 17, 2014. Organised by Nicolas Guenot and Taus
-    Brock-Nannestad.</span>
--   <span style="line-height: 1.5">[Marco
+    Brock-Nannestad.
+-   [Marco
     Paviotti](http://www.itu.dk/people/mpav) visits Lars Birkedal at
-    Aarhus University September 2014 - March 2015.</span>
--   <span style="line-height: 1.5">Mario Bravetti, Jorge Perez and
+    Aarhus University September 2014 - March 2015.
+-   Mario Bravetti, Jorge Perez and
     Gianluigi Zavattaro visit end of July 2014. \-;  
 Host: Marco
-    Carbone.</span>
--   <span style="line-height: 1.5">[Andreas
+    Carbone.
+-   [Andreas
     Abel](http://www.cse.chalmers.se/~abela/%20) visits August 20-22,
     2014 \-;  
-Host: Rasmus Møgelberg.</span>
--   <span style="line-height: 1.5">[Peter
+Host: Rasmus Møgelberg.
+-   [Peter
     Dybjer](http://www.cse.chalmers.se/~peterd/%20) visits April 28,
     2014 \-;  
-Host: Rasmus Møgelberg.</span>
--   <span style="line-height: 1.5">Riccardo Scandariato visits April 23,
+Host: Rasmus Møgelberg.
+-   Riccardo Scandariato visits April 23,
     2014 \-;  
 Host: Carsten Schuermann. See schedule
-    [2014-04-23-Riccardo](2014-04-23-Riccardo "wikilink").</span>
--   <span style="line-height: 1.5">[Gregory
+    [2014-04-23-Riccardo](2014-04-23-Riccardo "wikilink").
+-   [Gregory
     Malecha](http://www.people.fas.harvard.edu/~gmalecha/%20) visit
     March 24-27;  
-Host Jesper Bengtson</span>
--   <span style="line-height: 1.5">Seminar on [Homotopy Type
+Host Jesper Bengtson
+-   Seminar on [Homotopy Type
     Theory](http://www.itu.dk/research/pls/wiki/index.php/HoTT-2014%20)
-    February - May 2014. Organised by Rasmus Møgelberg.</span>
+    February - May 2014. Organised by Rasmus Møgelberg.
 -   [Philippa Gardner](http://www.doc.ic.ac.uk/~pg/)and [Matthew
     Parkinson](http://research.microsoft.com/en-us/people/mattpark/)
     visit Dec 17-18, 2013;  

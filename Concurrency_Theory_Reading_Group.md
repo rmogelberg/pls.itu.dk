@@ -130,74 +130,74 @@ Unless stated otherwise, presentations are given by [Marco Carbone](http://www.i
 
 **Course description**
 
-<span style="font-family: Calibri,sans-serif; font-size: 14.6667px">The
+The
 course will focus on concurrency theory and its applications. The first
 part of the course will consist of 8-10 lectures given by experts in the
 field, and providing an in-depth introduction to the topic. The program
-for this part will include the following topics:</span>
+for this part will include the following topics:
 
-1.  <span style="font-family: Calibri,sans-serif; font-size: 14.6667px">Calculus
-    of Communicating Systems</span>
-2.  <span style="font-family: Calibri,sans-serif; font-size: 14.6667px">Different
-    kinds of semantics</span>
-3.  <span style="font-family: Calibri,sans-serif; font-size: 14.6667px">Synchronous
-    (and asynchronous) Pi calculus</span>
-4.  <span style="font-family: Calibri,sans-serif; font-size: 14.6667px">Observable
-    behaviours and bisimulation</span>
-5.  <span style="font-family: Calibri,sans-serif; font-size: 14.6667px">Session
-    types and multi-party session types</span>
-6.  <span style="font-family: Calibri,sans-serif; font-size: 14.6667px">Expressivity</span>
-7.  <span style="font-family: Calibri,sans-serif; font-size: 14.6667px">Connection
-    to linear logic</span>
-8.  <span style="font-family: Calibri,sans-serif; font-size: 14.6667px">Choreographies</span>
+1.  Calculus
+    of Communicating Systems
+2.  Different
+    kinds of semantics
+3.  Synchronous
+    (and asynchronous) Pi calculus
+4.  Observable
+    behaviours and bisimulation
+5.  Session
+    types and multi-party session types
+6.  Expressivity
+7.  Connection
+    to linear logic
+8.  Choreographies
 
 
-<span style="font-family: Calibri,sans-serif; font-size: 14.6667px">In
+In
 the second part, the focus will be put on recent results in concurrency
 theory. With a solid background provided in the first part, a number of
 influential papers from the last few years will be discussed in depth.
 The precise selection will be based on the research interests of the
-participants.</span>
+participants.
 
 ----
-<span style="font-family: Calibri,sans-serif; font-size: 14.6667px">**Reading
-list** (for the first part of the course) includes:</span>
+**Reading
+list** (for the first part of the course) includes:
 
-<span style="font-family: Calibri,sans-serif; font-size: 14.6667px">Books</span>
+Books
 
--   <span style="font-family: Calibri,sans-serif; font-size: 14.6667px"> R.
-    Milner; Communicating and Mobile Systems: the pi-Calculus</span>
--   <span style="font-family: Calibri,sans-serif; font-size: 14.6667px"><span style="font-family: Calibri,sans-serif; font-size: 14.6667px">R.
-    Milner; </span>Communication and Concurrency</span>
--   <span style="font-family: Calibri,sans-serif; font-size: 14.6667px">D.
+-    R.
+    Milner; Communicating and Mobile Systems: the pi-Calculus
+-   R.
+    Milner; Communication and Concurrency
+-   D.
     Sangiorgi, D. Walker; The pi-calculus: a Theory of Mobile
-    Processes</span>
--   <span style="font-family: Calibri,sans-serif; font-size: 14.6667px">S.
-    Gay, A. Ravara; Behavioural Types: From Theory to Tools</span>
--   <span style="font-family: Calibri,sans-serif; font-size: 14.6667px">R.
-    Milner; The Space and Motion of Communicating Agents</span>
+    Processes
+-   S.
+    Gay, A. Ravara; Behavioural Types: From Theory to Tools
+-   R.
+    Milner; The Space and Motion of Communicating Agents
 
 
-<span style="font-family: Calibri,sans-serif; font-size: 14.6667px">Articles</span>
+Articles
 
--   <span style="font-family: Calibri,sans-serif; font-size: 14.6667px">D.
+-   D.
     Gorla; Towards a Unified Approach to Encodability and Separation
-    Results for Process Calculi</span>
--   <span style="font-family: Calibri,sans-serif; font-size: 14.6667px">K.
+    Results for Process Calculi
+-   K.
     Takeuchi, K.Honda, M. Kubo; An interaction-based language and its
-    typing system</span>
--   <span style="font-family: Calibri,sans-serif; font-size: 14.6667px">K.
+    typing system
+-   K.
     Honda, N. Yoshida, M. Carbone; Multiparty Asynchronous Session
-    Types</span>
--   <span style="font-family: Calibri,sans-serif; font-size: 14.6667px">L.
+    Types
+-   L.
     Caires, F. Pfenning; Session Types as Intuitionistic Linear
-    Propositions</span>
--   <span style="font-family: Calibri,sans-serif; font-size: 14.6667px">P.
-    Wadler; Propositions as Sessions</span>
+    Propositions
+-   P.
+    Wadler; Propositions as Sessions
 
 
-<span style="font-family: Calibri,sans-serif; font-size: 14.6667px">PhD
-dissertation</span>
+PhD
+dissertation
 
--   <span style="font-family: Calibri,sans-serif; font-size: 14.6667px">F.
-    Montesi; Choreographic Programming</span>
+-   F.
+    Montesi; Choreographic Programming

@@ -4,8 +4,8 @@ title: Home
 custom_title: The Programming, Logic, and Semantics group (PLS) at [ITU](http://www.itu.dk)
 ---
 
-Welcome to the homepage of the Programming, Logic and Semantics group at
-ITU. The PLS group is one of the seven research groups at ITU (for the
+Welcome to the homepage of the **Programming, Logic and Semantics group at
+ITU**. The PLS group is one of the seven research groups at ITU (for the
 others, please visit the [research
 section](http://en.itu.dk/Research/About-ITUs-Research/Research-Groups)
 of ITU\'s homepage).
