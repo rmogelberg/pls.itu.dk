@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Past news
+archived: true
 ---
 
 -   [Graham Hutton](http://www.cs.nott.ac.uk/~pszgmh/) visits PLS,

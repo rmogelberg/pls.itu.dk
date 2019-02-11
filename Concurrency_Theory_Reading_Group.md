@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Concurrency Theory Reading Group
+archived: true
 ---
 
 **Thursdays, 10-12**

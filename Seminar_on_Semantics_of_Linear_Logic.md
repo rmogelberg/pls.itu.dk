@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Seminar on Semantics of Linear Logic
+archived: true
 ---
 
 ### Meetings

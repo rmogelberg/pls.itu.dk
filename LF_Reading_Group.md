@@ -1,11 +1,11 @@
 ---
 layout: page
 title: LF Reading Group
+archived: true
 ---
 
-
 This is a reading group where we discuss research topics regarding LF
-and logical reasoning.
+and logical reasoning. Hello
 
 ### Past topics
 

@@ -52,4 +52,4 @@ The PLS group conducts research in the theory of programming languages and logic
     Pohjola](https://www.chalmers.se/en/staff/Pages/pohjola.aspx) visits
     the PLS group January 23-27, 2017. Host: Jesper Bengtson
 
-[Past news](Past_news)
+[Past news](Past_news.html)
