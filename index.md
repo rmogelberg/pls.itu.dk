@@ -16,6 +16,8 @@ The PLS group conducts research in the theory of programming languages and logic
 
 ### Recent and upcoming news
 
+-   [Andrea Vezzosi](http://www.cse.chalmers.se/~vezzosi/) joins PLS as a postdoc,
+-   Magnus Baunsgaard Kristensen joins PLS as a PhD student,
 -   [Andrea Vezzosi](http://www.cse.chalmers.se/~vezzosi/) visits PLS,
     23-26 Oct, 2018. Host: Rasmus Møgelberg
 -   [Jorge Perez](https://sites.google.com/view/japerezp/) visits PLS,
