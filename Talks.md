@@ -3,6 +3,13 @@ layout: page
 title: Talks
 ---
 
+In the Spring of 2018 PLS lunch talk are usually every other Wednesday 12-13 in 3A07
+
+-   Jan 29: No talk just discussions
+-   Feb 21 (3A08, 14-15): Willard Rafnsson: Types for Information-Flow Control in Functional Programming Languages
+-   March 13: Jonas Kastberg Hinrichsen
+
+
 In the Autumn of 2018 PLS lunch talk are usually every other Tuesday
 12-13
 
