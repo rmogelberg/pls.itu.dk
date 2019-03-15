@@ -3,6 +3,21 @@ layout: page
 title: Type theory seminar
 ---
 
+Spring 2019
+
+This semester we meet Wednesdays 10-12 at various locations at ITU
+
+- March 20: [Type-driven Development of Concurrent Communicating Systems](https://journals.agh.edu.pl/csci/article/view/1413) (Patrick, 2A08)
+- March 27: [Interactive Programming in Agda – Objects and Graphical User Interfaces](http://www.cse.chalmers.se/~abela/ooAgda.pdf) (Christian, 3A20)
+- April 10 (2A20)
+- April 24 (2A20)
+- May 1 (2A20)
+- May 8 (2A20)
+- May 15 (3A20)
+- May 22 (3A08)
+- May 29 (3A20)
+- June 5 (3A20)
+
 Fall 2018
 
 -   Sep 17, 24 and Oct 1: [Iris from the ground
