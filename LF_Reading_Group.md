@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LF Reading Group
-archived: true
+archived: false
 ---
 
 This is a reading group where we discuss research topics regarding LF
