@@ -8,7 +8,7 @@ In the Spring of 2018 PLS lunch talk are usually every other Wednesday 12-13 in 
 -   Jan 29: No talk just discussions
 -   Feb 21 (3A08, 14-15): Willard Rafnsson: Types for Information-Flow Control in Functional Programming Languages
 -   March 13: Jonas Kastberg Hinrichsen: Formal Verification of Distributed Systems in Iris
--   March 27: Andrea Vezzosi: TBA
+-   March 27: Andrea Vezzosi
 
 
 In the Autumn of 2018 PLS lunch talk are usually every other Tuesday
