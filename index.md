@@ -33,7 +33,7 @@ The PLS group conducts research in the theory of programming languages and logic
     PLS April 9-10, 2018. Host: Jesper Bengtson
 -   Prof. [Nobuko
     Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/) and her PhD
-    student, Eva Graversen visit PLS 5-12 March. Host: Marco Carbone
+    student, Eva Graversen visit PLS 5-12 March 2018. Host: Marco Carbone
 -   [Danel Ahman](https://danelahman.github.io/) visits PLS, Nov 13-16.
     Host: Rasmus Møgelberg
 -   [Sonia Marin](http://www.lix.polytechnique.fr/Labo/Sonia.Marin/)
