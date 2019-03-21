@@ -14,9 +14,9 @@ This semester we meet Wednesdays 10-12 at various locations at ITU
 - May 1: [Modalities, Cohesion, and Information Flow](https://arxiv.org/abs/1809.07897) (Rasmus, 2A20)
 - May 8: [Brouwer's fixed-point theorem in real-cohesive homotopy type theory](https://arxiv.org/abs/1509.07584) (Magnus, 2A20)
 - May 15: Same as above, continued (3A20)
-- May 22 (3A08)
-- May 29 (3A20)
-- June 5 (3A20)
+- May 22: [Modalities in homotopy type theory](https://arxiv.org/abs/1706.07526) (3A08)
+- May 29: Continued (3A20)
+- June 5: Continued (3A20)
 
 Fall 2018
 
