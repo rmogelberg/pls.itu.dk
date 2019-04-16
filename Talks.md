@@ -9,7 +9,6 @@ In the Spring of 2019 PLS lunch talk are usually every other Wednesday 12-13 in 
 -   Feb 21 (3A08, 14-15): Willard Rafnsson: Types for Information-Flow Control in Functional Programming Languages
 -   March 13: Jonas Kastberg Hinrichsen: Formal Verification of Distributed Systems in Iris
 -   March 27: Andrea Vezzosi: Higher Inductive Types in Cubical Agda
--   March 27: Andrea Vezzosi: Higher Inductive Types in Cubical Agda
 -   April 10: Dima Szamozvancev: Well-typed music does not sound wrong
 
 In the Autumn of 2018 PLS lunch talk are usually every other Tuesday
