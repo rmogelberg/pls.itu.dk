@@ -10,7 +10,7 @@ This semester we meet Wednesdays 10-12 at various locations at ITU
 - March 20: [Type-driven Development of Concurrent Communicating Systems](https://journals.agh.edu.pl/csci/article/view/1413) (Patrick, 2A08)
 - March 27: Cancelled (3A20)
 - April 10: [Interactive Programming in Agda – Objects and Graphical User Interfaces](http://www.cse.chalmers.se/~abela/ooAgda.pdf) (Christian, 2A20)
-- April 24: [Wellfounded Recursion with Copatterns and Sized Types](http://www.cse.chalmers.se/~abela/jfp15.pdf) (Andrea, 2A20)
+- April 24: [Wellfounded Recursion with Copatterns and Sized Types](http://www.cse.chalmers.se/~abela/icfp13.pdf) (Andrea, 2A20)
 - May 1: [Modalities, Cohesion, and Information Flow](https://arxiv.org/abs/1809.07897) (Rasmus, 2A20)
 - May 8: [Brouwer's fixed-point theorem in real-cohesive homotopy type theory](https://arxiv.org/abs/1509.07584) (Magnus, 2A20)
 - May 15: Same as above, continued (3A20)
