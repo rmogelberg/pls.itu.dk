@@ -15,7 +15,7 @@ Faculty
     interests: denotational semantics, category theory, type theory,
     computational effects, guarded recursion
 -   [Willard Rafnsson](http://research.precise.li/)
--   [Carsten Schuermann](http://www.itu.dk/people/carsten)
+-   [Carsten Schürmann](http://www.itu.dk/people/carsten)
 
 Post. doc.'s
 
