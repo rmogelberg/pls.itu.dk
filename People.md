@@ -17,7 +17,7 @@ Faculty
 -   [Willard Rafnsson](http://research.precise.li/)
 -   [Carsten Schürmann](http://www.itu.dk/people/carsten)
 
-Post. doc.'s
+Postdocs
 
 -   [Hugo A. López](http://lopezacosta.net/)
 -   [Sonia Marin](http://www.lix.polytechnique.fr/Labo/Sonia.Marin/)
