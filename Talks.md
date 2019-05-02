@@ -11,6 +11,7 @@ In the Spring of 2019 PLS lunch talk are usually every other Wednesday 12-13 in 
 -   March 27: Andrea Vezzosi: Higher Inductive Types in Cubical Agda
 -   April 10: Dima Szamozvancev: Well-typed music does not sound wrong
 -   May 8: Carsten Schürmann
+-   May 29: Sonia Marin: Justification logic for modal logics on an intuitionistic base
 
 In the Autumn of 2018 PLS lunch talk are usually every other Tuesday
 12-13
