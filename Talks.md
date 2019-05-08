@@ -10,7 +10,9 @@ In the Spring of 2019 PLS lunch talk are usually every other Wednesday 12-13 in 
 -   March 13: Jonas Kastberg Hinrichsen: Formal Verification of Distributed Systems in Iris
 -   March 27: Andrea Vezzosi: Higher Inductive Types in Cubical Agda
 -   April 10: Dima Szamozvancev: Well-typed music does not sound wrong
--   May 8: Carsten Schürmann
+-   May 8: Carsten Schürmann: Intro to LF
+-   May 14: Adrien Guatto (IRIF, Paris): A Basis for Synchronous Functional Programming (at 12 in 3A01)
+-   May 15: Carsten Schürmann: Intro to LF continued
 -   May 29: Sonia Marin: Justification logic for modal logics on an intuitionistic base
 
 In the Autumn of 2018 PLS lunch talk are usually every other Tuesday
