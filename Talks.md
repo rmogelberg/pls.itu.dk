@@ -3,6 +3,10 @@ layout: page
 title: Talks
 ---
 
+Autumn 2019
+
+- Aug 1, 13-14 (4A54): [Guillaume Munch-Maccagnoni](https://guillaume.munch.name/): From systems programming to linear logic, and back
+
 In the Spring of 2019 PLS lunch talk are usually every other Wednesday 12-13 in 3A07
 
 -   Jan 29: No talk just discussions
