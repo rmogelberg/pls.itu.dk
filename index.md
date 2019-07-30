@@ -16,7 +16,7 @@ The PLS group conducts research in the theory of programming languages and logic
 
 ### Recent and upcoming news
 
--   [Guillaume Munch-Maccagnoni] (https://guillaume.munch.name/) visits Aug 1, 2019. Host: Sonia Marin
+-   [Guillaume Munch-Maccagnoni](https://guillaume.munch.name/) visits Aug 1, 2019. Host: Sonia Marin
 -   [Adrien Guatto](https://www.irif.fr/~guatto/) visits May 13-16, 2019. Host: Rasmus Møgelberg
 -   Dima Szamozvancev visits April 8-12, 2019. Host: Christian Graulund
 -   [Robbert Krebbers](https://robbertkrebbers.nl/) and [Fabrizio Montesi](https://www.fabriziomontesi.com/) visit March 21-22, 2019. Host: Jesper Bengtson
