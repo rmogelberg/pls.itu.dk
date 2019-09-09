@@ -9,10 +9,10 @@ Autumn 2019. This semester we meet Tuesdays 12-13 in 4A05 unless otherwise noted
 - Sep 3: No talk, just discussions
 - Sep 17: Alessandro Bruni
 - Oct 1
-- Oct 24 (Thursday), 12-13 (3A07). Jesper Bengtson.
+- Oct 24 (Thursday), 12-13 (3A07): Jesper Bengtson.
 - Nov 12: Patrick Bahr
 - Nov 26
-- Dec 10
+- Dec 10: Hugo Andres Lopez
 
 
 In the Spring of 2019 PLS lunch talk are usually every other Wednesday 12-13 in 3A07
