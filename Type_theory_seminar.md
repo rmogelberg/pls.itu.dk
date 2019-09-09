@@ -2,6 +2,15 @@
 layout: page
 title: Type theory seminar
 ---
+Fall 2019
+
+- Sep 11, 13-15 (2A18): [Orton and Pitts: Axioms for Modelling Cubical Type Theory in a Topos](https://lmcs.episciences.org/5028/pdf) (Magnus)
+- Sep 18, 13-15 (2A18): [Sterling and Spitters: Normalisation by gluing for free lambda-theories](http://www.jonmsterling.com/pdfs/gluing-note.pdf) (Andrea)
+- Sep 25, 13-15 (2A18): [Gratzer, Sterling and Birkedal: Implementing a modal dependent type theory](https://dl.acm.org/citation.cfm?id=3341711) (Patrick)
+- Oct 1, 10-12 (3A18): [Coquand, Huber and Sattler: Homotopy canonicity for cubical type theory](http://www.cse.chalmers.se/~simonhu/papers/can.pdf) (Rasmus)
+- Oct 9, 13-15 (no room):
+- Oct 23, 13-15 (3A20):
+- Oct 30, 13-15 (2A18):
 
 Spring 2019
 

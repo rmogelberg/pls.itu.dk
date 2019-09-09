@@ -3,9 +3,17 @@ layout: page
 title: Talks
 ---
 
-Autumn 2019
+Autumn 2019. This semester we meet Tuesdays 12-13 in 4A05 unless otherwise noted.
 
 - Aug 1, 13-14 (4A54): [Guillaume Munch-Maccagnoni](https://guillaume.munch.name/): From systems programming to linear logic, and back
+- Sep 3: No talk, just discussions
+- Sep 17: Alessandro Bruni
+- Oct 1
+- Oct 24 (Thursday), 12-13 (3A07). Jesper Bengtson.
+- Nov 12
+- Nov 26
+- Dec 10
+
 
 In the Spring of 2019 PLS lunch talk are usually every other Wednesday 12-13 in 3A07
 
