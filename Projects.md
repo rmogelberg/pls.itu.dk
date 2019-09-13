@@ -5,13 +5,7 @@ title: Projects
 
 ### Ongoing
 
--   [Trustworthy Democratic Technology
-    (DemTech)](http://www.demtech.dk/). PI: Carsten Schürmann, funded by
-    The Danish Council for Strategic Research. Duration: 1. July,
-    2011- 30. June 2017.
--   Guarded recursive types in the foundations of programming languages.
-    PI: Rasmus Møgelberg, funded by the Danish agency for research and
-    innovation. Duration: 2015-2018.
+-   Type Theories for Reactive Programming. PI: Rasmus Møgelberg, funded by Villum Fonden, 2016-2022.
 -   ProSec - Mapping Emergency and Security Processes in the Danish
     Energy and Public Transport Sectors and their Dependency on ICT,
     joint project between ITU, Metropol, DSB and BaneDanmark, supported
@@ -27,6 +21,13 @@ title: Projects
 
 ### Some past projects
 
+-   [Trustworthy Democratic Technology
+    (DemTech)](http://www.demtech.dk/). PI: Carsten Schürmann, funded by
+    The Danish Council for Strategic Research. Duration: 1. July,
+    2011- 30. June 2017.
+-   Guarded recursive types in the foundations of programming languages.
+    PI: Rasmus Møgelberg, funded by the Danish agency for research and
+    innovation. Duration: 2015-2018.
 -   CHOReography Driven programming and Security (CHORDS). PI: Marco
     Carbone. Steno research grant funded by the
     Danish agency for research and innovation. Duration: 2011-2013

@@ -20,8 +20,6 @@ Faculty
 Postdocs
 
 -   [Hugo A. López](http://lopezacosta.net/)
--   [Sonia Marin](http://www.lix.polytechnique.fr/Labo/Sonia.Marin/)
--   [Niccolò Veltri](https://niccoloveltri.github.io)
 -   [Andrea Vezzosi](https://saizan.github.io/)
 
 PhD students
@@ -29,6 +27,7 @@ PhD students
 -   Christian Uldal Graulund. Supervisor: Rasmus Møgelberg.
 -   Jonas Kastberg Hinrichsen. Supervisor: Jesper Bengtson
 -   Magnus Baunsgaard Kristensen. Supervisor: Rasmus Møgelberg.
+-   Frederik Madsen. Supervisor: Søren Debois
 
 Graduated PhD students
 
