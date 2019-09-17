@@ -6,6 +6,9 @@ title: Projects
 ### Ongoing
 
 -   Type Theories for Reactive Programming. PI: Rasmus Møgelberg, funded by Villum Fonden, 2016-2022.
+
+### Some past projects
+
 -   ProSec - Mapping Emergency and Security Processes in the Danish
     Energy and Public Transport Sectors and their Dependency on ICT,
     joint project between ITU, Metropol, DSB and BaneDanmark, supported
@@ -18,9 +21,6 @@ title: Projects
     Systems](http://www.behavioural-types.eu) (BETTY) EU Cost Action IC
     1201
 -   [Twelf](http://www.twelf.org)
-
-### Some past projects
-
 -   [Trustworthy Democratic Technology
     (DemTech)](http://www.demtech.dk/). PI: Carsten Schürmann, funded by
     The Danish Council for Strategic Research. Duration: 1. July,
