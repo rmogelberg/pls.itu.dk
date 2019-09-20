@@ -8,6 +8,7 @@ Autumn 2019. This semester we meet Tuesdays 12-13 in 4A05 unless otherwise noted
 - Aug 1, 13-14 (4A54): [Guillaume Munch-Maccagnoni](https://guillaume.munch.name/): From systems programming to linear logic, and back
 - Sep 3: No talk, just discussions
 - Sep 17: Talk cancelled
+- Sep 23, 10-11 (3A18): Andreas Nuyts: Dependent type theory with modalities and modes
 - Oct 1: Alessandro Bruni
 - Oct 24 (Thursday), 12-13 (3A07): Jesper Bengtson.
 - Nov 12: Patrick Bahr

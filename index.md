@@ -16,6 +16,7 @@ The PLS group conducts research in the theory of programming languages and logic
 
 ### Recent and upcoming news
 
+-   [Andreas Nuyts](https://distrinet.cs.kuleuven.be/people/andreasn) visits Sep 23-24, 2019. Host Rasmus Møgelberg
 -   [Guillaume Munch-Maccagnoni](https://guillaume.munch.name/) visits Aug 1, 2019. Host: Sonia Marin
 -   [Adrien Guatto](https://www.irif.fr/~guatto/) visits May 13-16, 2019. Host: Rasmus Møgelberg
 -   Dima Szamozvancev visits April 8-12, 2019. Host: Christian Graulund
