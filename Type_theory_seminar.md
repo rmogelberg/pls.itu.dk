@@ -13,7 +13,8 @@ Fall 2019
 - Nov 14, 14-16 (4A54): [Propositional lax logic](https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/wiai_professuren/grundlagen_informatik/papersMM/pll.pdf) (Carsten)
 - Nov 21, 14-16 (2A20): [Quantitative program reasoning with graded modal types](https://granule-project.github.io/papers/granule-paper-draft.pdf) (Patrick)
 - Nov 28, 14-16 (4A54): [The Syntax and Semantics of Quantitative Type Theory](https://bentnib.org/quantitative-type-theory.html)
-- Dec 5, 14-16 (2A20): [Towards a constructive simplicial model of Univalent Foundations](https://arxiv.org/abs/1905.06281) (Magnus)
+- Dec 5, 14-16 (2A20): Christian Sattler: Higher categorical structure in HoTT
+- Dec 12, 14-16 (2A20): [Towards a constructive simplicial model of Univalent Foundations](https://arxiv.org/abs/1905.06281) (Magnus)
 
 Spring 2019
 

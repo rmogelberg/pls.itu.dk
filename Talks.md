@@ -11,9 +11,10 @@ Autumn 2019. This semester we meet Tuesdays 12-13 in 4A05 unless otherwise noted
 - Sep 23, 10-11 (3A18): Andreas Nuyts: Dependent type theory with modalities and modes
 - Oct 1: Alessandro Bruni
 - Oct 24 (Thursday), 12-13 (3A07): Jesper Bengtson.
-- Nov 12: Patrick Bahr
-- Nov 26: Andrea Vezzosi
-- Dec 10: Hugo Andres Lopez
+- Nov 12: Patrick Bahr: Calculating Correct Compilers -- How to Implement Compilers by Proving Their Correctness First
+- Dec 4 (3A07): Andrea Vezzosi: Formalizing π-calculus in Guarded Cubical Agda
+- Dec 5, 14-15 (2A20): Christian Sattler: Higher categorical structure in HoTT
+- Dec 10 (4A05): Hugo Andres Lopez
 
 
 In the Spring of 2019 PLS lunch talk are usually every other Wednesday 12-13 in 3A07
