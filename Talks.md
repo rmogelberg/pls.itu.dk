@@ -3,6 +3,20 @@ layout: page
 title: Talks
 ---
 
+
+Spring 2020. This semester we meet Tuesdays 12-13 in 3A08 unless otherwise noted.
+
+- Feb 4, (5A09): Marco Carbone
+- Feb 18 (2A08)
+- Mar 17
+- Mar 24: Søren Debois
+- Apr 7:
+- Apr 21:
+- May 5:
+- May 19:
+- June 2:
+- June 16:
+
 Autumn 2019. This semester we meet Tuesdays 12-13 in 4A05 unless otherwise noted.
 
 - Aug 1, 13-14 (4A54): [Guillaume Munch-Maccagnoni](https://guillaume.munch.name/): From systems programming to linear logic, and back
