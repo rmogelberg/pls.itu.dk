@@ -6,7 +6,7 @@ title: Talks
 
 Spring 2020. This semester we meet Tuesdays 12-13 in 3A08 unless otherwise noted.
 
-- Feb 4, (5A09): Marco Carbone
+- Feb 4, (5A09): Marco Carbone: Towards a Logic of Forwarders
 - Feb 18 (2A08)
 - Mar 17
 - Mar 24: Søren Debois
