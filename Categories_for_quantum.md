@@ -2,7 +2,7 @@
 layout: page
 title: Categories for Quantum Theory
 ---
-This is a PhD course for the Spring 2020 organised by [Rasmus Ejlers Møgelberg](http://www.itu.dk/people/mogel) and Radu-Cristian Curticapean. Interested students should contact Rasmus for further information on the course, including how to register.
+This is a PhD course for the Spring 2020 organised by [Rasmus Ejlers Møgelberg](http://www.itu.dk/people/mogel), Radu-Cristian Curticapean, and Michael Kastoryano. Interested students should contact Rasmus for further information on the course, including how to register.
 
 ### Description
 
