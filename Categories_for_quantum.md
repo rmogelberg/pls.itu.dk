@@ -14,6 +14,8 @@ We use the book [Categories for Quantum Theory](https://global.oup.com/academic/
 
 ### Schedule
 
+We will meet once a week for two hours starting the week of March 9 for roughly 10 weeks. The tentative schedule is as follows.
+
 - Week 1: Introduction, basics of category theory, hilbert spaces and quantum information
 - Week 2: Monoidal Categories
 - Week 3: Linear structure
