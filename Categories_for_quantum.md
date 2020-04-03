@@ -32,3 +32,7 @@ We will meet every Wednesday 12-14 in Auditorium 1 at ITU starting March 11, 202
 - May 13: Complete positivity
 - May 20: Complete positivity (ctd)
 - May 27: Monoidal 2-categories
+
+### Mandatory exercises
+
+- Exercise 1, due April 17: Do the following exercises from the book: 1.6, 2.2, and 3.3.
