@@ -14,6 +14,9 @@ The course has been approved for 5ECTS credit by the ITU PhD council. To obtain 
 
 We use the book [Categories for Quantum Theory](https://global.oup.com/academic/product/categories-for-quantum-theory-9780198739616?cc=dk&lang=en&) by Chris Heunen and Jamie Vicary.
 
+Supplementary material:
+- a [note](public/files/teleportation.pdf) on quantum teleportation by Robin Kaarsgaard
+
 ### Schedule
 
 We will meet every Wednesday 12-14 in Auditorium 1 at ITU starting March 11, 2020. The tentative schedule is as follows.
@@ -23,8 +26,9 @@ We will meet every Wednesday 12-14 in Auditorium 1 at ITU starting March 11, 202
 - March 25 (Robin): Linear structure
 - April 1: Dual objects
 - April 15 (Mikkel): Monoids and comonoids
-- April 22 (Magnus): Frobenious structure
-- April 29 (Radu): Complementarity
-- May 6: Complete positivity
-- May 13: Complete positivity (ctd)
-- May 20: Monoidal 2-categories
+- April 22 (Magnus): Frobenious structure (sec 5.1-5.3)
+- April 29: Frobenious structure (sec 5.4-5.6)
+- May 6 (Radu): Complementarity
+- May 13: Complete positivity
+- May 20: Complete positivity (ctd)
+- May 27: Monoidal 2-categories
