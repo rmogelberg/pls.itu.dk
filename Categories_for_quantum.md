@@ -24,7 +24,7 @@ We will meet every Wednesday 12-14 in Auditorium 1 at ITU starting March 11, 202
 - March 11 (Rasmus and Michael): Introduction, basics of category theory, hilbert spaces and quantum information
 - March 18 (Christian): Monoidal Categories
 - March 25 (Robin): Linear structure
-- April 1: Dual objects
+- April 1 (Andrea): Dual objects
 - April 15 (Mikkel): Monoids and comonoids
 - April 22 (Magnus): Frobenious structure (sec 5.1-5.3)
 - April 29 (Rasmus): Frobenious structure (sec 5.4-5.6)
