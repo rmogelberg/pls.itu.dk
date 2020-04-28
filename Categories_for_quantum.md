@@ -27,9 +27,9 @@ We will meet every Wednesday 12-14 in Auditorium 1 at ITU starting March 11, 202
 - April 1: Dual objects
 - April 15 (Mikkel): Monoids and comonoids
 - April 22 (Magnus): Frobenious structure (sec 5.1-5.3)
-- April 29: Frobenious structure (sec 5.4-5.6)
+- April 29 (Rasmus): Frobenious structure (sec 5.4-5.6)
 - May 6 (Radu): Complementarity
-- May 13: Complete positivity
+- May 13 (Robin): Complete positivity
 - May 20: Complete positivity (ctd)
 - May 27: Monoidal 2-categories
 
