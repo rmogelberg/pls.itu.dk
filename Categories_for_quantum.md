@@ -37,3 +37,4 @@ We will meet every Wednesday 12-14 in Auditorium 1 at ITU starting March 11, 202
 
 - Exercise 1, due April 17: Do the following exercises from the book: 1.6, 2.2, and 3.3.
 - Exercise 2, due May 10: Do the following exercises from the book: 4.3, 5.3 and 5.7. In 5.7.(b,c) describe the disconnected dagger Frobenius structures.
+- Exercise 3, due June 2: Do the following from the book: 6.1, 7.3, 7.10.
