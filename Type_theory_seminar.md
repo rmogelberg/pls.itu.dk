@@ -2,6 +2,20 @@
 layout: page
 title: Type theory seminar
 ---
+Fall 2020
+
+- Independence results in sheaf Theory
+- [Coquand, Mannaa and Ruch: Stack semantics of type theory](https://arxiv.org/abs/1701.02571)
+- [Coquand, Ruch and Sattler: Constructive sheaf models of type theory](https://arxiv.org/abs/1912.10407)
+- [Licata and Weaver: A Constructive Model of Directed Univalence in Bicubical Sets](https://dl.acm.org/doi/abs/10.1145/3373718.3394794)?
+- [Hofmann: Semantical Analysis of Higher-Order Abstract Syntax](https://dl.acm.org/doi/10.5555/788021.788940)
+- [Pientka et al: Cocon: Computation in Contextual Type Theory](https://arxiv.org/pdf/1901.03378.pdf)
+- [Pientka and Schöpp: Semantical Analysis of Contextual Types](https://ulrichschoepp.de/Docs/sem_ctx.pdf)
+- [Plotkin and Power: Notions of Computation Determine Monads](http://homepages.inf.ed.ac.uk/gdp/publications/Comp_Eff_Monads.pdf)
+- [Bauer and Pretnar: Programming with Algebraic Effects and Handlers](http://math.andrej.com/wp-content/uploads/2012/03/eff.pdf)
+- [Ahman, Ghani and Plotkin. Dependent Types and Fibred Computational Effects](https://danel.ahman.ee/papers/fossacs16.pdf)
+- [Fu, Kishida and Selinger: Linear Dependent Type Theory for QuantumProgramming Languages](https://arxiv.org/pdf/2004.13472.pdf)
+
 Fall 2019
 
 - Sep 11, 13-15 (2A18): [Orton and Pitts: Axioms for Modelling Cubical Type Theory in a Topos](https://lmcs.episciences.org/5028/pdf) (Magnus)
