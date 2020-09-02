@@ -4,7 +4,7 @@ title: Type theory seminar
 ---
 Fall 2020
 
-- Independence results in sheaf Theory
+- [Severin Mejak: Topos models of set-theoretic principles](https://www.researchgate.net/publication/334737639_TOPOS_MODELS_OF_SET-THEORETIC_PRINCIPLES) (Severin)
 - [Coquand, Mannaa and Ruch: Stack semantics of type theory](https://arxiv.org/abs/1701.02571)
 - [Coquand, Ruch and Sattler: Constructive sheaf models of type theory](https://arxiv.org/abs/1912.10407)
 - [Licata and Weaver: A Constructive Model of Directed Univalence in Bicubical Sets](https://dl.acm.org/doi/abs/10.1145/3373718.3394794)?
