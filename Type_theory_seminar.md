@@ -5,7 +5,7 @@ title: Type theory seminar
 Fall 2020
 
 - Sept 8: [Severin Mejak: Topos models of set-theoretic principles](https://www.researchgate.net/publication/334737639_TOPOS_MODELS_OF_SET-THEORETIC_PRINCIPLES) (Severin)
-- Sept 22: [Coquand, Mannaa and Ruch: Stack semantics of type theory](https://arxiv.org/abs/1701.02571)(Magnus)
+- Sept 22: [Coquand, Mannaa and Ruch: Stack semantics of type theory](https://arxiv.org/abs/1701.02571) (Magnus)
 - Sept 29: [Coquand, Ruch and Sattler: Constructive sheaf models of type theory](https://arxiv.org/abs/1912.10407) (Magnus)
 - Oct 6: [Licata and Weaver: A Constructive Model of Directed Univalence in Bicubical Sets](https://dl.acm.org/doi/abs/10.1145/3373718.3394794)?
 - Oct 20: [Hofmann: Semantical Analysis of Higher-Order Abstract Syntax](https://dl.acm.org/doi/10.5555/788021.788940) (Andrea)
