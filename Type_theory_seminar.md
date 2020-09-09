@@ -6,14 +6,14 @@ Fall 2020
 
 - Sept 8: [Severin Mejak: Topos models of set-theoretic principles](https://www.researchgate.net/publication/334737639_TOPOS_MODELS_OF_SET-THEORETIC_PRINCIPLES) (Severin)
 - Sept 22: [Coquand, Mannaa and Ruch: Stack semantics of type theory](https://arxiv.org/abs/1701.02571)(Magnus)
-- Sept 29: [Coquand, Ruch and Sattler: Constructive sheaf models of type theory](https://arxiv.org/abs/1912.10407)(Magnus)
+- Sept 29: [Coquand, Ruch and Sattler: Constructive sheaf models of type theory](https://arxiv.org/abs/1912.10407) (Magnus)
 - Oct 6: [Licata and Weaver: A Constructive Model of Directed Univalence in Bicubical Sets](https://dl.acm.org/doi/abs/10.1145/3373718.3394794)?
-- Oct 20: [Hofmann: Semantical Analysis of Higher-Order Abstract Syntax](https://dl.acm.org/doi/10.5555/788021.788940)
-- Oct 27: [Pientka et al: Cocon: Computation in Contextual Type Theory](https://arxiv.org/pdf/1901.03378.pdf)
-- Nov 3: [Pientka and Schöpp: Semantical Analysis of Contextual Types](https://ulrichschoepp.de/Docs/sem_ctx.pdf)
-- Nov 10: [Plotkin and Power: Notions of Computation Determine Monads](http://homepages.inf.ed.ac.uk/gdp/publications/Comp_Eff_Monads.pdf)
-- Nov 17: [Bauer and Pretnar: Programming with Algebraic Effects and Handlers](http://math.andrej.com/wp-content/uploads/2012/03/eff.pdf)(Patrick)
-- Nov 24: [Ahman, Ghani and Plotkin. Dependent Types and Fibred Computational Effects](https://danel.ahman.ee/papers/fossacs16.pdf)
+- Oct 20: [Hofmann: Semantical Analysis of Higher-Order Abstract Syntax](https://dl.acm.org/doi/10.5555/788021.788940) (Andrea)
+- Oct 27: [Pientka et al: Cocon: Computation in Contextual Type Theory](https://arxiv.org/pdf/1901.03378.pdf) (Carsten)
+- Nov 3: [Pientka and Schöpp: Semantical Analysis of Contextual Types](https://ulrichschoepp.de/Docs/sem_ctx.pdf) (Andrea)
+- Nov 10: [Plotkin and Power: Notions of Computation Determine Monads](http://homepages.inf.ed.ac.uk/gdp/publications/Comp_Eff_Monads.pdf) (Rasmus)
+- Nov 17: [Bauer and Pretnar: Programming with Algebraic Effects and Handlers](http://math.andrej.com/wp-content/uploads/2012/03/eff.pdf) (Patrick)
+- Nov 24: [Ahman, Ghani and Plotkin. Dependent Types and Fibred Computational Effects](https://danel.ahman.ee/papers/fossacs16.pdf) (Rasmus)
 - Dec 1: [Fu, Kishida and Selinger: Linear Dependent Type Theory for QuantumProgramming Languages](https://arxiv.org/pdf/2004.13472.pdf) ?
 
 Fall 2019
