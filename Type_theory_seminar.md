@@ -14,7 +14,7 @@ Fall 2020
 - Nov 10: [Plotkin and Power: Notions of Computation Determine Monads](http://homepages.inf.ed.ac.uk/gdp/publications/Comp_Eff_Monads.pdf) (Rasmus)
 - Nov 17: [Bauer and Pretnar: Programming with Algebraic Effects and Handlers](http://math.andrej.com/wp-content/uploads/2012/03/eff.pdf) (Patrick)
 - Nov 24: [Ahman, Ghani and Plotkin. Dependent Types and Fibred Computational Effects](https://danel.ahman.ee/papers/fossacs16.pdf) (Rasmus)
-- Dec 1: [Fu, Kishida and Selinger: Linear Dependent Type Theory for QuantumProgramming Languages](https://arxiv.org/pdf/2004.13472.pdf) (?)
+- Dec 1: [Fu, Kishida and Selinger: Linear Dependent Type Theory for Quantum Programming Languages](https://arxiv.org/pdf/2004.13472.pdf) (?)
 
 Fall 2019
 
