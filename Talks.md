@@ -4,9 +4,9 @@ title: Talks
 ---
 
 Autumn 2020.
-- Oct 6: Marco Carbone
-- Oct 20: Jonas Kastberg Hinrichsen
-- Nov 3: Christian Uldal Graulund
+- Oct 6 (2A08, 1230-1330): Marco Carbone
+- Oct 20 (2A08, 1230-1330): Jonas Kastberg Hinrichsen
+- Nov 5 (3A08, 12-13): Christian Uldal Graulund
 
 Spring 2020. This semester we meet Tuesdays 12-13 in 3A08 unless otherwise noted.
 
