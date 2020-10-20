@@ -4,8 +4,8 @@ title: Talks
 ---
 
 Autumn 2020.
-- Oct 6 (2A08, 1230-1330): Marco Carbone
-- Oct 20 (2A08, 1230-1330): Jonas Kastberg Hinrichsen
+- Oct 6 (Zoom, 1230-1330): Marco Carbone:  A Characterisation of Coherence as Linear Logic Proofs
+- Oct 20 (Zoom, 13-14): Jonas Kastberg Hinrichsen: Mechanising Type Systems using Semantic Typing
 - Nov 5 (3A08, 12-13): Christian Uldal Graulund
 
 Spring 2020. This semester we meet Tuesdays 12-13 in 3A08 unless otherwise noted.
