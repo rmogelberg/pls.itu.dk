@@ -7,6 +7,7 @@ Autumn 2020.
 - Oct 6 (Zoom, 1230-1330): Marco Carbone:  A Characterisation of Coherence as Linear Logic Proofs
 - Oct 20 (Zoom, 13-14): Jonas Kastberg Hinrichsen: Mechanising Type Systems using Semantic Typing
 - Nov 5 (3A08, 12-13): Christian Uldal Graulund
+- Nov 17, 1230-1330: Willard Rafnsson
 
 Spring 2020. This semester we meet Tuesdays 12-13 in 3A08 unless otherwise noted.
 
