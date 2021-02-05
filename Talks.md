@@ -3,6 +3,11 @@ layout: page
 title: Talks
 ---
 
+Spring 2021.
+- Feb 12 (12-13). No talk, Catch-up Meeting
+- Feb 26 (12-13). Magnus Baunsgaard Kristensen
+
+
 Autumn 2020.
 - Oct 6 (Zoom, 1230-1330): Marco Carbone:  A Characterisation of Coherence as Linear Logic Proofs
 - Oct 20 (Zoom, 13-14): Jonas Kastberg Hinrichsen: Mechanising Type Systems using Semantic Typing
