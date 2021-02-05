@@ -3,7 +3,7 @@ layout: page
 title: Talks
 ---
 
-Spring 2021.
+Spring 2021. We meet Fridays 12-13. For the time being meetings are virtual.
 - Feb 12 (12-13). No talk, catch-up meeting
 - Feb 26 (12-13). Magnus Baunsgaard Kristensen
 
