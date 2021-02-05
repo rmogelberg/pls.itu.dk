@@ -4,7 +4,7 @@ title: Talks
 ---
 
 Spring 2021.
-- Feb 12 (12-13). No talk, Catch-up Meeting
+- Feb 12 (12-13). No talk, catch-up meeting
 - Feb 26 (12-13). Magnus Baunsgaard Kristensen
 
 
