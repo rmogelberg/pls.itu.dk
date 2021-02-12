@@ -19,11 +19,11 @@ Faculty
 
 Postdocs
 
--   [Hugo A. López](http://lopezacosta.net/)
 -   [Andrea Vezzosi](https://saizan.github.io/)
 
 PhD students
 
+-   Ieva Daukantas. Supervisors: Alessandro Bruni, Louise Barkhuus, and Carsten Schürmann
 -   Christian Uldal Graulund. Supervisor: Rasmus Møgelberg.
 -   Jonas Kastberg Hinrichsen. Supervisor: Jesper Bengtson
 -   Magnus Baunsgaard Kristensen. Supervisor: Rasmus Møgelberg.
