@@ -6,7 +6,8 @@ title: Talks
 Spring 2021. We meet Fridays 12-13. For the time being meetings are virtual. Invitation will appear in calendars. If you would like to attend or give a talk, email Rasmus.
 - Feb 12 (12-13). No talk, catch-up meeting
 - Feb 26 (12-13). Magnus Baunsgaard Kristensen
-- March 12: Reserved
+- March 12: Christian Uldal Graulund PhD defence at 13.
+- March 19: Willard Rafnsson
 - March 26: Alceste Scalas
 
 
