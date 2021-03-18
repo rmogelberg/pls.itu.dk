@@ -9,6 +9,7 @@ Spring 2021. We meet Fridays 12-13. For the time being meetings are virtual. Inv
 - March 12: Christian Uldal Graulund PhD defence at 13.
 - March 19: Willard Rafnsson
 - March 26: Alceste Scalas
+- April 9: Maaike Zwart
 
 
 Autumn 2020.
