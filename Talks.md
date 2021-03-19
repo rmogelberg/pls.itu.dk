@@ -8,7 +8,7 @@ Spring 2021. We meet Fridays 12-13. For the time being meetings are virtual. Inv
 - Feb 26 (12-13). Magnus Baunsgaard Kristensen
 - March 12: Christian Uldal Graulund PhD defence at 13.
 - March 19: Willard Rafnsson
-- March 26: Alceste Scalas
+- March 26: Alceste Scalas: Effpi: Verified Message-Passing Programs in Scala 3
 - April 9: Maaike Zwart
 
 
