@@ -11,6 +11,7 @@ Spring 2021. We meet Fridays 12-13. For the time being meetings are virtual. Inv
 - March 26: Alceste Scalas: Effpi: Verified Message-Passing Programs in Scala 3
 - April 9: Maaike Zwart
 - April 16: Alex Kavvos (Bristol)
+- April 23: Rasmus Møgelberg
 - June 4: Maja Hanne Kirkeby (RUC)
 
 
