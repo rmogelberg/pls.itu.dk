@@ -20,6 +20,6 @@ The PLS group conducts research in the theory of programming languages and logic
 - Dawit Tirore joins PLS as PhD student, Oct 2021.
 - [Antoine van Muylder](https://antoinevanmuylder.github.io/) visits PLS, Sept - Nov 2021. Host: Andrea Vezzosi.
 - Maaike Zwart joins PLS as postdoc Sept 1, 2021.
-- Frederik Haagensen joins PLS as a PhD student. 
+- Frederik Haagensen joins PLS as a PhD student, July 2021. 
 
 [Past news](Past_news.html)
