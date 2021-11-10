@@ -14,7 +14,7 @@ Faculty
 -   [Rasmus Ejlers Møgelberg](http://www.itu.dk/people/mogel), research
     interests: denotational semantics, category theory, type theory,
     computational effects, guarded recursion
--   [Willard Rafnsson](http://research.precise.li/)
+-   [Willard Rafnsson](https://www.willardthor.com/)
 -   [Carsten Schürmann](http://www.itu.dk/people/carsten)
 
 Postdocs
