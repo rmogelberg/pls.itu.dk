@@ -20,7 +20,7 @@ Faculty
 Postdocs
 
 -   [Andrea Vezzosi](https://saizan.github.io/)
-- Maaike Zwart
+- [Maaike Zwart](https://maaikezwart.com/)
 
 PhD students
 

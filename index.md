@@ -16,10 +16,12 @@ The PLS group conducts research in the theory of programming languages and logic
 
 ### Recent and upcoming news
 
+- [Patricia Johann](https://cs.appstate.edu/~johannp/) visits Dec 13-15, 2021. Hosts: Rasmus Møgelberg and Carsten Schürmann.
 - [Niccolo Veltri](https://niccoloveltri.github.io/) visits PLS, Dec 6-10, 2021. Hosts: Rasmus Møgelberg and Andrea Vezzosi.
 - Dawit Tirore joins PLS as PhD student, Oct 2021.
 - [Antoine van Muylder](https://antoinevanmuylder.github.io/) visits PLS, Sept - Nov 2021. Host: Andrea Vezzosi.
-- Maaike Zwart joins PLS as postdoc Sept 1, 2021.
-- Frederik Haagensen joins PLS as a PhD student, July 2021. 
+- [Maaike Zwart](https://maaikezwart.com/) joins PLS as postdoc Sept 1, 2021.
+- Frederik Haagensen joins PLS as a PhD student, July 2021.
+- Christian Uldal Graulund graduates his PhD, Feb 12, 2021. The committee consisted of [Andreas Abel](https://www.cse.chalmers.se/~abela/), [Bob Atkey](https://www.strath.ac.uk/staff/atkeyrobertdr/), Carsten Schürmann
 
 [Past news](Past_news.html)
