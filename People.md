@@ -5,7 +5,7 @@ title: People
 
 Faculty
 
--   [Patrick Bahr](http://www.itu.dk/people/paba/)
+-   [Patrick Bahr](https://bahr.io/)
 -   [Alessandro Bruni](http://alessandrobruni.name/)
 -   [Jesper Bengtson](http://www.itu.dk/people/jebe)
 -   [Marco Carbone](http://www.itu.dk/people/maca)
