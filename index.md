@@ -16,26 +16,10 @@ The PLS group conducts research in the theory of programming languages and logic
 
 ### Recent and upcoming news
 
--   Christian Sattler visits Dec 2-6, 2019. Host: Andrea Vezzosi
--   [Andreas Nuyts](https://distrinet.cs.kuleuven.be/people/andreasn) visits Sep 23-24, 2019. Host Rasmus Møgelberg
--   [Guillaume Munch-Maccagnoni](https://guillaume.munch.name/) visits Aug 1, 2019. Host: Sonia Marin
--   [Adrien Guatto](https://www.irif.fr/~guatto/) visits May 13-16, 2019. Host: Rasmus Møgelberg
--   Dima Szamozvancev visits April 8-12, 2019. Host: Christian Graulund
--   [Robbert Krebbers](https://robbertkrebbers.nl/) and [Fabrizio Montesi](https://www.fabriziomontesi.com/) visit March 21-22, 2019. Host: Jesper Bengtson
--   [Andrea Vezzosi](http://www.cse.chalmers.se/~vezzosi/) joins PLS as a postdoc, Feb 2019
--   Magnus Baunsgaard Kristensen joins PLS as a PhD student, Feb 2019
--   [Andrea Vezzosi](http://www.cse.chalmers.se/~vezzosi/) visits PLS,
-    23-26 Oct, 2018. Host: Rasmus Møgelberg
--   [Jorge Perez](https://sites.google.com/view/japerezp/) visits PLS,
-    25-26 June, 2018. Host: Agata Murawska and Marco Carbone
--   [Graham Hutton](http://www.cs.nott.ac.uk/~pszgmh/) visits PLS, 13-15
-    June, 2018. Host: Patrick Bahr
--   [Willard Rafnsson](http://research.precise.li/) joins PLS as an
-    assistant professor, May 2018.
--   [Yves Bertot](http://www-sop.inria.fr/members/Yves.Bertot/) visits
-    PLS April 9-10, 2018. Host: Jesper Bengtson
--   Prof. [Nobuko
-    Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/) and her PhD
-    student, Eva Graversen visit PLS 5-12 March 2018. Host: Marco Carbone
+- [Niccolo Veltri](https://niccoloveltri.github.io/) visits PLS, Dec 6-10, 2021. Hosts: Rasmus Møgelberg and Andrea Vezzosi.
+- Dawit Tirore joins PLS as PhD student, Oct 2021.
+- [Antoine van Muylder](https://antoinevanmuylder.github.io/) visits PLS, Sept - Nov 2021. Host: Andrea Vezzosi.
+- Maaike Zwart joins PLS as postdoc Sept 1, 2021.
+- Frederik Haagensen joins PLS as a PhD student. 
 
 [Past news](Past_news.html)

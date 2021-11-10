@@ -20,17 +20,20 @@ Faculty
 Postdocs
 
 -   [Andrea Vezzosi](https://saizan.github.io/)
+- Maaike Zwart
 
 PhD students
 
 -   Ieva Daukantas. Supervisors: Alessandro Bruni, Louise Barkhuus, and Carsten Schürmann
--   Christian Uldal Graulund. Supervisor: Rasmus Møgelberg.
--   Jonas Kastberg Hinrichsen. Supervisor: Jesper Bengtson
+- Frederik Haagensen. Supervisor: Søren Debois
 -   Magnus Baunsgaard Kristensen. Supervisor: Rasmus Møgelberg.
 -   Frederik Madsen. Supervisor: Søren Debois
+- Dawit Tirore. Supervisors: Marco Carbone and Jesper Bengtson
 
 Graduated PhD students
 
+-   Christian Uldal Graulund. Supervisor: Rasmus Møgelberg.
+-   Jonas Kastberg Hinrichsen. Supervisor: Jesper Bengtson
 -   [Håkon Norman](http://itu.dk/people/hnor). Supervisor: Thomas
     Hildebrandt.
 -   [Agata Murawska](http://www.itu.dk/people/agmu)
