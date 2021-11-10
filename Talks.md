@@ -3,6 +3,12 @@ layout: page
 title: Talks
 ---
 
+Autumn 2021. We meet Tuesdays 12-13.
+- Sept 10: Patrick Bahr
+- Sept 24: Jesper Bengtson
+- Oct 5: Antoine van Muylder
+- Nov 16: Dawit Tiore
+
 Spring 2021. We meet Fridays 12-13. For the time being meetings are virtual. Invitation will appear in calendars. If you would like to attend or give a talk, email Rasmus.
 - Feb 12 (12-13). No talk, catch-up meeting
 - Feb 26 (12-13). Magnus Baunsgaard Kristensen
@@ -12,7 +18,7 @@ Spring 2021. We meet Fridays 12-13. For the time being meetings are virtual. Inv
 - April 9: Maaike Zwart
 - April 16: Alex Kavvos (Bristol)
 - April 23: Rasmus Møgelberg
-- May 28: Louis Parlant 
+- May 28: Louis Parlant
 - June 4: Maja Hanne Kirkeby (RUC)
 
 
