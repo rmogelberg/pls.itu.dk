@@ -8,6 +8,9 @@ Autumn 2021. We meet Tuesdays 12-13.
 - Sept 24: Jesper Bengtson
 - Oct 5: Antoine van Muylder
 - Nov 16: Dawit Tiore
+- Nov 30: Rasmus Lerchedahl Petersen (GitHub)
+- Dec 7 (at 13): Niccolò Veltri (Tallinn)
+- Dec 14: Patricia Johann (Appalachian State University)
 
 Spring 2021. We meet Fridays 12-13. For the time being meetings are virtual. Invitation will appear in calendars. If you would like to attend or give a talk, email Rasmus.
 - Feb 12 (12-13). No talk, catch-up meeting
