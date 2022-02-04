@@ -2,13 +2,17 @@
 layout: page
 title: Talks
 ---
+Spring 2022. We meet Tuesdays 12-13
+- Feb 11: Rasmus Lerchedahl Petersen (GitHub): Static analysis at GitHub Scale
+- Feb 15: Jonas Kastberg Hinrichsen (Aarhus)
+
 
 Autumn 2021. We meet Tuesdays 12-13.
 - Sept 10: Patrick Bahr
 - Sept 24: Jesper Bengtson
 - Oct 5: Antoine van Muylder
 - Nov 16: Dawit Tiore
-- Nov 30: Rasmus Lerchedahl Petersen (GitHub)
+- Nov 30: Rasmus Lerchedahl Petersen (GitHub)(Cancelled)
 - Dec 7 (at 13): Niccolò Veltri (Tallinn)
 - Dec 14: Patricia Johann (Appalachian State University)
 
