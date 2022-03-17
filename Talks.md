@@ -10,6 +10,7 @@ Spring 2022. We meet Tuesdays 12-13
 - March 31: Alejandro Aguirre (Aarhus)
 - April 26: Tarmo Uustalu (Reykjavik) (over Zoom)
 - May 10: Leon Gondelman (Aarhus)
+- May 17: Reserved
 
 
 Autumn 2021. We meet Tuesdays 12-13.
