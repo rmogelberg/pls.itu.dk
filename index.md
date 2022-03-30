@@ -16,7 +16,7 @@ The PLS group conducts research in the theory of programming languages and logic
 
 ### Recent and upcoming news
 
-- Alejandro Aguirre visits March 31-April 1. Host: Rasmus Møgelberg
+- Alejandro Aguirre visits April 7-8. Host: Rasmus Møgelberg
 - [Patricia Johann](https://cs.appstate.edu/~johannp/) visits Dec 13-15, 2021. Hosts: Rasmus Møgelberg and Carsten Schürmann.
 - [Niccolo Veltri](https://niccoloveltri.github.io/) visits PLS, Dec 6-10, 2021. Hosts: Rasmus Møgelberg and Andrea Vezzosi.
 - Dawit Tirore joins PLS as PhD student, Oct 2021.

@@ -7,7 +7,7 @@ Spring 2022. We meet Tuesdays 12-13
 - Feb 15: Jonas Kastberg Hinrichsen (Aarhus) (cancelled)
 - March 15: Carsten Schürmann
 - March 29: Mikkel Kragh Mathiesen (DIKU)
-- March 31: Alejandro Aguirre (Aarhus)
+- April 7: Alejandro Aguirre (Aarhus)
 - April 26: Tarmo Uustalu (Reykjavik) (over Zoom)
 - May 10: Leon Gondelman (Aarhus)
 
