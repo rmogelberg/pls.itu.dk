@@ -9,7 +9,6 @@ Spring 2022. We meet Tuesdays 12-13
 - March 29: Mikkel Kragh Mathiesen (DIKU)
 - April 7: Alejandro Aguirre (Aarhus)
 - April 26: Tarmo Uustalu (Reykjavik) (over Zoom)
-- May 10: Leon Gondelman (Aarhus)
 
 
 Autumn 2021. We meet Tuesdays 12-13.
