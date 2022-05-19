@@ -10,7 +10,7 @@ Spring 2022. We meet Tuesdays 12-13
 - April 7: Alejandro Aguirre (Aarhus)
 - April 26: Tarmo Uustalu (Reykjavik) (over Zoom)
 - May 18: Tim Steenvoorden (Open University the Netherlands)
-- June 7: Philip Munkgaard (DIKU)
+- June 7: Philip Munksgaard (DIKU)
 - June 13: Sebastian Mödersheim (DTU). Joint PLS/CISAT talk
 
 
