@@ -12,7 +12,7 @@ Spring 2022. We meet Tuesdays 12-13
 - May 18: Tim Steenvoorden (Open University the Netherlands)
 - May 25: Christoph Matheja (DTU). Joint PLS/Square talk.
 - June 7: Philip Munksgaard (DIKU)
-- June 13: Sebastian Mödersheim (DTU). Joint PLS/CISAT talk
+- June 17: Sebastian Mödersheim (DTU). Joint PLS/CISAT talk
 
 
 
