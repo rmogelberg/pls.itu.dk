@@ -5,7 +5,8 @@ title: Projects
 
 ### Ongoing
 
--  Algebraic Effects and Guarded Recursion. PI: Rasmus Møgelberg, funded by DFF, 2022-2025.
+-  Algebraic Effects and Guarded Recursion. PI: Rasmus Møgelberg, funded by the Independent Research Fund Denmark, 2022-2025.
+-  Practical Static Analysis for Information-Flow Control of JavaScript. PI: Willard Rafnsson, funded by Danish Hub for Cybersecurity (Cyber Hub, now Digital Lead). Duration: 1. July 2022 - 30. June 2023.
 
 ### Some past projects
 

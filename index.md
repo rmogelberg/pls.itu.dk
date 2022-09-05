@@ -17,6 +17,7 @@ The PLS group conducts research in the theory of programming languages and logic
 ### Recent and upcoming news
 
 - Philip Stassen visits Sept 12-16, 2022. Host: Rasmus Møgelberg
+- Danish Hub for Cybersecurity (Cyber Hub, now Digital Lead) funds the project Practical Static Analysis for Information-Flow Control of JavaScript. PI: Willard Rafnsson. Duration: 1. July 2022 - 30. June 2023.
 - The Independent Research Fund Denmark funds the project "Algebraic Effects and Guarded Recursion". The project will fund one postdoc for 3 years. PI: Rasmus Møgelberg
 - Magnus Baunsgaard Kristensen graduates his PhD, June 15, 2022. The committee consists of [Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/), [Bas Spitters](https://users-cs.au.dk/spitters/) and Carsten Schürmann.
 - Alejandro Aguirre visits April 7-8. Host: Rasmus Møgelberg
