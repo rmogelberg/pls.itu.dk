@@ -5,10 +5,11 @@ title: Projects
 
 ### Ongoing
 
--   Type Theories for Reactive Programming. PI: Rasmus Møgelberg, funded by Villum Fonden, 2016-2022.
+-  Algebraic Effects and Guarded Recursion. PI: Rasmus Møgelberg, funded by DFF, 2022-2025.
 
 ### Some past projects
 
+-   Type Theories for Reactive Programming. PI: Rasmus Møgelberg, funded by Villum Fonden, 2016-2022.
 -   ProSec - Mapping Emergency and Security Processes in the Danish
     Energy and Public Transport Sectors and their Dependency on ICT,
     joint project between ITU, Metropol, DSB and BaneDanmark, supported
