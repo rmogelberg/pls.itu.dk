@@ -17,7 +17,7 @@ The PLS group conducts research in the theory of programming languages and logic
 ### Recent and upcoming news
 
 - Philip Stassen visits Sept 12-16, 2022. Host: Rasmus Møgelberg
-- The Independent Research Fund Denmark funds the project "Algebraic Effects and Guarded Recursion". The project will fund one postdoc for 3 years. PI Rasmus Møgelberg
+- The Independent Research Fund Denmark funds the project "Algebraic Effects and Guarded Recursion". The project will fund one postdoc for 3 years. PI: Rasmus Møgelberg
 - Magnus Baunsgaard Kristensen graduates his PhD, June 15, 2022. The committee consists of [Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/), [Bas Spitters](https://users-cs.au.dk/spitters/) and Carsten Schürmann.
 - Alejandro Aguirre visits April 7-8. Host: Rasmus Møgelberg
 - [Patricia Johann](https://cs.appstate.edu/~johannp/) visits Dec 13-15, 2021. Hosts: Rasmus Møgelberg and Carsten Schürmann.
