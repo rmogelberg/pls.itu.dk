@@ -24,14 +24,14 @@ Postdocs
 
 PhD students
 
--   Ieva Daukantas. Supervisors: Alessandro Bruni, Louise Barkhuus, and Carsten Schürmann
+- Ieva Daukantas. Supervisors: Alessandro Bruni, Louise Barkhuus, and Carsten Schürmann
 - Frederik Haagensen. Supervisor: Søren Debois
--   Magnus Baunsgaard Kristensen. Supervisor: Rasmus Møgelberg.
--   Frederik Madsen. Supervisor: Søren Debois
+- Frederik Madsen. Supervisor: Søren Debois
 - Dawit Tirore. Supervisors: Marco Carbone and Jesper Bengtson
 
 Graduated PhD students
 
+-   Magnus Baunsgaard Kristensen. Supervisor: Rasmus Møgelberg.
 -   Christian Uldal Graulund. Supervisor: Rasmus Møgelberg.
 -   Jonas Kastberg Hinrichsen. Supervisor: Jesper Bengtson
 -   [Håkon Norman](http://itu.dk/people/hnor). Supervisor: Thomas
