@@ -2,6 +2,9 @@
 layout: page
 title: Talks
 ---
+Autumn 2022. We meet Tuesdays 12-13
+- Sept 5: Frederik Haagensen: Incentive Alignment through Secure Computations
+
 Spring 2022. We meet Tuesdays 12-13
 - Feb 11: Rasmus Lerchedahl Petersen (GitHub): Static analysis at GitHub Scale
 - Feb 15: Jonas Kastberg Hinrichsen (Aarhus) (cancelled)
@@ -13,8 +16,6 @@ Spring 2022. We meet Tuesdays 12-13
 - May 25: Christoph Matheja (DTU). Joint PLS/Square talk.
 - June 7: Philip Munksgaard (DIKU)
 - June 17: Sebastian Mödersheim (DTU). Joint PLS/CISAT talk
-
-
 
 Autumn 2021. We meet Tuesdays 12-13.
 - Sept 10: Patrick Bahr
