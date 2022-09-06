@@ -29,5 +29,6 @@ The PLS group conducts research in the theory of programming languages and logic
 - Frederik Haagensen joins PLS as a PhD student, July 2021.
 - The Independent Research Fund Denmark funds the project MECHANIsation of Session Types (MECHANIST). PI: Marco Carbone, Co-PI: Jesper Bengtson, funded by the Independent Research Fund Denmark, 2021-2024. The project will fund one postdoc.
 - Christian Uldal Graulund graduates his PhD, Feb 12, 2021. The committee consisted of [Andreas Abel](https://www.cse.chalmers.se/~abela/), [Bob Atkey](https://www.strath.ac.uk/staff/atkeyrobertdr/), Carsten Schürmann
+- Ieva Daukantas joins PLS as a PhD student, Jan 2021
 
 [Past news](Past_news.html)
