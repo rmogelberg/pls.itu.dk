@@ -4,6 +4,7 @@ title: Talks
 ---
 Autumn 2022. We meet Tuesdays 12-13
 - Sept 5: Frederik Haagensen: Incentive Alignment through Secure Computations
+- Oct 4: Patrick Bahr
 
 Spring 2022. We meet Tuesdays 12-13
 - Feb 11: Rasmus Lerchedahl Petersen (GitHub): Static analysis at GitHub Scale
