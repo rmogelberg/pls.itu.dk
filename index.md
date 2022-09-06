@@ -18,7 +18,7 @@ The PLS group conducts research in the theory of programming languages and logic
 
 - Philip Stassen visits Sept 12-16, 2022. Host: Rasmus Møgelberg
 - Danish Hub for Cybersecurity (Cyber Hub, now Digital Lead) funds the project Practical Static Analysis for Information-Flow Control of JavaScript. PI: Willard Rafnsson. Duration: 1. July 2022 - 30. June 2023.
-- The Independent Research Fund Denmark funds the project "Algebraic Effects and Guarded Recursion". The project will fund one postdoc for 3 years. PI: Rasmus Møgelberg
+- The Independent Research Fund Denmark funds the project Algebraic Effects and Guarded Recursion, 2022-2025. The project will fund one postdoc for 3 years. PI: Rasmus Møgelberg
 - Magnus Baunsgaard Kristensen graduates his PhD, June 15, 2022. The committee consists of [Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/), [Bas Spitters](https://users-cs.au.dk/spitters/) and Carsten Schürmann.
 - Alejandro Aguirre visits April 7-8. Host: Rasmus Møgelberg
 - [Patricia Johann](https://cs.appstate.edu/~johannp/) visits Dec 13-15, 2021. Hosts: Rasmus Møgelberg and Carsten Schürmann.
@@ -27,6 +27,7 @@ The PLS group conducts research in the theory of programming languages and logic
 - [Antoine van Muylder](https://antoinevanmuylder.github.io/) visits PLS, Sept - Nov 2021. Host: Andrea Vezzosi.
 - [Maaike Zwart](https://maaikezwart.com/) joins PLS as postdoc Sept 1, 2021.
 - Frederik Haagensen joins PLS as a PhD student, July 2021.
+- The Independent Research Fund Denmark funds the project MECHANIsation of Session Types (MECHANIST). PI: Marco Carbone, Co-PI: Jesper Bengtson, funded by the Independent Research Fund Denmark, 2021-2024. The project will fund one postdoc.
 - Christian Uldal Graulund graduates his PhD, Feb 12, 2021. The committee consisted of [Andreas Abel](https://www.cse.chalmers.se/~abela/), [Bob Atkey](https://www.strath.ac.uk/staff/atkeyrobertdr/), Carsten Schürmann
 
 [Past news](Past_news.html)
