@@ -3,8 +3,10 @@ layout: page
 title: Talks
 ---
 Autumn 2022. We meet Tuesdays 12-13
-- Sept 5: Frederik Haagensen: Incentive Alignment through Secure Computations
-- Oct 4: Patrick Bahr
+- Sept 5: Frederik Haagensen: Incentive Alignment through Secure
+- Oct 4: Yannick Zakowski (Inria): Monadic Definitional Interpreters as Formal Semantic Models of Computations in Coq
+- Nov 1: Adele Veschetti (University of Bologna): A formal analysis of blockchain consensus protocols
+- Nov 8: Jon Sterling (Aarhus University)
 
 Spring 2022. We meet Tuesdays 12-13
 - Feb 11: Rasmus Lerchedahl Petersen (GitHub): Static analysis at GitHub Scale
