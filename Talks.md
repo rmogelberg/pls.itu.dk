@@ -2,11 +2,15 @@
 layout: page
 title: Talks
 ---
+Spring 2023. We meet Tuesdays 12-13
+- Jan 25: Dawit Tirore.
+
 Autumn 2022. We meet Tuesdays 12-13
 - Sept 5: Frederik Haagensen: Incentive Alignment through Secure
 - Oct 4: Yannick Zakowski (Inria): Monadic Definitional Interpreters as Formal Semantic Models of Computations in Coq
 - Nov 1: Adele Veschetti (University of Bologna): A formal analysis of blockchain consensus protocols
 - Nov 8: Jon Sterling (Aarhus University)
+- Dec 13: Rasmus Møgelberg
 
 Spring 2022. We meet Tuesdays 12-13
 - Feb 11: Rasmus Lerchedahl Petersen (GitHub): Static analysis at GitHub Scale
