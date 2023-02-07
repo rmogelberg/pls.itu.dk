@@ -5,7 +5,7 @@ title: Talks
 Spring 2023. We meet Tuesdays 12-13
 - Jan 25: Dawit Tirore.
 - Feb 7: No talk, just meetings
-- March 7: Carsten Schürmann
+- March 7: Carsten Schürman
 - March 21: Reynald Affeldt and Takafumi Sakaiwa
 
 
