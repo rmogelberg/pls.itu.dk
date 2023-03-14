@@ -8,6 +8,7 @@ Spring 2023. We meet Tuesdays 12-13
 - March 7: Carsten Schürmann (postponed)
 - March 21: Reynald Affeldt and Takafumi Sakaiwa
 - March 31: Raul Pardo Jimenez (Joint PLS/Square)
+- May 2: Carsten Schürmann
 
 
 Autumn 2022. We meet Tuesdays 12-13
