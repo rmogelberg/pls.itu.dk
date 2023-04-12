@@ -8,8 +8,10 @@ Spring 2023. We meet Tuesdays 12-13
 - March 7: Carsten Schürmann (postponed)
 - March 21: Reynald Affeldt and Takafumi Sakaiwa
 - March 31: Raul Pardo Jimenez (Joint PLS/Square)
+- April 11: Jimmy Koppen (MIT)
 - May 2: Carsten Schürmann
-
+- May 16: Ichiro Hasuo (National Institute of Informatics,
+  Japan). Online talk.
 
 Autumn 2022. We meet Tuesdays 12-13
 - Sept 5: Frederik Haagensen: Incentive Alignment through Secure
