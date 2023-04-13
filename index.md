@@ -16,6 +16,7 @@ The PLS group conducts research in the theory of programming languages and logic
 
 ### Recent and upcoming news
 
+- [Reynald Affeldt](https://staff.aist.go.jp/reynald.affeldt/) (AIST) and Takafumi Saikawa (Nagoya) visit March 20-24. Host: Alessandro Bruni
 - [Graham Hutton](http://www.cs.nott.ac.uk/~pszgmh/) (Nottingham) visits Nov 23-24. Host: Patrick Bahr
 - Jon Sterling (Aarhus) visits Nov 8-11. Host: Rasmus Møgelberg
 - Adele Veschetti (University of Bologna) visits Oct 7 - Nov 6, 2022. Host: Marco Carbone
