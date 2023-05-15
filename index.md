@@ -16,6 +16,8 @@ The PLS group conducts research in the theory of programming languages and logic
 
 ### Recent and upcoming news
 
+- The first [Copenhagen Programming Languages Workshop](https://coplaws.github.io/) will take place at ITU June 7, 2023
+- Natalia Slusarz (Heriot-Watt) visits May 15-25, 2023. Host: Alessandro Bruni
 - [Reynald Affeldt](https://staff.aist.go.jp/reynald.affeldt/) (AIST) and Takafumi Saikawa (Nagoya) visit March 20-24. Host: Alessandro Bruni
 - [Graham Hutton](http://www.cs.nott.ac.uk/~pszgmh/) (Nottingham) visits Nov 23-24. Host: Patrick Bahr
 - Jon Sterling (Aarhus) visits Nov 8-11. Host: Rasmus Møgelberg

@@ -11,7 +11,8 @@ Spring 2023. We meet Tuesdays 12-13
 - April 11: Jimmy Koppen (MIT)
 - May 2: Carsten Schürmann
 - May 16: Ichiro Hasuo (National Institute of Informatics,
-  Japan). Online talk.
+  Japan): Proving Safety of Automated Driving Vehicles. Online talk.
+- May 22: Natalia Slusarz (Heriot-Watt): Logic of Differentiable Logics: Towards a Uniform Semantics of DL
 
 Autumn 2022. We meet Tuesdays 12-13
 - Sept 5: Frederik Haagensen: Incentive Alignment through Secure
