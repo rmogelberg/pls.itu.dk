@@ -3,16 +3,18 @@ layout: page
 title: Talks
 ---
 Spring 2023. We meet Tuesdays 12-13
-- Jan 25: Dawit Tirore.
+- Jan 25: Dawit Tirore: Sound and complete projection of multi-party protocols
 - Feb 7: No talk, just meetings
 - March 7: Carsten Schürmann (postponed)
 - March 21: Reynald Affeldt (AIST) and Takafumi Saikawa (Nagoya)
-- March 31: Raul Pardo Jimenez (Joint PLS/Square)
-- April 11: Jimmy Koppen (MIT)
-- May 2: Carsten Schürmann
+- March 31: Raul Pardo Jimenez (Joint PLS/Square): Formal Verification of Privacy Policies for Social Networks
+- April 11: Jimmy Koppen (MIT): Meta-metaprogramming
+- May 2: Carsten Schürmann: Tick Unify
 - May 16: Ichiro Hasuo (National Institute of Informatics,
   Japan): Proving Safety of Automated Driving Vehicles. Online talk.
-- May 22: Natalia Slusarz (Heriot-Watt): Logic of Differentiable Logics: Towards a Uniform Semantics of DL
+- May 22: Natalia Slusarz (Heriot-Watt): Logic of Differentiable
+  Logics: Towards a Uniform Semantics of DL
+- May 24: Ekaterina Komendantskaya (Heriot-Watt): Integrated Neural Network Verification with Vehicle
 
 Autumn 2022. We meet Tuesdays 12-13
 - Sept 5: Frederik Haagensen: Incentive Alignment through Secure
