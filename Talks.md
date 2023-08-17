@@ -2,6 +2,17 @@
 layout: page
 title: Talks
 ---
+Autumn 2023. We meet Tuesdays 12-13.
+- Aug 22: Patrick Bahr
+- Sept 5
+- Sept 19
+- Oct 3
+- Oct 17 (No talk, Autumn break)
+- Oct 31
+- Nov 14
+- Nov 28
+- Dec 12
+
 Spring 2023. We meet Tuesdays 12-13
 - Jan 25: Dawit Tirore: Sound and complete projection of multi-party protocols
 - Feb 7: No talk, just meetings
