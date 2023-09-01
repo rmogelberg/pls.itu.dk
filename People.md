@@ -28,6 +28,9 @@ PhD students
 - Frederik Madsen. Supervisor: Søren Debois
 - Dawit Tirore. Supervisors: Marco Carbone and Jesper Bengtson
 
+Research assistants
+- Emil Ørup Kristensen
+
 Graduated PhD students
 
 -   Magnus Baunsgaard Kristensen. Supervisor: Rasmus Møgelberg.
