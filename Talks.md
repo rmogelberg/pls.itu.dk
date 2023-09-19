@@ -6,7 +6,7 @@ Autumn 2023. We meet Tuesdays 12-13.
 
 **Upcoming Talks** 
 
-- Sept 19
+- Sept 19 -- CANCELLED
 - Oct 3
 - Oct 17 (No talk, Autumn break)
 - Oct 31
