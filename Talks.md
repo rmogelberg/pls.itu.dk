@@ -6,8 +6,34 @@ Autumn 2023. We meet Tuesdays 12-13.
 
 **Upcoming Talks** 
 
-- Sept 19 -- CANCELLED
-- Oct 3
+- Oct 3:: **Emil Ørup Kristensen**. _Secure Choreographies in PSPSP/Isabelle_ <br>
+In this thesis, Security Protocol Choreography (SPC), a new 
+choreographic security protocol specification based on Alice and Bob 
+(AnB)-notation which uses Performing Security Proofs of Stateful 
+Protocols (PSPSP) to prove security, is introduced. AnB-notation is a 
+popular way of describing security protocols, and formal languages based 
+on AnB-notation, such as AnB, allow for connection with protocol 
+verification tools. However, this notation is limited: it cannot express 
+branching, repetition, or longterm state. Choreographies (or MultiParty 
+Session Types) are a way to describe more complex interactions while 
+maintaining much of the brevity and simplicity of AnB-notation. The task 
+of this the sis is to connect choreographies to a verification tool: 
+PSPSP. This tool is embedded into Isabelle/HOL and thus obtains 
+verification results with very high reliability. It is based on 
+describing a protocol at an “atomic” level, i.e., transactions are 
+executed as a single transition and cannot be interrupted by other 
+transactions. PSPSP allows for longterm state and arbitrary control 
+flows so that the actions of a given choreography can be expressed in 
+PSPSP. Moreover, PSPSP does not need a bound on the number of sessions 
+required by other tools like OpenSource FixedPoint ModelChecker (OFMC). 
+On the other hand, PSPSP uses an abstract interpretation technique that 
+can lead to false positives (attacks that only work in the abstraction). 
+Thus, this thesis aims to conceptually design a translator from 
+choreographies to PSPSP transactions, implement it, and test it on 
+concrete examples. Besides the practical aspects, the theoretical value 
+of this work is a declarative semantics to choreographies based on 
+higher order logic/ PSPSP. Lastly, The Envelope Protocol is modelled in 
+both SPC and PSPSP as a motivation example for the clarity of SPC.
 - Oct 17 (No talk, Autumn break)
 - Oct 31
 - Nov 14
