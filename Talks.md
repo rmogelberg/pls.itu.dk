@@ -6,6 +6,13 @@ Autumn 2023. We meet Tuesdays 12-13.
 
 **Upcoming Talks** 
 
+- Nov 14: Lean Course
+- Nov 21: Lean Course
+- Nov 28: Lean Course
+- Dec 12
+
+**Past Talks** 
+
 - Oct 3:: **Emil Ørup Kristensen**. _Secure Choreographies in PSPSP/Isabelle_ <br>
 In this thesis, Security Protocol Choreography (SPC), a new 
 choreographic security protocol specification based on Alice and Bob 
@@ -34,13 +41,7 @@ concrete examples. Besides the practical aspects, the theoretical value
 of this work is a declarative semantics to choreographies based on 
 higher order logic/ PSPSP. Lastly, The Envelope Protocol is modelled in 
 both SPC and PSPSP as a motivation example for the clarity of SPC.
-- Oct 17 (No talk, Autumn break)
-- Oct 31
-- Nov 14
-- Nov 28
-- Dec 12
 
-**Past Talks** 
 - Sept 5:: **Mahsa Varshosaz**. _Formal Specification and Testing for Reinforcement Learning_ <br> 
 The development process for reinforcement learning applications is still exploratory rather than systematic. This exploratory nature reduces reuse of specifications between applications and increases the chances of introducing programming errors. This paper takes a step towards systematizing the development of reinforcement learning applications. We introduce a formal specification of reinforcement learning problems and algorithms, with a particular focus on temporal difference methods and their definitions in backup diagrams. We further develop a test harness for a large class of reinforcement learning applications based on temporal difference learning, including SARSA and Q-learning. The entire development is rooted in functional programming methods; starting with pure specifications and denotational semantics, ending with property-based testing and using compositional interpreters for a domain-specific term language as a test oracle for concrete implementations. We demonstrate the usefulness of this testing method on a number of examples, and evaluate with mutation testing. We show that our test suite is effective in killing mutants (90% mutants killed for 75% of subject agents). More importantly, almost half of all mutants are killed by generic write-once-use-everywhere tests that apply to any reinforcement learning problem modeled using our library, without any additional effort from the programmer.
 
