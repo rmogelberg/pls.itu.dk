@@ -16,7 +16,7 @@ The PLS group conducts research in the theory of programming languages and logic
 
 ### Recent and upcoming news
 
-- Mini-course Programming and Proving with Lean given by [David Thrane Christiansen](https://davidchristiansen.dk/) 
+- Mini-course [Programming and Proving with Lean](https://pls.itu.dk/LeanCourse.html) given by [David Thrane Christiansen](https://davidchristiansen.dk/) 
 - The first [Copenhagen Programming Languages Workshop](https://coplaws.github.io/) will take place at ITU June 7, 2023
 - Natalia Slusarz and [Ekaterina Komendantskaya](https://www.macs.hw.ac.uk/~ek19/) (Heriot-Watt) visit May 15-25 and 22-25, 2023. Host: Alessandro Bruni
 - [Reynald Affeldt](https://staff.aist.go.jp/reynald.affeldt/) (AIST) and Takafumi Saikawa (Nagoya) visit March 20-24. Host: Alessandro Bruni
