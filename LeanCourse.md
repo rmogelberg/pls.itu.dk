@@ -15,8 +15,12 @@ At the same time, Lean is a general-purpose pure functional programming language
 
 This mini-course will situate Lean in both the landscape of theorem provers and the landscape of functional programming languages, and demonstrate proving, programming, and metaprogramming, all from a computer science perspective. The sections on programming and metaprogramming will also be relevant to those who have no interest in interactive theorem proving, and won't assume prior knowledge of Coq, Agda, Idris, or similar systems.
 
+### Literature
+
+[Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/) (FPiL)
+
 ### Schedule
 
-- November 14, 2023 from 10 to 12. Aud 4, ITU 
-- November 21, 2023 from 10 to 12. Aud 4, ITU
-- November 28, 2023 from 10 to 12. 4A58, ITU
+- Session 1 - An Overview of Lean. November 14, 2023 from 10 to 12. Aud 4, ITU. Readings: FPiL chp 1-6
+- Session 2 - Programming and Metaprogramming. November 21, 2023 from 10 to 12. Aud 4, ITU. Readings: FPiL chp 7-10
+- Session 3 - Foundations and Proofs. November 28, 2023 from 10 to 12. 4A58, ITU. Readings: 
