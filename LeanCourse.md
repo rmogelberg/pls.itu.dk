@@ -17,10 +17,14 @@ This mini-course will situate Lean in both the landscape of theorem provers and 
 
 ### Literature
 
-[Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/) (FPiL)
+- [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/) (FPiL)
+- Beyond Notations: Hygienic Macro Expansion for Theorem Proving Languages, by Ullrich and de Moura, IJCAR 2020
+ - Counting Immutable Beans: Reference Counting Optimized for Purely Functional Programming (same authors, IFL 2019)
+ - The Type Theory of Lean, by Mario Carneiro
+
 
 ### Schedule
 
 - Session 1 - An Overview of Lean. November 14, 2023 from 10 to 12. Aud 4, ITU. Readings: FPiL chp 1-6
-- Session 2 - Programming and Metaprogramming. November 21, 2023 from 10 to 12. Aud 4, ITU. Readings: FPiL chp 7-10
-- Session 3 - Foundations and Proofs. November 28, 2023 from 10 to 12. 4A58, ITU. Readings: 
+- Session 2 - Programming and Metaprogramming. November 21, 2023 from 10 to 12. Aud 4, ITU. Readings: FPiL chp 7-10, the papers Beyond Notations and Counting Immutable Beans
+- Session 3 - Foundations and Proofs. November 28, 2023 from 10 to 12. 4A58, ITU. Readings: The Type Theory of Lean
