@@ -9,7 +9,7 @@ Autumn 2023. We meet Tuesdays 12-13.
 - Nov 14: [Lean Course](https://pls.itu.dk/LeanCourse.html)
 - Nov 21: [Lean Course](https://pls.itu.dk/LeanCourse.html)
 - Nov 28: [Lean Course](https://pls.itu.dk/LeanCourse.html)
-- Dec 4 (in Aud4): **Brigitte Pientka**. _Mechanizing Session-Types: Enforcing linearity without linearity_ <br>
+- Monday Dec 4 (in Aud4): **Brigitte Pientka**. _Mechanizing Session-Types: Enforcing linearity without linearity_ <br>
   Process calculi provide a tool for the high-level description of interactions, communications, and synchronizations between a collection of independent processes. Session types allow us to statically  verify that processes communicate according to prescribed protocols.  Hence, they rule  out a wide class of communication-related bugs before executing a given process. They also statically guarantee safety properties such as session fidelity and deadlock freedom, analogous to preservation and progress in the simply typed lambda-calculus.
 Although there have been many efforts to mechanize process calculi such as the pi-calculi in proof assistants, mechanizing these systems  remains an art.  Process calculi use channel or action names to specify process interactions, and they often feature rich binding structures and semantics such as channel mobility.
 Both of these features can be challenging to mechanize, for we must track names to avoid conflicts, ensure that \alpha-equivalence and renaming are well-defined, etc. Moreover, session types employ a linear type system, where variables cannot be  implicitly copied or dropped, and therefore, many mechanizations of these systems require modeling the context and carefully ensuring that its variables  are handled linearly.
