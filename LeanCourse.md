@@ -25,6 +25,7 @@ This mini-course will situate Lean in both the landscape of theorem provers and 
 
 ### Files
 [Slides](LEANCourseFiles/slides.pdf)
+[Examples](LEANCourseFiles/ITU Examples.zip)
 
 ### Schedule
 
