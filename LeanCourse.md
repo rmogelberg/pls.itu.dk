@@ -23,9 +23,6 @@ This mini-course will situate Lean in both the landscape of theorem provers and 
  - The Type Theory of Lean, by Mario Carneiro
 
 
-### Files
-[Slides](LEANCourseFiles/slides.pdf)
-
 ### Schedule
 
 - Session 1 - An Overview of Lean. November 14, 2023 from 10 to 12. Aud 4, ITU. Readings: FPiL chp 1-6
