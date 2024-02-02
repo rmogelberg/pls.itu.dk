@@ -6,6 +6,12 @@ Autumn 2023. We meet Tuesdays 12-13.
 
 **Upcoming Talks** 
 
+- Feb 13: Maaike Zwart
+- Feb 27: Dmitriy Traytel (DIKU)
+- Mar 12: Markus Krabbe Larsen
+
+**Past Talks** 
+
 - Nov 14: [Lean Course](https://pls.itu.dk/LeanCourse.html)
 - Nov 21: [Lean Course](https://pls.itu.dk/LeanCourse.html)
 - Nov 28: [Lean Course](https://pls.itu.dk/LeanCourse.html)
@@ -16,9 +22,7 @@ Both of these features can be challenging to mechanize, for we must track names 
 In this talk, I demonstrate a technique to localize linearity conditions as additional predicates embedded within type judgments, which allows us to use unrestricted typing contexts instead of linear ones. This technique is especially relevant when leveraging (weak) higher-order abstract syntax to defer the intricate channel mobility and bindings that arise in a session typed system. In particular, I discuss the mechanization of a session typed system based on classical linear logic in the proof  assistant Beluga, which uses the logical framework LF as its encoding language.
 This is joint work with Chuta Sano and Ryan Kavanagh. 
 
-- Dec 12
 
-**Past Talks** 
 
 - Oct 3:: **Emil Ørup Kristensen**. _Secure Choreographies in PSPSP/Isabelle_ <br>
 In this thesis, Security Protocol Choreography (SPC), a new 

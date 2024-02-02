@@ -24,15 +24,15 @@ Postdocs
 PhD students
 
 - Ieva Daukantas. Supervisors: Alessandro Bruni, Louise Barkhuus, and Carsten Schürmann
-- Frederik Haagensen. Supervisor: Søren Debois
-- Frederik Madsen. Supervisor: Søren Debois
 - Dawit Tirore. Supervisors: Marco Carbone and Jesper Bengtson
+- Markus Krabbe Larsen. Supervisor: Carsten Schürmann
 
 Research assistants
 - Emil Ørup Kristensen
 
 Graduated PhD students
 
+-   Frederik Madsen. Supervisor: Søren Debois
 -   Magnus Baunsgaard Kristensen. Supervisor: Rasmus Møgelberg.
 -   Christian Uldal Graulund. Supervisor: Rasmus Møgelberg.
 -   Jonas Kastberg Hinrichsen. Supervisor: Jesper Bengtson
