@@ -21,15 +21,10 @@ title: Talks
 - Nov 14: [Lean Course](https://pls.itu.dk/LeanCourse.html)
 - Nov 21: [Lean Course](https://pls.itu.dk/LeanCourse.html)
 - Nov 28: [Lean Course](https://pls.itu.dk/LeanCourse.html)
-- Monday Dec 4 (in Aud4): **Brigitte Pientka**. _Mechanizing Session-Types: Enforcing linearity without linearity_ <br>
-
-
-- Oct 3:: **Emil Ørup Kristensen**. _Secure Choreographies in PSPSP/Isabelle_ <br>
-
-
-- Sept 5:: **Mahsa Varshosaz**. _Formal Specification and Testing for Reinforcement Learning_ <br> 
-
-- Aug 22: **Patrick Bahr**. _Modal FRP For All._ <br>
+- Monday Dec 4 (in Aud4): **Brigitte Pientka**. _Mechanizing Session-Types: Enforcing linearity without linearity_ 
+- Oct 3:: **Emil Ørup Kristensen**. _Secure Choreographies in PSPSP/Isabelle_ 
+- Sept 5:: **Mahsa Varshosaz**. _Formal Specification and Testing for Reinforcement Learning_ 
+- Aug 22: **Patrick Bahr**. _Modal FRP For All._
 
 
 
