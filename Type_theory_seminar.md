@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Type theory seminar
+archived: true
 ---
 Fall 2020
 
