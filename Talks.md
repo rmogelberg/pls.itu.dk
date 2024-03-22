@@ -6,12 +6,12 @@ Autumn 2023. We meet Tuesdays 12-13.
 
 **Upcoming Talks** 
 
+- Mar 14: Daniel Gratzer (Aarhus): A modal deconstruction of Loeb induction
+- Mar 12: Markus Krabbe Larsen: Adjoint Affine Interpretation
+- Mar 8: Marco Carbone: A Probabilistic Choreography Language for PRISM
+- Feb 27: Dmitriy Traytel (DIKU): Binding-aware datatypes and inductive predicates in Isabelle/HOL
 - Feb 13: Maaike Zwart: What monads can and cannot do with a bit of
   extra time.
-- Feb 27: Dmitriy Traytel (DIKU): Binding-aware datatypes and inductive predicates in Isabelle/HOL
-- Mar 8: Marco Carbone: A Probabilistic Choreography Language for PRISM
-- Mar 12: Markus Krabbe Larsen: Adjoint Affine Interpretation
-- Mar 14: Daniel Gratzer (Aarhus): A modal deconstruction of Loeb induction
 
 **Past Talks** 
 
