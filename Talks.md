@@ -22,50 +22,15 @@ title: Talks
 - Nov 21: [Lean Course](https://pls.itu.dk/LeanCourse.html)
 - Nov 28: [Lean Course](https://pls.itu.dk/LeanCourse.html)
 - Monday Dec 4 (in Aud4): **Brigitte Pientka**. _Mechanizing Session-Types: Enforcing linearity without linearity_ <br>
-  Process calculi provide a tool for the high-level description of interactions, communications, and synchronizations between a collection of independent processes. Session types allow us to statically  verify that processes communicate according to prescribed protocols.  Hence, they rule  out a wide class of communication-related bugs before executing a given process. They also statically guarantee safety properties such as session fidelity and deadlock freedom, analogous to preservation and progress in the simply typed lambda-calculus.
-Although there have been many efforts to mechanize process calculi such as the pi-calculi in proof assistants, mechanizing these systems  remains an art.  Process calculi use channel or action names to specify process interactions, and they often feature rich binding structures and semantics such as channel mobility.
-Both of these features can be challenging to mechanize, for we must track names to avoid conflicts, ensure that \alpha-equivalence and renaming are well-defined, etc. Moreover, session types employ a linear type system, where variables cannot be  implicitly copied or dropped, and therefore, many mechanizations of these systems require modeling the context and carefully ensuring that its variables  are handled linearly.
-In this talk, I demonstrate a technique to localize linearity conditions as additional predicates embedded within type judgments, which allows us to use unrestricted typing contexts instead of linear ones. This technique is especially relevant when leveraging (weak) higher-order abstract syntax to defer the intricate channel mobility and bindings that arise in a session typed system. In particular, I discuss the mechanization of a session typed system based on classical linear logic in the proof  assistant Beluga, which uses the logical framework LF as its encoding language.
-This is joint work with Chuta Sano and Ryan Kavanagh. 
-
 
 
 - Oct 3:: **Emil Ørup Kristensen**. _Secure Choreographies in PSPSP/Isabelle_ <br>
-In this thesis, Security Protocol Choreography (SPC), a new 
-choreographic security protocol specification based on Alice and Bob 
-(AnB)-notation which uses Performing Security Proofs of Stateful 
-Protocols (PSPSP) to prove security, is introduced. AnB-notation is a 
-popular way of describing security protocols, and formal languages based 
-on AnB-notation, such as AnB, allow for connection with protocol 
-verification tools. However, this notation is limited: it cannot express 
-branching, repetition, or longterm state. Choreographies (or MultiParty 
-Session Types) are a way to describe more complex interactions while 
-maintaining much of the brevity and simplicity of AnB-notation. The task 
-of this the sis is to connect choreographies to a verification tool: 
-PSPSP. This tool is embedded into Isabelle/HOL and thus obtains 
-verification results with very high reliability. It is based on 
-describing a protocol at an “atomic” level, i.e., transactions are 
-executed as a single transition and cannot be interrupted by other 
-transactions. PSPSP allows for longterm state and arbitrary control 
-flows so that the actions of a given choreography can be expressed in 
-PSPSP. Moreover, PSPSP does not need a bound on the number of sessions 
-required by other tools like OpenSource FixedPoint ModelChecker (OFMC). 
-On the other hand, PSPSP uses an abstract interpretation technique that 
-can lead to false positives (attacks that only work in the abstraction). 
-Thus, this thesis aims to conceptually design a translator from 
-choreographies to PSPSP transactions, implement it, and test it on 
-concrete examples. Besides the practical aspects, the theoretical value 
-of this work is a declarative semantics to choreographies based on 
-higher order logic/ PSPSP. Lastly, The Envelope Protocol is modelled in 
-both SPC and PSPSP as a motivation example for the clarity of SPC.
+
 
 - Sept 5:: **Mahsa Varshosaz**. _Formal Specification and Testing for Reinforcement Learning_ <br> 
-The development process for reinforcement learning applications is still exploratory rather than systematic. This exploratory nature reduces reuse of specifications between applications and increases the chances of introducing programming errors. This paper takes a step towards systematizing the development of reinforcement learning applications. We introduce a formal specification of reinforcement learning problems and algorithms, with a particular focus on temporal difference methods and their definitions in backup diagrams. We further develop a test harness for a large class of reinforcement learning applications based on temporal difference learning, including SARSA and Q-learning. The entire development is rooted in functional programming methods; starting with pure specifications and denotational semantics, ending with property-based testing and using compositional interpreters for a domain-specific term language as a test oracle for concrete implementations. We demonstrate the usefulness of this testing method on a number of examples, and evaluate with mutation testing. We show that our test suite is effective in killing mutants (90% mutants killed for 75% of subject agents). More importantly, almost half of all mutants are killed by generic write-once-use-everywhere tests that apply to any reinforcement learning problem modeled using our library, without any additional effort from the programmer.
 
 - Aug 22: **Patrick Bahr**. _Modal FRP For All._ <br>
-Functional reactive programming (FRP) provides a high-level interface for implementing reactive systems in a declarative manner. However, this high-level interface has to be carefully reigned in to ensure that programs can in fact be executed in practice. Specifically, one must ensure that FRP programs are productive, causal, and can be implemented without introducing space leaks. In recent years, modal types have been demonstrated to be an effective tool to ensure these operational properties.
-In this paper, we present Rattus, a modal FRP language that extends and simplifies previous modal FRP calculi while still maintaining the operational guarantees for productivity, causality, and space leaks. The simplified type system makes Rattus a practical programming language that can be integrated with existing functional programming languages. To demonstrate this, we have implemented a shallow embedding of Rattus in Haskell that allows the programmer to write Rattus code in familiar Haskell syntax and seamlessly integrate it with regular Haskell code. Thus Rattus combines the benefits enjoyed by FRP libraries such as Yampa, namely access to a rich library ecosystem (e.g. for graphics programming), with the strong operational guarantees offered by a bespoke type system.
-To establish the productivity, causality, and memory properties of the language, we prove type soundness using a logical relations argument fully mechanised in the Coq proof assistant.
+
 
 
 
