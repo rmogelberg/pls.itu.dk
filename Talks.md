@@ -2,9 +2,12 @@
 layout: page
 title: Talks
 ---
-Autumn 2023. We meet Tuesdays 12-13.
 
 **Upcoming Talks** 
+
+- Apr 9: Alessandro Bruni.
+
+**Past Talks** 
 
 - Mar 14: Daniel Gratzer (Aarhus): A modal deconstruction of Loeb induction
 - Mar 12: Markus Krabbe Larsen: Adjoint Affine Interpretation
@@ -13,7 +16,7 @@ Autumn 2023. We meet Tuesdays 12-13.
 - Feb 13: Maaike Zwart: What monads can and cannot do with a bit of
   extra time.
 
-**Past Talks** 
+** Autumn 2023 **
 
 - Nov 14: [Lean Course](https://pls.itu.dk/LeanCourse.html)
 - Nov 21: [Lean Course](https://pls.itu.dk/LeanCourse.html)
