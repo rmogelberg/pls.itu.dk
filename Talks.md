@@ -16,7 +16,7 @@ title: Talks
 - Feb 13: Maaike Zwart: What monads can and cannot do with a bit of
   extra time.
 
-** Autumn 2023 **
+**Autumn 2023**
 
 - Nov 14: [Lean Course](https://pls.itu.dk/LeanCourse.html)
 - Nov 21: [Lean Course](https://pls.itu.dk/LeanCourse.html)
