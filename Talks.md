@@ -5,7 +5,9 @@ title: Talks
 
 **Upcoming Talks** 
 
-- Apr 9: Alessandro Bruni.
+- Apr 9: Alessandro Bruni: Exploration of properties of differentiable
+  logics through mechanisation. In 3A07.
+- June 25: Pawel Sobocinski (TalTech)
 
 **Past Talks** 
 
@@ -22,8 +24,8 @@ title: Talks
 - Nov 21: [Lean Course](https://pls.itu.dk/LeanCourse.html)
 - Nov 28: [Lean Course](https://pls.itu.dk/LeanCourse.html)
 - Monday Dec 4 (in Aud4): **Brigitte Pientka**. _Mechanizing Session-Types: Enforcing linearity without linearity_ 
-- Oct 3:: **Emil Ørup Kristensen**. _Secure Choreographies in PSPSP/Isabelle_ 
-- Sept 5:: **Mahsa Varshosaz**. _Formal Specification and Testing for Reinforcement Learning_ 
+- Oct 3: **Emil Ørup Kristensen**. _Secure Choreographies in PSPSP/Isabelle_ 
+- Sept 5: **Mahsa Varshosaz**. _Formal Specification and Testing for Reinforcement Learning_ 
 - Aug 22: **Patrick Bahr**. _Modal FRP For All._
 
 
