@@ -7,6 +7,7 @@ title: Talks
 
 - Apr 9: Alessandro Bruni: Exploration of properties of differentiable
   logics through mechanisation. In 3A07.
+- May 21: Ieva Daukantas
 - June 25: Pawel Sobocinski (TalTech)
 
 **Past Talks** 
