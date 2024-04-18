@@ -1,6 +1,7 @@
 ---
 layout: page
 title: PhD Topics
+archived: true
 ---
 
 ## Some Possible Ph.D. topics within the PLS group
