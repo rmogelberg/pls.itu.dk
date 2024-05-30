@@ -16,6 +16,7 @@ The PLS group conducts research in the theory of programming languages and logic
 
 ### Recent and upcoming news
 
+- [Pawel Sobocinski](https://www.ioc.ee/~pawel/) (TalTech) visits June 25. Host: Marco Carbone
 - [Giorgio Bacci](https://homes.cs.aau.dk/~grbacci/) (Aalborg) visits May 6-7. Hosts: Alessandro Bruni and Rasmus Møgelberg
 - Natalia Slusarz (Heriot-Watt) visits April 22-25. Host: Alessandro Bruni
 - [Reynald Affeldt](https://staff.aist.go.jp/reynald.affeldt/) (AIST) visits March 23-20, 2024. Host: Alessandro Bruni

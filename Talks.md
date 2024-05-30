@@ -5,13 +5,15 @@ title: Talks
 
 **Upcoming Talks** 
 
-- Apr 9: Alessandro Bruni: Exploration of properties of differentiable
-  logics through mechanisation. In 3A07.
-- May 21: Ieva Daukantas. In 3A08.
 - June 25: Pawel Sobocinski (TalTech)
 
 **Past Talks** 
 
+- May 30: Markus Krabbe Larsen: Mechanizing state separation for modular cryptographic proofs
+- May 6: Giorgio Bacci (Aalborg): Two Propositional Logics for the
+  Lawvere Quantale. In 4A05
+- Apr 9: Alessandro Bruni: Exploration of properties of differentiable
+  logics through mechanisation. In 3A07.
 - Mar 14: Daniel Gratzer (Aarhus): A modal deconstruction of Loeb induction
 - Mar 12: Markus Krabbe Larsen: Adjoint Affine Interpretation
 - Mar 8: Marco Carbone: A Probabilistic Choreography Language for PRISM
