@@ -22,6 +22,8 @@ The PLS group conducts research in the theory of programming languages and logic
 - [Reynald Affeldt](https://staff.aist.go.jp/reynald.affeldt/) (AIST) visits March 23-20, 2024. Host: Alessandro Bruni
 - [Daniel Gratzer](https://www.danielgratzer.com/) (Aarhus) visits, March 13, 2024. Host: Rasmus Møgelberg
 - ITU hosts [Types 2024](https://types2024.itu.dk/), June 10-14. Organisers: Patrick Bahr, Marco Carbone, Rasmus Møgelberg
+- Marco Carbone visits Oxford Feb-June, 2024. Host Nobuko Yoshida.
+- Dawit Tirore visits Oxford Oct 2023-March 2024. Host Nobuko Yoshida.
 - Mini-course [Programming and Proving with Lean](https://pls.itu.dk/LeanCourse.html) given by [David Thrane Christiansen](https://davidchristiansen.dk/) 
 
 [Past news](Past_news.html)
