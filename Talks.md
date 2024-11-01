@@ -5,10 +5,18 @@ title: Talks
 
 **Upcoming Talks** 
 
-- June 25: Pawel Sobocinski (TalTech)
+- Nov 26: Eric Giovannini (University of Michigan): Denotational Semantics of Gradual Typing using Synthetic Guarded Domain Theory
+- Nov 22: PLS research day (all day)
 
 **Past Talks** 
 
+- Sept 10: Patrick Bahr: Calculating Graph-Based Compilers
+- Aug 27: Rasmus Møgelberg: An introduction to synthetic guarded domain theory with applications to probabilistic programming languages.
+
+**Spring 2024**
+
+
+- June 25: Pawel Sobocinski (TalTech)
 - May 30: Markus Krabbe Larsen: Mechanizing state separation for modular cryptographic proofs
 - May 6: Giorgio Bacci (Aalborg): Two Propositional Logics for the
   Lawvere Quantale. In 4A05
