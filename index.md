@@ -16,6 +16,9 @@ The PLS group conducts research in the theory of programming languages and logic
 
 ### Recent and upcoming news
 
+- [Marino Miculan](https://marino.miculan.org) (University of Udine) visits December 9-12. Host: Marco Carbone
+- [Nobuko Yoshida](https://www.cs.ox.ac.uk/people/nobuko.yoshida/) (University of Oxford) visits December 7-22. Host: Marco Carbone
+- [Nobuko Yoshida](https://www.cs.ox.ac.uk/people/nobuko.yoshida/) (University of Oxford) visits November 13-17. Host: Marco Carbone
 - [Pawel Sobocinski](https://www.ioc.ee/~pawel/) (TalTech) visits June 25. Host: Marco Carbone
 - [Giorgio Bacci](https://homes.cs.aau.dk/~grbacci/) (Aalborg) visits May 6-7. Hosts: Alessandro Bruni and Rasmus Møgelberg
 - Natalia Slusarz (Heriot-Watt) visits April 22-25. Host: Alessandro Bruni
