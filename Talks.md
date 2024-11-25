@@ -6,10 +6,11 @@ title: Talks
 **Upcoming Talks** 
 
 - Nov 26: Eric Giovannini (University of Michigan): Denotational Semantics of Gradual Typing using Synthetic Guarded Domain Theory
-- Nov 22: PLS research day (all day)
 
 **Past Talks** 
 
+- Nov 22: PLS research day (all day)
+- Nov 19: Maaike Zwart: Self-Distributing Monads
 - Sept 10: Patrick Bahr: Calculating Graph-Based Compilers
 - Aug 27: Rasmus Møgelberg: An introduction to synthetic guarded domain theory with applications to probabilistic programming languages.
 
