@@ -16,6 +16,7 @@ The PLS group conducts research in the theory of programming languages and logic
 
 ### Recent and upcoming news
 
+- Lyes Saadi (ENS Paris-Saclay) visits as intern Feb - July 2025. Host: Rasmus Møgelberg
 - [Marino Miculan](https://marino.miculan.org) (University of Udine) visits December 9-12. Host: Marco Carbone
 - [Nobuko Yoshida](https://www.cs.ox.ac.uk/people/nobuko.yoshida/) (University of Oxford) visits December 7-22. Host: Marco Carbone
 - [Nobuko Yoshida](https://www.cs.ox.ac.uk/people/nobuko.yoshida/) (University of Oxford) visits November 13-17. Host: Marco Carbone
