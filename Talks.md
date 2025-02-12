@@ -11,8 +11,8 @@ title: Talks
 
 **Autumn 2024** 
 
-- Dec 11: Simon Gay: Trains, Pictures and Types
-- Dec 9: Marino Miculan: A Bigraph-based Formal Model and Verification Framework for Container-Based Systems
+- Dec 11: Simon Gay (Glasgow): Trains, Pictures and Types
+- Dec 9: Marino Miculan (Udine): A Bigraph-based Formal Model and Verification Framework for Container-Based Systems
 - Nov 26: Eric Giovannini (University of Michigan): Denotational Semantics of Gradual Typing using Synthetic Guarded Domain Theory
 - Nov 22: PLS research day (all day)
 - Nov 19: Maaike Zwart: Self-Distributing Monads
