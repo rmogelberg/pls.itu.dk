@@ -5,6 +5,9 @@ title: Talks
 
 **Upcoming Talks** 
 
+- Feb 21: Nobuko Yoshida (Oxford): Separation and Encodability in Mixed Choice
+  Multiparty Sessions
+- Mar 26: Sergei Stepanenko (Aarhus)
 
 **Past Talks** 
 
