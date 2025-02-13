@@ -5,11 +5,11 @@ title: Projects
 
 ### Ongoing
 
+-  PROBABILIstic Session Types (PROBABILIST). PI: Marco Carbone, funded by the Independent Research Fund Denmark, 2025-2029.
 -  Algebraic Effects and Guarded Recursion. PI: Rasmus Møgelberg, funded by the Independent Research Fund Denmark, 2022-2025.
 
 ### Some past projects
 
--   PROBABILIstic Session Types (PROBABILIST). PI: Marco Carbone, funded by the Independent Research Fund Denmark, 2025-2029.
 -   MECHANIsation of Session Types (MECHANIST). PI: Marco Carbone,
     Co-PI: Jesper Bengtson, funded by the Independent Research Fund Denmark, 2021-2024.
 -   Practical Static Analysis for Information-Flow Control of JavaScript. PI: Willard Rafnsson,
