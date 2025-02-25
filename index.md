@@ -16,6 +16,7 @@ The PLS group conducts research in the theory of programming languages and logic
 
 ### Recent and upcoming news
 
+- The Independent Research Fund Denmark funds the project Probabilistic Session Types (PROBABILIST), 2025-2029. The project will fund one PhD student for 3 years. PI: Marco Carbone
 - Alessandro Bruni visits Reynald Affeldt at AIST, Tokyo, March - May 2025, and Ekaterina Komendantskaya at University of Southampton. Sponsored by the Carlsberg Foundation project *VeriFunAI* (Verified Functional Analysis for Safe AI).
 - Lyes Saadi (ENS Paris-Saclay) visits as intern Feb - July 2025. Host: Rasmus Møgelberg
 - Dawit Tirore successfully defended his PhD Dec 12, 2024
