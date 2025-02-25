@@ -5,12 +5,13 @@ title: Talks
 
 **Upcoming Talks** 
 
-- Feb 21: Nobuko Yoshida (Oxford): Separation and Encodability in Mixed Choice
-  Multiparty Sessions
 - Mar 26: Sergei Stepanenko (Aarhus)
+- May 14: Matteo Acclavio (Sussex)
 
 **Autumn 2024** 
 
+- Feb 21: Nobuko Yoshida (Oxford): Separation and Encodability in Mixed Choice
+  Multiparty Sessions
 - Dec 11: Simon Gay (Glasgow): Trains, Pictures and Types
 - Dec 9: Marino Miculan (Udine): A Bigraph-based Formal Model and Verification Framework for Container-Based Systems
 - Nov 26: Eric Giovannini (University of Michigan): Denotational Semantics of Gradual Typing using Synthetic Guarded Domain Theory
