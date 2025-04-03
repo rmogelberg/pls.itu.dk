@@ -5,9 +5,9 @@ title: Talks
 
 **Upcoming Talks** 
 
+- April 7: Philipp Haselwarter (Aarhus): Security Proofs via Approximate Relational Reasoning for Higher-Order Probabilistic Programs
 - April 8: Joris Ceulemans (KU Leuven): Multimode Type Theory as a
   Library in Type Theory
-- April 7: Philipp Haselwarter (Aarhus): Security Proofs via Approximate Relational Reasoning for Higher-Order Probabilistic Programs
 - May 14: Matteo Acclavio (Sussex)
 
 **Spring 2025** 
