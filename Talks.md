@@ -5,13 +5,19 @@ title: Talks
 
 **Upcoming Talks** 
 
-- Mar 26: Sergei Stepanenko (Aarhus)
+- April 8: Joris Ceulemans (KU Leuven): Multimode Type Theory as a
+  Library in Type Theory
+- April 7: Philipp Haselwarter (Aarhus): Security Proofs via Approximate Relational Reasoning for Higher-Order Probabilistic Programs
 - May 14: Matteo Acclavio (Sussex)
+
+**Spring 2025** 
+
+- Mar 26: Sergei Stepanenko (Aarhus): Solving Guarded Domain Equations in Presheaves Over Ordinals and Mechanizing It
+- Feb 21: Nobuko Yoshida (Oxford): Separation and Encodability in Mixed Choice
+  Multiparty Sessions
 
 **Autumn 2024** 
 
-- Feb 21: Nobuko Yoshida (Oxford): Separation and Encodability in Mixed Choice
-  Multiparty Sessions
 - Dec 11: Simon Gay (Glasgow): Trains, Pictures and Types
 - Dec 9: Marino Miculan (Udine): A Bigraph-based Formal Model and Verification Framework for Container-Based Systems
 - Nov 26: Eric Giovannini (University of Michigan): Denotational Semantics of Gradual Typing using Synthetic Guarded Domain Theory
