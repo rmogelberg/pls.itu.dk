@@ -5,14 +5,15 @@ title: Talks
 
 **Upcoming Talks** 
 
-- April 7: Philipp Haselwarter (Aarhus): Security Proofs via Approximate Relational Reasoning for Higher-Order Probabilistic Programs
-- April 8: Joris Ceulemans (KU Leuven): Multimode Type Theory as a
-  Library in Type Theory
-- April 9: Grant application discussions
 - May 14: Matteo Acclavio (Sussex)
+- May 28: Rasmus Møgelberg: Induction and Recursion Principles in a Higher-Order Quantitative Logic
 
 **Spring 2025** 
 
+- April 9: Grant application discussions
+- April 8: Joris Ceulemans (KU Leuven): Multimode Type Theory as a
+  Library in Type Theory
+- April 7: Philipp Haselwarter (Aarhus): Security Proofs via Approximate Relational Reasoning for Higher-Order Probabilistic Programs
 - April 2: Grant application discussions
 - Mar 26: Sergei Stepanenko (Aarhus): Solving Guarded Domain Equations in Presheaves Over Ordinals and Mechanizing It
 - Feb 21: Nobuko Yoshida (Oxford): Separation and Encodability in Mixed Choice
