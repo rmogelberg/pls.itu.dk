@@ -5,11 +5,12 @@ title: Talks
 
 **Upcoming Talks** 
 
-- May 14: Matteo Acclavio (Sussex)
 - May 28: Rasmus Møgelberg: Induction and Recursion Principles in a Higher-Order Quantitative Logic
+- June 25: Lyes Saadi
 
 **Spring 2025** 
 
+- May 14: Matteo Acclavio (Sussex): Formulas as Processes in Linear Logic Programming
 - April 9: Grant application discussions
 - April 8: Joris Ceulemans (KU Leuven): Multimode Type Theory as a
   Library in Type Theory
