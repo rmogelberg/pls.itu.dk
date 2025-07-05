@@ -1,0 +1,53 @@
+- name: Patrick Bahr
+  role: Associate Professor
+  pure: https://pure.itu.dk/en/persons/patrick-bahr
+  website: https://bahr.io/
+  photo: /people/patrickbahr.png
+  supervision: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+    enim ad minim veniam, quis nostrud exercitation ullamco laboris
+    nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+    reprehenderit in voluptate velit esse cillum
+- name: Jesper Bengtson
+  role: Associate Professor
+  pure: https://pure.itu.dk/da/persons/jesper-bengtson
+  website: https://studwww.itu.dk/~jebe/
+  photo: /people/Jesperbengtson.png
+  supervision: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+    enim ad minim veniam, quis nostrud exercitation ullamco laboris
+    nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+    reprehenderit in voluptate velit esse cillum
+- name: Alessandro Bruni
+  role: Associate Professor
+  pure: https://pure.itu.dk/en/persons/alessandro-bruni
+  website: https://alessandrobruni.name/
+  photo: /people/alessandrobruni.png
+- name: Marco Carbone
+  role: Professor
+  pure: https://pure.itu.dk/da/persons/marco-carbone
+  website: https://carbonem.github.io/
+  photo: /people/marcocarbone.png
+- name: Rosario Giustolisi
+  role: Associate Professor
+  pure: https://pure.itu.dk/da/persons/rosario-giustolisi
+  website: https://www.itu.dk/people/rosg/
+  photo: /people/RosarioGiustolisi.png
+- name: Rasmus Møgelberg
+  role: Professor
+  pure: https://pure.itu.dk/da/persons/rasmus-ejlers-m%C3%B8gelberg
+  website: https://www.itu.dk/~mogel/
+  photo: /people/RasmusITU2023.png
+- name: Willard Rafnsson
+  role: Associate Professor
+  pure: https://pure.itu.dk/en/persons/willard-rafnsson
+  website: https://www.willardthor.com/
+  photo: /people/WillardRafnsson.png
+- name: Carsten Schürmann
+  role: Professor
+  pure: https://pure.itu.dk/en/persons/carsten-sch%C3%BCrmann
+  website: https://www.itu.dk/~carsten/
+  photo: /people/CarstenSchürmann.png
+

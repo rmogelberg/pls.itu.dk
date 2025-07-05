@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <img src='/bookshelf.svg' width='100%'/>
+
+  <h2 class=line><span>Ongoing</span></h2>
+  <ul>
+  {{ range .Site.Data.projects }}
+    <li>{{ .title }}, PI {{ .pi }} </li>
+  {{ end }}
+  </ul>
+
+  <h2 class=line><span>Past projects</span></h2>
+
+{{ end }}

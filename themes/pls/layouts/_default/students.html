@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <img src='/student.svg' width='100%'/>
+
+  <p>We supervise projects in the following areas.</p>
+
+  <p>If you are interested contact the potential supervisors directly.</p>
+
+  {{ range .Site.Data.faculty }}
+  {{ if .supervision }}
+  <h2 class=line><a href="{{ .website }}">{{ .name }}</a></h2>
+  <p>{{ .supervision }}</p>
+  {{ end }}
+  {{ end }}
+
+{{ end }}

@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  
+  {{ $years := slice }}
+  {{ range .Site.Data.news }}
+    {{ $years = $years | append .year }}
+  {{ end }}
+  {{ $years = uniq $years }}
+
+  {{ range $years }}
+  <h2 class=line><span>{{ . }}</span></h2>
+  <ul class=news>
+    {{ range where $.Site.Data.news ".year" . }}
+    <li>{{ .text }}</li>
+    {{ end }}
+  </ul>
+  {{ end }}
+{{ end }}

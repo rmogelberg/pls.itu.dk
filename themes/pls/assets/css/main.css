@@ -1,0 +1,226 @@
+body {
+  color: #000;
+  font-family: 'Fira Code', sans-serif;
+  line-height: 1.5;
+  margin: 1rem auto;
+  max-width: 1024px;
+}
+
+h1, h2, h3, h4, h5, h6, h7 {
+  text-transform: uppercase;
+}
+
+.line {
+  background: linear-gradient(180deg, 
+      transparent calc(50% - 1px), 
+      black calc(50%), 
+      transparent calc(50% + 1px)
+  );
+}
+.line > * {
+  background: white; padding: 0 3rem;
+}
+table.talks tr {
+  height: 3rem;
+}
+table.talks tr:nth-child(odd) {
+  background-color: #EEE3C3;
+}
+table.talks tr td:nth-child(1) {
+  width: 45%;
+}
+table.talks tr td:nth-child(2) {
+  width: 10%;
+}
+table.talks tr td:nth-child(3) {
+  width: 45%;
+}
+table.talks tr td button {
+  background: #1D3769;
+  color: #EFB21B;
+  border: 0;
+  padding: .5rem 1rem;
+  font-family: "Fira Code", monospace;
+}
+
+ul.news {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+ul.news li {
+  display: block;
+  min-height: 5rem;
+  padding: 1rem;
+  flex-shrink: 0;
+  width: 100%;
+}
+ul.news li:nth-child(3n+1) {
+  background-color: #EEE3C3;
+}
+ul.news li:nth-child(3n+2) {
+  background-color: #F6C43F;
+}
+ul.news li:nth-child(3n) {
+  background-color: #1D376A;
+  color: white;
+}
+
+
+header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 3rem;
+  padding-bottom: 3rem;
+  border-bottom: 1px solid #222;
+  margin-bottom: 3rem;
+}
+
+main {
+  text-align: center;
+}
+
+main .welcome {
+  max-width: 700px;
+  margin: 3rem auto;
+}
+
+main .whiteboard {
+  height: 489px;
+  background: url('/whiteboard.jpg');
+}
+main .about {
+  max-width: 600px;
+  margin: -100px auto 3rem;
+  padding: 3rem;
+  background-color: #EFB21B;
+}
+main .guide {
+  background-color: #1D3769;
+  color: #EFB21B;
+  padding: 3rem;
+  margin: 3rem 0;
+}
+main .explore ul {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: space-between;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+main .explore ul li {
+  display: block;
+  width: 31.5%;
+  line-height: 10rem;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+main .explore ul li:nth-child(even) a {
+  color: #1D3769;
+}
+main .explore ul li:nth-child(odd) a {
+  color: #EFB21B;
+}
+#ex-news {
+  background: url('/pexels1.jpg');
+  background-size: cover;
+  background-position: 0 -100px;
+}
+#ex-people {
+  background: url('/geo1.png');
+  background-size: cover;
+}
+#ex-projects {
+  background: url('/pexels2.jpg');
+  background-size: cover;
+}
+#ex-talks {
+  background: url('/geo2.png');
+  background-size: cover;
+}
+#ex-students {
+  background: url('/pexels3.jpg');
+  background-size: cover;
+}
+#ex-directions {
+  background: url('/geo3.png');
+  background-size: cover;
+}
+
+ul.cards {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: space-between;
+  justify-content: center;
+  gap: 1.5rem;
+}
+ul.cards li {
+  display: block;
+  width: 23%;
+}
+
+footer {
+  border-top: 1px solid #222;
+  margin-top: 3rem;
+  padding-top: 3rem;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+footer > p {
+  margin-bottom: 3rem;
+}
+
+footer > p.itu {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+footer > p > span.institution {
+  border-right: 1px solid black;
+}
+footer > p > span {
+  padding: 0 3rem;
+  line-height: 3rem;
+  text-align: center;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+a.active {
+  color: #D2482C;
+}
+
+header > nav > ul > li {
+  display: inline;
+  margin: 1em;
+}
+
+header > h1 > span {
+  display: none;
+}
+header > h1 {
+  width: 145px;
+  height: 74px;
+  margin: 0;
+  padding: 0;
+  background: url('/pls-logo.svg') no-repeat;
+  background-size: 145px 74px;
+}

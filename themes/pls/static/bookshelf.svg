@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   version="1.1"
+   viewBox="0 0 965 384.97403"
+   sodipodi:docname="bookshelf.svg"
+   width="965"
+   height="384.97403"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview45"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.67283377"
+     inkscape:cx="373.79218"
+     inkscape:cy="190.98328"
+     inkscape:window-width="1536"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <!-- Generator: Adobe Illustrator 29.5.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 141)  -->
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .st0 {
+        fill: #292a49;
+      }
+
+      .st1 {
+        fill: #cf3147;
+      }
+
+      .st2 {
+        font-size: 42.1px;
+      }
+
+      .st2, .st3, .st4, .st5, .st6, .st7 {
+        font-family: Hasklig-Bold, Hasklig;
+        font-weight: 700;
+      }
+
+      .st8 {
+        fill: #50694b;
+      }
+
+      .st9, .st4 {
+        fill: #f5cbd9;
+      }
+
+      .st9, .st10, .st11, .st12 {
+        font-size: 11.4px;
+      }
+
+      .st3 {
+        font-size: 17.2px;
+      }
+
+      .st3, .st13 {
+        fill: #b1b1b1;
+      }
+
+      .st4 {
+        font-size: 13.5px;
+      }
+
+      .st14 {
+        fill: #367630;
+      }
+
+      .st15 {
+        fill: #ae628b;
+      }
+
+      .st5 {
+        fill: #4183de;
+        font-size: 27.7px;
+      }
+
+      .st16, .st17 {
+        fill: #f6c43f;
+      }
+
+      .st18 {
+        fill: #38487b;
+      }
+
+      .st19 {
+        fill: #4f4f4f;
+      }
+
+      .st20 {
+        fill: #5a6970;
+        font-size: 12.9px;
+      }
+
+      .st20, .st17, .st21, .st22, .st10, .st23, .st24, .st25, .st26, .st12, .st13, .st27 {
+        font-family: Hasklig-Regular, Hasklig;
+      }
+
+      .st28 {
+        stroke: #000;
+      }
+
+      .st28, .st29, .st30, .st31 {
+        stroke-miterlimit: 10;
+      }
+
+      .st28, .st30, .st31 {
+        stroke-width: .8px;
+      }
+
+      .st17 {
+        font-size: 6.4px;
+      }
+
+      .st21 {
+        font-size: 11.4px;
+        letter-spacing: .2em;
+      }
+
+      .st21, .st7 {
+        fill: #fce6f3;
+      }
+
+      .st29 {
+        stroke: #e4fbff;
+        stroke-width: 1px;
+      }
+
+      .st29, .st30, .st31 {
+        fill: none;
+      }
+
+      .st32 {
+        fill: #d082af;
+      }
+
+      .st30 {
+        stroke: #f5cbd9;
+      }
+
+      .st22 {
+        fill: #ff4fc0;
+        font-size: 8.1px;
+        letter-spacing: 0em;
+      }
+
+      .st10 {
+        letter-spacing: .2em;
+      }
+
+      .st10, .st12 {
+        fill: #996c00;
+      }
+
+      .st23 {
+        fill: #001047;
+        font-size: 15.5px;
+      }
+
+      .st31 {
+        stroke: #8fa97a;
+      }
+
+      .st33 {
+        fill: #f5c740;
+      }
+
+      .st34 {
+        fill: #eee3c3;
+      }
+
+      .st35 {
+        fill: #c9304a;
+      }
+
+      .st11 {
+        fill: #8fa97a;
+      }
+
+      .st25 {
+        font-size: 11.4px;
+      }
+
+      .st25, .st36 {
+        fill: #5f89d2;
+      }
+
+      .st26 {
+        font-size: 8.4px;
+      }
+
+      .st37 {
+        fill: #d2e4e8;
+      }
+
+      .st13 {
+        font-size: 11.2px;
+      }
+
+      .st27 {
+        fill: #c67e90;
+        font-size: 11.4px;
+        letter-spacing: .2em;
+      }
+
+      .st7 {
+        font-size: 13.5px;
+      }
+    </style>
+  </defs>
+  <rect
+     class="st16"
+     x="0"
+     y="34.806606"
+     width="62.400002"
+     height="347.89999"
+     id="rect1" />
+  <rect
+     class="st18"
+     x="361.29999"
+     y="42.106609"
+     width="259.29999"
+     height="340.5"
+     id="rect2" />
+  <rect
+     class="st34"
+     x="229.34848"
+     y="69.56868"
+     width="62.400002"
+     height="324.79999"
+     transform="rotate(-2.5)"
+     id="rect3" />
+  <rect
+     class="st35"
+     x="299.54761"
+     y="47.592659"
+     width="31.200001"
+     height="349.70001"
+     transform="rotate(-2.5)"
+     id="rect4" />
+  <rect
+     class="st1"
+     x="825.39551"
+     y="167.44261"
+     width="36.400002"
+     height="296.70001"
+     transform="rotate(-5.4)"
+     id="rect5" />
+  <rect
+     class="st32"
+     x="656.46405"
+     y="-36.702038"
+     width="23.799999"
+     height="383.70001"
+     transform="rotate(3.2)"
+     id="rect6" />
+  <rect
+     class="st8"
+     x="67.199997"
+     y="65.80661"
+     width="31.200001"
+     height="316.89999"
+     id="rect7" />
+  <rect
+     class="st15"
+     x="138.67856"
+     y="28.675909"
+     width="72.5"
+     height="350.20001"
+     transform="rotate(1.7)"
+     id="rect8" />
+  <rect
+     class="st0"
+     x="105.09999"
+     y="59.306606"
+     width="15.6"
+     height="323.39999"
+     id="rect9" />
+  <rect
+     class="st37"
+     x="689"
+     y="11.606611"
+     width="38.700001"
+     height="371.10001"
+     id="rect10" />
+  <rect
+     class="st33"
+     x="738.39996"
+     y="36.306606"
+     width="44.400002"
+     height="346.29999"
+     id="rect11" />
+  <rect
+     class="st14"
+     x="894.20001"
+     y="42.106609"
+     width="70.800003"
+     height="340.5"
+     id="rect12" />
+  <rect
+     class="st19"
+     x="790.39996"
+     y="21.706617"
+     width="37.900002"
+     height="361"
+     id="rect13" />
+  <text
+     class="st23"
+     id="text15"
+     x="398.10001"
+     y="320.2066"><tspan
+       x="398.10001"
+       y="320.2066"
+       id="tspan13">A Fitch-style Modal</tspan><tspan
+       x="388.79999"
+       y="338.80661"
+       id="tspan14">Calculus for Reactive</tspan><tspan
+       x="439.89999"
+       y="357.30661"
+       id="tspan15">Programming</tspan></text>
+  <text
+     class="st13"
+     transform="rotate(-90)"
+     id="text16"
+     x="-371.10663"
+     y="811.29999"><tspan
+       x="-371.10663"
+       y="811.29999"
+       id="tspan16">Receipt-Free Electronic Voting from</tspan></text>
+  <text
+     class="st20"
+     transform="rotate(-90)"
+     id="text17"
+     x="-374.30661"
+     y="717.40002"><tspan
+       x="-374.30661"
+       y="717.40002"
+       id="tspan17">Modelling human threats in security ceremonies</tspan></text>
+  <text
+     class="st3"
+     transform="rotate(-90)"
+     id="text18"
+     x="-113.60661"
+     y="813"><tspan
+       x="-113.60661"
+       y="813"
+       id="tspan18">zk-SNARK</tspan></text>
+  <text
+     class="st7"
+     transform="rotate(-95.6)"
+     id="text19"
+     x="-287.85202"
+     y="845.1441"><tspan
+       x="-287.85202"
+       y="845.1441"
+       id="tspan19">FRP</tspan></text>
+  <text
+     class="st26"
+     transform="rotate(-92.5)"
+     id="text21"
+     x="-214.65523"
+     y="257.78223"><tspan
+       x="-214.65523"
+       y="257.78223"
+       id="tspan20">GAMification and Education</tspan><tspan
+       x="-214.65523"
+       y="267.78223"
+       id="tspan21">for Secure Software</tspan></text>
+  <text
+     class="st2"
+     transform="rotate(-92.6)"
+     id="text22"
+     x="-385.74603"
+     y="274.28375"><tspan
+       x="-385.74603"
+       y="274.28375"
+       id="tspan22">GAMESS</tspan></text>
+  <text
+     class="st5"
+     id="text23"
+     x="399.5"
+     y="95.506615"><tspan
+       x="399.5"
+       y="95.506615"
+       id="tspan23">Simply RaTT</tspan></text>
+  <text
+     class="st4"
+     transform="rotate(2.6)"
+     id="text24"
+     x="148.11777"
+     y="52.141228"><tspan
+       x="148.11777"
+       y="52.141228"
+       id="tspan24">Remark!</tspan></text>
+  <text
+     class="st12"
+     transform="rotate(-89.9)"
+     id="text26"
+     x="-365.94147"
+     y="37.638748"><tspan
+       x="-365.94147"
+       y="37.638748"
+       id="tspan25">Using trust for secure collaboration</tspan><tspan
+       x="-365.94147"
+       y="51.338749"
+       id="tspan26">in uncertain environments</tspan></text>
+  <text
+     class="st17"
+     transform="rotate(-89.9)"
+     id="text27"
+     x="-362.80728"
+     y="114.53339"><tspan
+       x="-362.80728"
+       y="114.53339"
+       id="tspan27">A graphical approach to progress for structured communication in web services</tspan></text>
+  <text
+     class="st22"
+     transform="rotate(-89.9)"
+     id="text28"
+     x="-370.85822"
+     y="85.347404"><tspan
+       x="-370.85822"
+       y="85.347404"
+       id="tspan28">What monads can and cannot do with a bit of extra time</tspan></text>
+  <text
+     class="st25"
+     transform="rotate(-87)"
+     id="text29"
+     x="-336.46451"
+     y="670.72839"><tspan
+       x="-336.46451"
+       y="670.72839"
+       id="tspan29">A Sound and Complete Projection for Global Types</tspan></text>
+  <circle
+     class="st36"
+     cx="668.5"
+     cy="13.306608"
+     r="8.1999998"
+     id="circle29" />
+  <text
+     class="st27"
+     transform="rotate(-92.7)"
+     id="text30"
+     x="-383.61621"
+     y="318.08231"><tspan
+       x="-383.61621"
+       y="318.08231"
+       id="tspan30">Multiparty Asynchronous Session Types</tspan></text>
+  <line
+     class="st28"
+     x1="249.09999"
+     y1="213.50662"
+     x2="291.79999"
+     y2="211.60663"
+     id="line30" />
+  <text
+     class="st11"
+     transform="rotate(-90)"
+     id="text36"
+     x="-367.2066"
+     y="918.70001"><tspan
+       class="st6"
+       x="-367.2066"
+       y="918.70001"
+       id="tspan31">Free Rides in Denmark:</tspan><tspan
+       class="st24"
+       x="-217.00662"
+       y="918.70001"
+       id="tspan32" /><tspan
+       class="st24"
+       id="tspan34"><tspan
+         x="-367.2066"
+         y="932.40002"
+         id="tspan33">Lessons from Improperly Generated</tspan></tspan><tspan
+       class="st24"
+       id="tspan36"><tspan
+         x="-367.2066"
+         y="946"
+         id="tspan35">Mobile Transport Tickets.</tspan></tspan></text>
+  <line
+     class="st31"
+     x1="901.89996"
+     y1="52.906612"
+     x2="957.99994"
+     y2="52.906612"
+     id="line36" />
+  <text
+     class="st9"
+     transform="rotate(-87.9)"
+     id="text38"
+     x="-364.38113"
+     y="176.57086"><tspan
+       class="st6"
+       x="-364.38113"
+       y="176.57086"
+       id="tspan37" /><tspan
+       class="st24"
+       x="-357.58112"
+       y="176.57086"
+       id="tspan38">A secure protocol for remote exams</tspan></text>
+  <line
+     class="st30"
+     x1="143.7"
+     y1="66.206604"
+     x2="199.8"
+     y2="68.906616"
+     id="line38" />
+  <circle
+     class="st16"
+     cx="112.59999"
+     cy="375.10663"
+     r="3.3"
+     id="circle38" />
+  <text
+     class="st10"
+     transform="rotate(-90)"
+     id="text40"
+     x="-372.7066"
+     y="756.09998"><tspan
+       x="-372.7066"
+       y="756.09998"
+       id="tspan39">Induction and Recursion Principles</tspan><tspan
+       x="-372.7066"
+       y="769.79999"
+       id="tspan40">in a Higher-Order Quantitative Logic</tspan></text>
+  <text
+     class="st21"
+     transform="rotate(-95.3)"
+     id="text41"
+     x="-441.8692"
+     y="846.30249"><tspan
+       x="-441.8692"
+       y="846.30249"
+       id="tspan41">Asynchronous Modal</tspan></text>
+  <g
+     id="g45"
+     transform="translate(-200.2,-191.59339)">
+    <line
+       class="st29"
+       x1="889.20001"
+       y1="574"
+       x2="927.90002"
+       y2="574"
+       id="line41" />
+    <line
+       class="st29"
+       x1="889.20001"
+       y1="481.39999"
+       x2="927.90002"
+       y2="481.39999"
+       id="line42" />
+    <line
+       class="st29"
+       x1="889.20001"
+       y1="388.79999"
+       x2="927.90002"
+       y2="388.79999"
+       id="line43" />
+    <line
+       class="st29"
+       x1="889.20001"
+       y1="296.20001"
+       x2="927.90002"
+       y2="296.20001"
+       id="line44" />
+    <line
+       class="st29"
+       x1="889.20001"
+       y1="203.60001"
+       x2="927.90002"
+       y2="203.60001"
+       id="line45" />
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+- title: PROBABILIstic Session Types (PROBABILIST)
+  pi: Marco Carbone
+  funded_by: Independent Research Fund Denmark
+  start: 2025
+  end: 2029
+- title: Algebraic Effects and Guarded Recursion
+  pi: Rasmus Møgelberg
+  funded_by: Independent Research Fund Denmark
+  start: 2022
+  end: 2025
+- title: MECHANIsation of Session Types (MECHANIST)
+  pi: Marco Carbone
+  copi: Jesper Bengtson
+  funded_by: Independent Research Fund Denmark
+  start: 2021
+  end: 2024
+- title: Practical Static Analysis for Information-Flow Control of JavaScript
+  pi: Willard Rafnsson
+  funded_by: Danish Hub for Cybersecurity (Cyber Hub, now Digital Lead)
+  start: 2022-07
+  end: 2023-06
+- title: Type Theories for Reactive Programming
+  pi: Rasmus Møgelberg
+  funded_by: Villum Fonden
+  start: 2016
+  end: 2022

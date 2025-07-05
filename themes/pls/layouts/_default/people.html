@@ -1,0 +1,41 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <h2 class=line><span>Faculty</span></h2>
+  <ul class=cards>
+  {{ range .Site.Data.faculty }}
+    <li>
+      <img src={{ .photo }} width=200px/><br/>
+      <strong>{{ .name }}</strong><br/>
+      {{ .role }}<br/>
+      <a href={{ .pure }}>ITU profile</a><br/>
+      <a href={{ .website }}>Website</a>
+    </li>
+  {{ end }}
+  </ul>
+
+  <h2 class=line><span>PhDs and Postdocs</span></h2>
+  <ul class=cards>
+  {{ range .Site.Data.staff }}
+    <li>
+      <img src={{ .photo }} width=200px/><br/>
+      <strong>{{ .name }}</strong><br/>
+      {{ .role }}<br/>
+      <a href={{ .pure }}>ITU profile</a><br/>
+      <a href={{ .website }}>Website</a>
+    </li>
+  {{ end }}
+  </ul>
+
+  <h2 class=line><span>Graduated PhD students</span></h2>
+  <ul class=cards>
+  {{ range .Site.Data.graduated }}
+    <li>
+      <strong>{{ .name }}</strong><br/>
+      {{ .note }}
+    </li>
+  {{ end }}
+  </ul>
+
+{{ end }}

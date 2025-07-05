@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'The Programming, Logics and Semantics group at the IT-University of Copenhagen'
+theme = 'pls'
