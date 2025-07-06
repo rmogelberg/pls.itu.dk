@@ -93,7 +93,7 @@ main .welcome {
 
 main .whiteboard {
   height: 489px;
-  background: url('/whiteboard.jpg');
+  background: url('../whiteboard.jpg');
 }
 main .about {
   max-width: 600px;
@@ -132,28 +132,28 @@ main .explore ul li:nth-child(odd) a {
   color: #EFB21B;
 }
 #ex-news {
-  background: url('/pexels1.jpg');
+  background: url('../pexels1.jpg');
   background-size: cover;
   background-position: 0 -100px;
 }
 #ex-people {
-  background: url('/geo1.png');
+  background: url('../geo1.png');
   background-size: cover;
 }
 #ex-projects {
-  background: url('/pexels2.jpg');
+  background: url('../pexels2.jpg');
   background-size: cover;
 }
 #ex-talks {
-  background: url('/geo2.png');
+  background: url('../geo2.png');
   background-size: cover;
 }
 #ex-students {
-  background: url('/pexels3.jpg');
+  background: url('../pexels3.jpg');
   background-size: cover;
 }
 #ex-directions {
-  background: url('/geo3.png');
+  background: url('../geo3.png');
   background-size: cover;
 }
 
@@ -221,6 +221,6 @@ header > h1 {
   height: 74px;
   margin: 0;
   padding: 0;
-  background: url('/pls-logo.svg') no-repeat;
+  background: url('../pls-logo.svg') no-repeat;
   background-size: 145px 74px;
 }

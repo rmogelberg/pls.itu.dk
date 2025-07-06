@@ -2,7 +2,7 @@
   role: Associate Professor
   pure: https://pure.itu.dk/en/persons/patrick-bahr
   website: https://bahr.io/
-  photo: /people/patrickbahr.png
+  photo: patrickbahr.png
   supervision: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
     eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
@@ -13,7 +13,7 @@
   role: Associate Professor
   pure: https://pure.itu.dk/da/persons/jesper-bengtson
   website: https://studwww.itu.dk/~jebe/
-  photo: /people/Jesperbengtson.png
+  photo: Jesperbengtson.png
   supervision: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
     eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
@@ -24,30 +24,30 @@
   role: Associate Professor
   pure: https://pure.itu.dk/en/persons/alessandro-bruni
   website: https://alessandrobruni.name/
-  photo: /people/alessandrobruni.png
+  photo: alessandrobruni.png
 - name: Marco Carbone
   role: Professor
   pure: https://pure.itu.dk/da/persons/marco-carbone
   website: https://carbonem.github.io/
-  photo: /people/marcocarbone.png
+  photo: marcocarbone.png
 - name: Rosario Giustolisi
   role: Associate Professor
   pure: https://pure.itu.dk/da/persons/rosario-giustolisi
   website: https://www.itu.dk/people/rosg/
-  photo: /people/RosarioGiustolisi.png
+  photo: RosarioGiustolisi.png
 - name: Rasmus Møgelberg
   role: Professor
   pure: https://pure.itu.dk/da/persons/rasmus-ejlers-m%C3%B8gelberg
   website: https://www.itu.dk/~mogel/
-  photo: /people/RasmusITU2023.png
+  photo: RasmusITU2023.png
 - name: Willard Rafnsson
   role: Associate Professor
   pure: https://pure.itu.dk/en/persons/willard-rafnsson
   website: https://www.willardthor.com/
-  photo: /people/WillardRafnsson.png
+  photo: WillardRafnsson.png
 - name: Carsten Schürmann
   role: Professor
   pure: https://pure.itu.dk/en/persons/carsten-sch%C3%BCrmann
   website: https://www.itu.dk/~carsten/
-  photo: /people/CarstenSchürmann.png
+  photo: CarstenSchürmann.png
 
