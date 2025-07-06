@@ -6,11 +6,16 @@
 
   <h2 class=line><span>Ongoing</span></h2>
   <ul>
-  {{ range .Site.Data.projects }}
+  {{ range where .Site.Data.projects ".end" "ge" now.Year }}
     <li>{{ .title }}, PI {{ .pi }}</li>
   {{ end }}
   </ul>
 
   <h2 class=line><span>Past projects</span></h2>
+  <ul>
+  {{ range where .Site.Data.projects ".end" "lt" now.Year }}
+    <li>{{ .title }}, PI {{ .pi }}</li>
+  {{ end }}
+  </ul>
 
 {{ end }}

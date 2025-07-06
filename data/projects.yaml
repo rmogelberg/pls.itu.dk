@@ -17,8 +17,8 @@
 - title: Practical Static Analysis for Information-Flow Control of JavaScript
   pi: Willard Rafnsson
   funded_by: Danish Hub for Cybersecurity (Cyber Hub, now Digital Lead)
-  start: 2022-07
-  end: 2023-06
+  start: 2022
+  end: 2023
 - title: Type Theories for Reactive Programming
   pi: Rasmus Møgelberg
   funded_by: Villum Fonden
