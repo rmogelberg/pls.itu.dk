@@ -85,6 +85,15 @@ ul.news li:nth-child(3n) {
   color: white;
 }
 
+.latestnews > .newsbox {
+  background-color: #1D376A;
+  color: #EFB21B;
+  margin: 0;
+  padding: 3rem;
+}
+.latestnews > .newsbox > .newsitem {
+  display: block;
+}
 
 header {
   display: flex;

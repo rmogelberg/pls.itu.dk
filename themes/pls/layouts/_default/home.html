@@ -46,12 +46,15 @@
 
 </div>
 
-<div class=news>
+<div class=latestnews>
   <h2 class=line><span>Latest News</span></h2>
-  <div class=guide>
-  {{ range first 5 .Site.Data.news }}
-    {{ .text }}
+  <ul class=newsbox>
+  {{ range first 3 .Site.Data.news }}
+    <li class=newsitem>
+      <h3>{{ .title }}</h3>
+      <p>{{ .text }}</p>
+    </li>
   {{ end }}
-  </div>
+  </ul>
 </div>
 {{ end }}
