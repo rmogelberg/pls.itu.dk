@@ -20,8 +20,24 @@ h1, h2, h3, h4, h5, h6, h7 {
 .line > * {
   background: white; padding: 0 3rem;
 }
+.projects {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.projects li {
+  display: block;
+  padding: 1rem;
+  height: 5rem;
+  vertical-align: middle;
+}
+.projects li:nth-child(odd) {
+  background-color: #EEE3C3;
+}
 table.talks tr {
-  height: 3rem;
+  height: 5rem;
 }
 table.talks tr:nth-child(odd) {
   background-color: #EEE3C3;

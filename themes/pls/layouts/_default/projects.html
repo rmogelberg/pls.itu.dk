@@ -5,16 +5,16 @@
   <img src='../bookshelf.svg' width='100%'/>
 
   <h2 class=line><span>Ongoing</span></h2>
-  <ul>
+  <ul class=projects>
   {{ range where .Site.Data.projects ".end" "ge" now.Year }}
-    <li>{{ .title }}, PI {{ .pi }}</li>
+    <li>{{ .title }}, PI {{ .pi }}{{ if .copi }}, Co-PI {{ .copi }}{{ end }}, funded by {{ .funded_by }}, {{ .start }} - {{ .end }}</li>
   {{ end }}
   </ul>
 
   <h2 class=line><span>Past projects</span></h2>
-  <ul>
+  <ul class=projects>
   {{ range where .Site.Data.projects ".end" "lt" now.Year }}
-    <li>{{ .title }}, PI {{ .pi }}</li>
+    <li>{{ .title }}, PI {{ .pi }}{{ if .copi }}, Co-PI {{ .copi }}{{ end }}, funded by {{ .funded_by }}, {{ .start }} - {{ .end }}</li>
   {{ end }}
   </ul>
 
