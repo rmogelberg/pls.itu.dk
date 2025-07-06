@@ -339,7 +339,6 @@ header > h1 {
   ul.cards li,
   main .explore ul li {
     width: 100%;
-    line-height: 3rem;
     font-size: 1em;
   }
   footer p.itu {

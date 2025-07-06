@@ -4,50 +4,53 @@
   website: https://bahr.io/
   photo: patrickbahr.png
   supervision: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-    enim ad minim veniam, quis nostrud exercitation ullamco laboris
-    nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-    reprehenderit in voluptate velit esse cillum
+    Patrick supervises projects related to compilers, type systems, functional programming, and formal verification. He is interested in topics such as functional reactive programming, the design and implementation of advanced type systems, compiler construction, and correct-by-construction compilers using formal methods. Students are encouraged to work in groups and can contact him for supervision on research projects, theses, or other related topics.
 - name: Jesper Bengtson
   role: Associate Professor
   pure: https://pure.itu.dk/da/persons/jesper-bengtson
   website: https://studwww.itu.dk/~jebe/
   photo: Jesperbengtson.png
   supervision: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-    enim ad minim veniam, quis nostrud exercitation ullamco laboris
-    nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-    reprehenderit in voluptate velit esse cillum
+    Jesper supervises projects in the area of formal verification, focusing on ensuring the correctness of software systems. His interests include developing frameworks and tools for verifying programs, prototyping new programming languages, and applying interactive proof assistants like Coq. He encourages projects that address real-world challenges in software reliability, such as verifying critical systems or exploring the boundaries of current verification techniques. Students interested in the intersection of programming languages, formal methods, and software correctness are welcome to contact him for supervision.
 - name: Alessandro Bruni
   role: Associate Professor
   pure: https://pure.itu.dk/en/persons/alessandro-bruni
   website: https://alessandrobruni.name/
   photo: alessandrobruni.png
+  supervision: |
+    Alessandro supervises projects at the intersection of security, formal methods, and machine learning. His supervision covers areas such as training safe robot controllers using formal specifications, formalizing probability theory in Coq, analyzing and compiling secure protocols, and hacking projects for highly motivated students. He also shares examples of past theses to help students find inspiration and is open to discussing new and challenging topics within his areas of expertise.
 - name: Marco Carbone
   role: Professor
   pure: https://pure.itu.dk/da/persons/marco-carbone
   website: https://carbonem.github.io/
   photo: marcocarbone.png
+  supervision: |
+    Marco supervises projects related to the theory and practice of concurrency, semantics, type systems, and linear logic, with a particular focus on session types, the pi-calculus, and choreographies. He is interested in both foundational and applied aspects, including the mechanisation and verification of concurrent systems, probabilistic models, and secure communication protocols. Students keen to explore advanced topics in programming languages, formal methods, or concurrency theory are encouraged to contact him, especially if they are interested in research-oriented projects or contributing to ongoing research initiatives.
 - name: Rosario Giustolisi
   role: Associate Professor
   pure: https://pure.itu.dk/da/persons/rosario-giustolisi
   website: https://www.itu.dk/people/rosg/
   photo: RosarioGiustolisi.png
+  supervision: |
+    Rosario is always interested in supervising new thesis projects and welcomes students with a passion for security, privacy, and formal methods. Some example topics include: feasibility studies of typosquatting attacks in forums and Q&A websites (such as Reddit, Stack Overflow, or Quora), improving password filters by enforcing random-looking passwords, usability studies of coercion-resistant voting systems, and the design and development of secure applications for decision systems (including e-voting and exams). Other areas of interest are the design and verification of accountability systems (like Google's Certificate Transparency, Ethereum's proof-of-stake, or voting systems) and the security analysis of socio-technical systems for fun and profit (such as transport tickets, car sharing, bike rental apps, or vending machines). Students are encouraged to reach out to discuss these or other related topics.
 - name: Rasmus Møgelberg
   role: Professor
   pure: https://pure.itu.dk/da/persons/rasmus-ejlers-m%C3%B8gelberg
   website: https://www.itu.dk/~mogel/
   photo: RasmusITU2023.png
+  supervision: |
+    Rasmus supervises projects in the theory and semantics of programming languages, type theory, category theory, and logic. He is particularly interested in topics such as denotational semantics, guarded recursion, domain theory, parametric polymorphism, and computational effects. Students interested in foundational aspects of programming languages, advanced type systems, or the mathematical structures underlying computation are encouraged to contact him for supervision.
 - name: Willard Rafnsson
   role: Associate Professor
   pure: https://pure.itu.dk/en/persons/willard-rafnsson
   website: https://www.willardthor.com/
   photo: WillardRafnsson.png
+  supervision: |
+    Willard supervises student research and thesis projects that align closely with his research interests and have the potential to result in a research publication. He is selective and only takes on projects he is highly enthusiastic about. Students interested in working with him should ensure their interests overlap with his research agenda and are encouraged to arrange a meeting to discuss potential topics. Willard’s current and past supervision covers areas such as server hardening automation, formal verification of security properties, binary analysis for vulnerabilities, automated vulnerability fixing in JavaScript libraries, emulation, privacy risk analysis, and information-flow security.
 - name: Carsten Schürmann
   role: Professor
   pure: https://pure.itu.dk/en/persons/carsten-sch%C3%BCrmann
   website: https://www.itu.dk/~carsten/
   photo: CarstenSchürmann.png
-
+  supervision: |
+    Carsten supervises projects in logic in computer science, logical frameworks, type theory, theorem proving, computational logic, and programming languages (both functional and logic programming). He is particularly interested in formal methods, proof assistants, and the development of logical frameworks such as Twelf and Delphin. Carsten welcomes students who are interested in foundational aspects of programming languages, formal verification, and applications of logic to real-world systems, including secure and trustworthy elections. He encourages students to propose research-oriented projects that align with his expertise in computational logic, formal digital libraries, and the intersection of logic and software engineering.
