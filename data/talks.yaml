@@ -1,24 +1,532 @@
-- date: May 28
-  speaker: Rasmus Møgelberg
-  title: Induction and Recursion Principles in a Higher-Order Quantitative Logic
-- date: June 25
-  speaker: Lyes Saadi
-- date: May 14
-  speaker: Matteo Acclavio (Sussex)
-  title: Formulas as Processes in Linear Logic Programming
-- date: April 9
-  title: Grant application discussions
-- date: April 8
-  speaker: Joris Ceulemans (KU Leuven)
-  title: Multimode Type Theory as a Library in Type Theory
-- date: April 7
-  speaker: Philipp Haselwarter (Aarhus)
-  title: Security Proofs via Approximate Relational Reasoning for Higher-Order Probabilistic Programs
-- date: April 2
-  title: Grant application discussions
-- date: Mar 26
-  speaker: Sergei Stepanenko (Aarhus)
-  title: Solving Guarded Domain Equations in Presheaves Over Ordinals and Mechanizing It
-- date: Feb 21
-  speaker: Nobuko Yoshida (Oxford)
-  title: Separation and Encodability in Mixed Choice Multiparty Sessions
+- section: Upcoming Talks
+  talks:
+
+- section: Spring 2025
+  talks:
+    - date: 2025-06-25
+      speaker: Lyes Saadi
+    - date: 2025-05-28
+      speaker: Rasmus Møgelberg
+      title: Induction and Recursion Principles in a Higher-Order Quantitative Logic
+    - date: 2025-05-14
+      speaker: Matteo Acclavio (Sussex)
+      title: Formulas as Processes in Linear Logic Programming
+    - date: 2025-04-09
+      title: Grant application discussions
+    - date: 2025-04-08
+      speaker: Joris Ceulemans (KU Leuven)
+      title: Multimode Type Theory as a Library in Type Theory
+    - date: 2025-04-07
+      speaker: Philipp Haselwarter (Aarhus)
+      title: Security Proofs via Approximate Relational Reasoning for Higher-Order Probabilistic Programs
+    - date: 2025-04-02
+      title: Grant application discussions
+    - date: 2025-03-26
+      speaker: Sergei Stepanenko (Aarhus)
+      title: Solving Guarded Domain Equations in Presheaves Over Ordinals and Mechanizing It
+    - date: 2025-02-21
+      speaker: Nobuko Yoshida (Oxford)
+      title: Separation and Encodability in Mixed Choice Multiparty Sessions
+
+- section: Autumn 2024
+  talks:
+    - date: 2024-12-11
+      speaker: Simon Gay (Glasgow)
+      title: Trains, Pictures and Types
+    - date: 2024-12-09
+      speaker: Marino Miculan (Udine)
+      title: A Bigraph-based Formal Model and Verification Framework for Container-Based Systems
+    - date: 2024-11-26
+      speaker: Eric Giovannini (University of Michigan)
+      title: Denotational Semantics of Gradual Typing using Synthetic Guarded Domain Theory
+    - date: 2024-11-22
+      title: PLS research day (all day)
+    - date: 2024-11-19
+      speaker: Maaike Zwart
+      title: Self-Distributing Monads
+    - date: 2024-09-10
+      speaker: Patrick Bahr
+      title: Calculating Graph-Based Compilers
+    - date: 2024-08-27
+      speaker: Rasmus Møgelberg
+      title: An introduction to synthetic guarded domain theory with applications to probabilistic programming languages.
+
+- section: Spring 2024
+  talks:
+    - date: 2024-06-25
+      speaker: Pawel Sobocinski (TalTech)
+    - date: 2024-05-30
+      speaker: Markus Krabbe Larsen
+      title: Mechanizing state separation for modular cryptographic proofs
+    - date: 2024-05-06
+      speaker: Giorgio Bacci (Aalborg)
+      title: Two Propositional Logics for the Lawvere Quantale. In 4A05
+    - date: 2024-04-09
+      speaker: Alessandro Bruni
+      title: Exploration of properties of differentiable logics through mechanisation. In 3A07.
+    - date: 2024-03-14
+      speaker: Daniel Gratzer (Aarhus)
+      title: A modal deconstruction of Loeb induction
+    - date: 2024-03-12
+      speaker: Markus Krabbe Larsen
+      title: Adjoint Affine Interpretation
+    - date: 2024-03-08
+      speaker: Marco Carbone
+      title: A Probabilistic Choreography Language for PRISM
+    - date: 2024-02-27
+      speaker: Dmitriy Traytel (DIKU)
+      title: Binding-aware datatypes and inductive predicates in Isabelle/HOL
+    - date: 2024-02-13
+      speaker: Maaike Zwart
+      title: What monads can and cannot do with a bit of extra time.
+
+- section: Autumn 2023
+  talks:
+    - date: 2023-12-04
+      speaker: Brigitte Pientka
+      title: "Mechanizing Session-Types: Enforcing linearity without linearity. In Aud4 (Monday)"
+    - date: 2023-11-28
+      title: Lean Course
+    - date: 2023-11-21
+      title: Lean Course
+    - date: 2023-11-14
+      title: Lean Course
+    - date: 2023-10-03
+      speaker: Emil Ørup Kristensen
+      title: Secure Choreographies in PSPSP/Isabelle
+    - date: 2023-09-05
+      speaker: Mahsa Varshosaz
+      title: Formal Specification and Testing for Reinforcement Learning
+    - date: 2023-08-22
+      speaker: Patrick Bahr
+      title: Modal FRP For All.
+
+- section: Spring 2023
+  talks:
+    - date: 2023-05-24
+      speaker: Ekaterina Komendantskaya (Heriot-Watt)
+      title: Integrated Neural Network Verification with Vehicle
+    - date: 2023-05-22
+      speaker: Natalia Slusarz (Heriot-Watt)
+      title: "Logic of Differentiable Logics: Towards a Uniform Semantics of DL"
+    - date: 2023-05-16
+      speaker: Ichiro Hasuo (National Institute of Informatics, Japan)
+      title: Proving Safety of Automated Driving Vehicles. Online talk.
+    - date: 2023-05-02
+      speaker: Carsten Schürmann
+      title: Tick Unify
+    - date: 2023-04-11
+      speaker: Jimmy Koppen (MIT)
+      title: Meta-metaprogramming
+    - date: 2023-03-31
+      speaker: Raul Pardo Jimenez
+      title: Formal Verification of Privacy Policies for Social Networks (Joint PLS/Square)
+    - date: 2023-03-21
+      speaker: Reynald Affeldt (AIST) and Takafumi Saikawa (Nagoya)
+    - date: 2023-03-07
+      speaker: Carsten Schürmann
+      title: Postponed
+    - date: 2023-02-07
+      title: No talk, just meetings
+    - date: 2023-01-25
+      speaker: Dawit Tirore
+      title: Sound and complete projection of multi-party protocols
+
+- section: Autumn 2022
+  talks:
+    - date: 2022-12-13
+      speaker: Rasmus Møgelberg
+    - date: 2022-11-08
+      speaker: Jon Sterling (Aarhus University)
+    - date: 2022-11-01
+      speaker: Adele Veschetti (University of Bologna)
+      title: A formal analysis of blockchain consensus protocols
+    - date: 2022-10-04
+      speaker: Yannick Zakowski (Inria)
+      title: Monadic Definitional Interpreters as Formal Semantic Models of Computations in Coq
+    - date: 2022-09-05
+      speaker: Frederik Haagensen
+      title: Incentive Alignment through Secure
+
+- section: Spring 2022
+  talks:
+    - date: 2022-06-17
+      speaker: Sebastian Mödersheim (DTU)
+      title: Joint PLS/CISAT talk
+    - date: 2022-06-07
+      speaker: Philip Munksgaard (DIKU)
+    - date: 2022-05-25
+      speaker: Christoph Matheja (DTU)
+      title: Joint PLS/Square talk
+    - date: 2022-05-18
+      speaker: Tim Steenvoorden (Open University the Netherlands)
+    - date: 2022-04-26
+      speaker: Tarmo Uustalu (Reykjavik)
+      title: Over Zoom
+    - date: 2022-04-07
+      speaker: Alejandro Aguirre (Aarhus)
+    - date: 2022-03-29
+      speaker: Mikkel Kragh Mathiesen (DIKU)
+    - date: 2022-03-15
+      speaker: Carsten Schürmann
+    - date: 2022-02-15
+      speaker: Jonas Kastberg Hinrichsen (Aarhus)
+      title: Cancelled
+    - date: 2022-02-11
+      speaker: Rasmus Lerchedahl Petersen (GitHub)
+      title: Static analysis at GitHub Scale
+
+- section: Autumn 2021
+  note: We meet Tuesdays 12-13.
+  talks:
+    - date: 2021-09-10
+      speaker: Patrick Bahr
+    - date: 2021-09-24
+      speaker: Jesper Bengtson
+    - date: 2021-10-05
+      speaker: Antoine van Muylder (Vrije Universiteit Brussel)
+    - date: 2021-11-16
+      speaker: Dawit Tiore
+    - date: 2021-11-30
+      speaker: Rasmus Lerchedahl Petersen (GitHub)
+      title: Cancelled
+    - date: 2021-12-07
+      time: 13:00
+      speaker: Niccolò Veltri (Tallinn)
+    - date: 2021-12-14
+      speaker: Patricia Johann (Appalachian State University)
+
+- section: Spring 2021
+  note: We meet Fridays 12-13. For the time being meetings are virtual. Invitation will appear in calendars. If you would like to attend or give a talk, email Rasmus.
+  talks:
+    - date: 2021-02-12
+      time: 12:00-13:00
+      title: No talk, catch-up meeting
+    - date: 2021-02-26
+      time: 12:00-13:00
+      speaker: Magnus Baunsgaard Kristensen
+    - date: 2021-03-12
+      time: 13:00
+      speaker: Christian Uldal Graulund
+      title: PhD defence
+    - date: 2021-03-19
+      speaker: Willard Rafnsson
+    - date: 2021-03-26
+      speaker: Alceste Scalas
+      title: "Effpi: Verified Message-Passing Programs in Scala 3"
+    - date: 2021-04-09
+      speaker: Maaike Zwart
+    - date: 2021-04-16
+      speaker: Alex Kavvos (Bristol)
+    - date: 2021-04-23
+      speaker: Rasmus Møgelberg
+    - date: 2021-05-28
+      speaker: Louis Parlant
+    - date: 2021-06-04
+      speaker: Maja Hanne Kirkeby (RUC)
+
+- section: Autumn 2020
+  talks:
+    - date: 2020-10-06
+      time: 12:30-13:30
+      location: Zoom
+      speaker: Marco Carbone
+      title: A Characterisation of Coherence as Linear Logic Proofs
+    - date: 2020-10-20
+      time: 13:00-14:00
+      location: Zoom
+      speaker: Jonas Kastberg Hinrichsen
+      title: Mechanising Type Systems using Semantic Typing
+    - date: 2020-11-05
+      time: 12:00-13:00
+      location: 3A08
+      speaker: Christian Uldal Graulund
+    - date: 2020-11-17
+      time: 12:30-13:30
+      speaker: Willard Rafnsson
+
+- section: Spring 2020
+  note: This semester we meet Tuesdays 12-13 in 3A08 unless otherwise noted.
+  talks:
+    - date: 2020-02-04
+      location: 5A09
+      speaker: Marco Carbone
+      title: Towards a Logic of Forwarders
+    - date: 2020-04-17
+      location: Zoom
+      speaker: Søren Debois
+    - date: 2020-05-18
+      location: Zoom
+      speaker: Daniel Gratzer (Aarhus)
+
+- section: Autumn 2019
+  note: This semester we meet Tuesdays 12-13 in 4A05 unless otherwise noted.
+  talks:
+    - date: 2019-08-01
+      time: 13:00-14:00
+      location: 4A54
+      speaker: Guillaume Munch-Maccagnoni
+      title: From systems programming to linear logic, and back
+    - date: 2019-09-03
+      title: No talk, just discussions
+    - date: 2019-09-17
+      title: Talk cancelled
+    - date: 2019-09-23
+      time: 10:00-11:00
+      location: 3A18
+      speaker: Andreas Nuyts
+      title: Dependent type theory with modalities and modes
+    - date: 2019-10-01
+      speaker: Alessandro Bruni
+    - date: 2019-10-24
+      day: Thursday
+      time: 12:00-13:00
+      location: 3A07
+      speaker: Jesper Bengtson
+    - date: 2019-11-12
+      speaker: Patrick Bahr
+      title: Calculating Correct Compilers – How to Implement Compilers by Proving Their Correctness First
+    - date: 2019-12-04
+      location: 3A07
+      speaker: Andrea Vezzosi
+      title: Formalizing π-calculus in Guarded Cubical Agda
+    - date: 2019-12-05
+      time: 14:00-15:00
+      location: 2A20
+      speaker: Christian Sattler
+      title: Higher categorical structure in HoTT
+    - date: 2019-12-10
+      location: 4A05
+      speaker: Hugo Andres Lopez
+
+- section: Spring 2019
+  note: In the Spring of 2019 PLS lunch talk are usually every other Wednesday 12-13 in 3A07
+  talks:
+    - date: 2019-01-29
+      title: No talk just discussions
+    - date: 2019-02-21
+      time: 14:00-15:00
+      location: 3A08
+      speaker: Willard Rafnsson
+      title: Types for Information-Flow Control in Functional Programming Languages
+    - date: 2019-03-13
+      speaker: Jonas Kastberg Hinrichsen
+      title: Formal Verification of Distributed Systems in Iris
+    - date: 2019-03-27
+      speaker: Andrea Vezzosi
+      title: Higher Inductive Types in Cubical Agda
+    - date: 2019-04-10
+      speaker: Dima Szamozvancev
+      title: Well-typed music does not sound wrong
+    - date: 2019-05-08
+      speaker: Carsten Schürmann
+      title: Intro to LF
+    - date: 2019-05-14
+      time: 12:00
+      location: 3A01
+      speaker: Adrien Guatto (IRIF, Paris)
+      title: A Basis for Synchronous Functional Programming
+    - date: 2019-05-15
+      speaker: Carsten Schürmann
+      title: Intro to LF continued
+    - date: 2019-05-29
+      speaker: Sonia Marin
+      title: Justification logic for modal logics on an intuitionistic base
+
+- section: Autumn 2018
+  note: In the Autumn of 2018 PLS lunch talk are usually every other Tuesday 12-13
+  talks:
+    - date: 2018-09-04
+      location: 2A08
+      title: No talk, just discussions
+    - date: 2018-09-18
+      location: 2A08
+      speaker: Patrick Bahr
+      title: Strict Ideal Completions of the Lambda Calculus
+    - date: 2018-10-02
+      location: 4A05
+      speaker: Niccolo Veltri
+      title: Bisimulation as path type for guarded recursive types
+    - date: 2018-11-20
+      location: 3A08
+      title: No talk
+    - date: 2018-12-04
+      location: 3A08
+      speaker: Marco Carbone
+      title: An Introduction to Multiparty Session Types and their Logical Interpretation
+    - date: 2018-12-18
+      location: 3A08
+      speaker: Rasmus Møgelberg
+      title: An invitation to presheaf semantics of type theory.
+
+- section: Spring 2018
+  note: In the Spring of 2018 PLS lunch talk are usually every other Tuesday 12-13
+  talks:
+    - date: 2018-02-27
+      title: No talk, just discussions
+    - date: 2018-03-08
+      time: 10:00-11:00
+      location: 3A18
+      speaker: Eva Graversen and Nobuko Yoshida
+    - date: 2018-03-13
+      speaker: Christian Uldal Graulund
+    - date: 2018-04-24
+      speaker: Jonas Kastberg Hinrichsen
+    - date: 2018-05-08
+      speaker: Jesper Bengtson
+    - date: 2018-05-28
+      speaker: Willard Rafnsson
+    - date: 2018-06-14
+      speaker: Rasmus Møgelberg and Bassel Mannaa
+      title: Two talks
+
+- section: Autumn 2017
+  note: In the Fall of 2017 PLS lunch talks usually take place on every other Tuesday 12-13 in 2A08.
+  talks:
+    - date: 2017-09-06
+      speaker: Oscar Toro
+      title: The Bitcoin Backbone Protocol
+    - date: 2017-09-19
+      speaker: Jonas Kastberg Hinrichsen
+      title: Specification of object oriented languages in practice
+    - date: 2017-10-03
+      speaker: Niccolo Veltri
+      title: Finiteness and rational sequences, constructively
+    - date: 2017-10-05
+      title: Formalisations using two-level type theory
+    - date: 2017-10-31
+      title: Cancelled
+    - date: 2017-11-13
+      time: 13:00-14:00
+      location: 3A08
+      speaker: Danel Ahman
+      title: A fibrational view on computational effects
+    - date: 2017-11-14
+      speaker: Hugo A. Lopez
+    - date: 2017-11-28
+      speaker: Anupam Das (U. Copenhagen)
+    - date: 2017-12-12
+      speaker: Sonia Marin
+
+- section: Spring 2017
+  note: In the Spring of 2017 PLS lunch talks usually take place on every other Thursday 12-13 in 3A08.
+  talks:
+    - date: 2017-02-02
+      title: No talk, just discussions
+    - date: 2017-02-16
+      speaker: Rosario Giustolisi
+    - date: 2017-03-16
+      speaker: Christian Uldal Graulund
+    - date: 2017-03-24
+      time: 14:00-15:00
+      location: 4A05
+      speaker: Bas Spitters (Aarhus)
+      title: Colimits in homotopy type theory.
+    - date: 2017-03-30
+      speaker: Agata Murawska
+      title: "Lincx: A Linear Logical Framework with First-class Context"
+    - date: 2017-05-23
+      speaker: Patrick Bahr
+      title: "The clocks are ticking: No more delays!"
+    - date: 2017-05-23
+      speaker: Rasmus Møgelberg
+      title: Presheaf semantics for Guarded Dependent Type Theory
+    - date: 2017-06-08
+      speaker: Bassel Mannaa
+      title: Stack Semantics of Type Theory
+
+- section: Autumn 2016
+  note: In the Fall of 2016 PLS lunch talks usually take place on every other Thursday 12-13 in 3A08.
+  talks:
+    - date: 2016-09-01
+      speaker: Marco Carbone
+      title: "Coherence Generalises Duality: a logical explanation of multiparty session types"
+    - date: 2016-09-29
+      speaker: Peter Brottveit Bock
+    - date: 2016-10-13
+      title: Meeting cancelled.
+    - date: 2016-11-10
+      speaker: Håkon Normann
+      title: Non-interleaving opperational semantics for late and early Pi-calculus
+    - date: 2016-11-24
+      speaker: Bassel Mannaa
+
+- section: Spring 2016
+  note: Talks from Spring 2016
+  talks:
+    - date: 2016-02-04
+      speaker: Alessandro Bruni
+      title: "AIF-ω: Set-based Protocol Abstraction with Countable Families."
+    - date: 2016-02-18
+      speaker: Robin Kaarsgaard (U. Copenhagen)
+    - date: 2016-03-17
+      speaker: Hans Bugge Grathwohl (Aarhus)
+    - date: 2016-03-31
+      speaker: Alec Faithful
+      title: "Coqoon: an IDE for interactive proof development in Coq"
+    - date: 2016-04-28
+      speaker: Søren Debois
+    - date: 2016-06-10
+      speaker: Michael Denzel (U. Birmingham)
+
+- section: Autumn 2015
+  note: In the Fall of 2015 PLS lunch talks usually take place on Thursdays in 3A08 unless otherwise noted.
+  talks:
+    - date: 2015-08-27
+      time: 13:00-13:30
+      location: 3A08
+      speaker: Patrick Bahr
+      title: Certified Symbolic Management of Financial Multi-party Contracts
+    - date: 2015-09-03
+      time: 12:00-13:00
+      location: 3A08
+      speaker: Peter Brottveit Bock
+      title: A linear contextual logical Framework.
+    - date: 2015-09-17
+      time: 12:00-13:00
+      location: 3A08
+      speaker: Marco Carbone
+      title: Multiparty Session Types as Coherence Proofs
+    - date: 2015-09-18
+      time: 12:00-13:00
+      location: 3A08
+      speaker: Thomas Bolander (DTU)
+      title: Building Planning Agents with Higher-Order Reasoning Capabilities
+    - date: 2015-09-21
+      time: 10:00-11:00
+      location: 3A08
+      speaker: Paul Blain Levy (Birmingham)
+      title: Transition systems over games
+    - date: 2015-10-01
+      time: 12:00-13:00
+      location: 3A18
+      speaker: Cinzia Di Giusto (Nice, Sophia Antipolis)
+      title: A Multyparty Session Type discipline for Event-Based Runtime Adaptation
+    - date: 2015-10-19
+      time: 12:00-13:00
+      location: 2A08
+      speaker: Marco Paviotti
+      title: Formally verifying exceptions for low-level code with Separation Logic
+    - date: 2015-10-29
+      time: 12:00-13:00
+      title: TBD
+    - date: 2015-11-11
+      time: 10:00-11:00
+      location: 4A09
+      speaker: Robbert Krebbers (Aarhus)
+      title: Formalizing C in Coq
+    - date: 2015-11-12
+      time: 12:00-13:00
+      speaker: Agata Anna Murawska
+      title: "Towards an happy marriage: Linear Logic and Beluga"
+    - date: 2015-11-26
+      time: 12:00-13:00
+      speaker: Marie Kerjean (PPS Paris)
+      title: The computational content of derivation
+    - date: 2015-12-10
+      time: 12:00-13:00
+      speaker: Marco Paviotti
+      title: "Synthetic Guarded Domain Theory: Recursion in Guarded Recursion."
+    - date: 2015-12-17
+      time: 12:00-13:00
+      speaker: Lorena Ronquillo

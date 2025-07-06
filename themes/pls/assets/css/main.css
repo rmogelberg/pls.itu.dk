@@ -38,6 +38,9 @@ h1, h2, h3, h4, h5, h6, h7 {
 .projects li:nth-child(odd) {
   background-color: #EEE3C3;
 }
+table.talks {
+  width: 100%;
+}
 table.talks tr {
   height: 5rem;
 }

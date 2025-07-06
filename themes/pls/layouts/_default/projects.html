@@ -13,8 +13,10 @@
 
   <h2 class=line><span>Past projects</span></h2>
   <ul class=projects>
-  {{ range where .Site.Data.projects ".end" "lt" now.Year }}
-    <li>{{ .title }}, PI {{ .pi }}{{ if .copi }}, Co-PI {{ .copi }}{{ end }}, funded by {{ .funded_by }}, {{ .start }} - {{ .end }}</li>
+  {{ range .Site.Data.projects }}
+    {{ if not (ge .end now.Year) }}
+    <li>{{ .title }}{{ if .pi }}, PI {{ .pi }}{{ end }}{{ if .copi }}, Co-PI {{ .copi }}{{ end }}{{ if .funded_by }}, funded by {{ .funded_by }}{{ end }}{{ if .start }}, {{ .start }}{{ end }}{{ if .end }} - {{ .end }}{{ end }}</li>
+    {{ end }}
   {{ end }}
   </ul>
 

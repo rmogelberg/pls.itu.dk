@@ -3,18 +3,18 @@
   {{ .Content }}
 
   <img src='../building.svg' width='100%'/>
-
-  <h2 class=line><span>Upcoming</span></h2>
+  {{ range .Site.Data.talks }}
+  <h2 class=line><span>{{ .section }}</span></h2>
+  {{ .note }}
   <table class=talks>
-  {{ range .Site.Data.talks }}{{ $speaker := .speaker }}{{ $title := .title }}
-    <tr><td><strong>{{ .speaker }}</strong>{{ if (and $speaker $title) }}: {{ end }}{{ .title }}</td><td>{{ .date }}</td><td><button>Add to calendar</button></td></tr>
+  {{ range .talks }}{{ $speaker := .speaker }}{{ $title := .title }}
+    <tr>
+      <td><strong>{{ .speaker }}</strong>{{ if (and $speaker $title) }}: {{ end }}{{ .title }}</td>
+      <td>{{ .date | time.Format "Jan 2" }}</td>
+      <td>{{ if ge (time .date) (time now) }}<button>Add to calendar</button>{{ end }}</td>
+    </tr>
   {{ end }}
   </table>
-
-  <h2 class=line><span>Past talks</span></h2>
-  <table class=talks>
-  {{ range .Site.Data.talks }}{{ $speaker := .speaker }}{{ $title := .title }}
-    <tr><td><strong>{{ .speaker }}</strong>{{ if (and $speaker $title) }}: {{ end }}{{ .title }}</td><td>{{ .date }}</td><td></td></tr>
   {{ end }}
-  </table>
-{{ end }}
+
+  {{ end }}
