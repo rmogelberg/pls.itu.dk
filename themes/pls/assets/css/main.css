@@ -251,3 +251,77 @@ header > h1 {
   background: url('../pls-logo.svg') no-repeat;
   background-size: 145px 74px;
 }
+
+/* Hamburger menu styles */
+.hamburger {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+  width: 32px;
+  height: 32px;
+  justify-content: center;
+  align-items: center;
+  z-index: 1001;
+}
+.hamburger span {
+  height: 4px;
+  width: 28px;
+  background: #1D3769;
+  margin: 4px 0;
+  border-radius: 2px;
+  display: block;
+  transition: 0.3s;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  body {
+    margin: 0.5rem;
+    max-width: 100vw;
+  }
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+    padding-bottom: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  header > h1 {
+    margin-bottom: 1rem;
+  }
+  .hamburger {
+    display: flex;
+  }
+  header > nav > ul {
+    display: none;
+    flex-direction: column;
+    width: 100vw;
+    background: #fff;
+    position: absolute;
+    top: 70px;
+    left: 0;
+    z-index: 1000;
+    border-bottom: 1px solid #222;
+    padding: 1rem 0;
+  }
+  header > nav.open > ul {
+    display: flex;
+  }
+  header > nav > ul > li {
+    display: block;
+    margin: 1em 0;
+    text-align: left;
+  }
+  main .welcome,
+  main .about,
+  main .guide {
+    padding: 1rem;
+    margin: 1rem 0;
+  }
+  ul.cards li,
+  main .explore ul li {
+    width: 100%;
+    line-height: 3rem;
+    font-size: 1em;
+  }
+}
