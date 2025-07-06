@@ -289,34 +289,43 @@ header > h1 {
     margin-bottom: 1rem;
   }
   header > h1 {
-    margin: 0;
+    margin: 0 1rem;
   }
   .hamburger {
     display: flex;
+    margin: 0 1rem;
   }
   header > nav {
     display: none;
-    width: 100vw;
+    width: 100%;
   }
   header > nav.open {
     display: block;
   }
   header > nav > ul {
+    display: flex;
     flex-direction: column;
-    width: 100vw;
     background: #fff;
     top: 70px;
     left: 0;
     z-index: 1000;
     padding: 1rem 0;
     text-align: center;
-  }
-  header > nav.open > ul {
-    display: flex;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #1D3769;
   }
   header > nav > ul > li {
     display: block;
-    margin: 1em;
+    padding: 0.5rem 0;
+    margin: 0;
+    border-bottom: 1px solid #EFB21B;
+  }
+  header > nav > ul > li:last-child {
+    border: 0;
+  }
+  header > nav > ul > li > a {
+    color: #EFB21B;
   }
   main .welcome,
   main .about,
@@ -329,5 +338,12 @@ header > h1 {
     width: 100%;
     line-height: 3rem;
     font-size: 1em;
+  }
+  footer p.itu {
+    min-height; 5rem;
+  }
+  footer p.itu span {
+    padding: 0 0.5rem;
+    line-height: inherit;
   }
 }
