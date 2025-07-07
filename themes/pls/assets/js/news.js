@@ -17,20 +17,12 @@
   };
 
   const prev = () => {
-    if (currentIndex > 0) {
-      currentIndex--;
-    } else {
-      currentIndex = toggles.childredn.length - 1;
-    }
+    currentIndex = (currentIndex + toggles.children.length - 1) % toggles.children.length;
     select();
   };
 
   const next = () => {
-    if (currentIndex < toggles.children.length - 1) {
-      currentIndex++;
-    } else {
-      currentIndex = 0;
-    }
+    currentIndex = (currentIndex + 1) % toggles.children.length;
     select();
   };
 
