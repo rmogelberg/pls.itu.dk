@@ -439,6 +439,12 @@ header > h1 {
   main table.talks tr td:nth-child(3) button {
     width: 100%;
   }
+  .latestnews .newsbox {
+    padding: 3rem 1.5rem;
+  }
+  .latestnews .newsbox ul.newslist {
+    margin: 0 1.5rem;
+  }
   footer p.itu {
     min-height: 5rem;
   }
