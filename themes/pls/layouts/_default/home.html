@@ -48,13 +48,28 @@
 
 <div class=latestnews>
   <h2 class=line><span>Latest News</span></h2>
-  <ul class=newsbox>
-  {{ range first 3 .Site.Data.news }}
-    <li class=newsitem>
-      <h3>{{ .title }}</h3>
-      <p>{{ .text }}</p>
-    </li>
-  {{ end }}
-  </ul>
+  <div class="newsbox">
+    <ul class="newslist">
+    {{ $index := 0 }}
+    {{ range first 3 .Site.Data.news }}
+      <li class="newsitem idx{{ $index }}{{ if eq $index 0 }} active{{ end }}">
+        <h3>{{ .title }}</h3>
+        <p>{{ .text }}</p>
+      </li>
+      {{ $index = add $index 1 }}
+    {{ end }}
+    </ul>
+    <buttton class="prev"><span>Previous</span></buttton>
+    <buttton class="next"><span>Next</span></buttton>
+    <ul class="toggles">
+      {{ $index := 0 }}
+      {{ range first 3 .Site.Data.news }}
+        <li class="toggleitem">
+          <a class="{{ if eq $index 0 }}active{{ end }}"><span>{{ .title }}</span></a>
+        </li>
+      {{ $index = add $index 1 }}
+      {{ end }}
+    </ul>
+  </div>
 </div>
 {{ end }}

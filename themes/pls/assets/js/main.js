@@ -3,8 +3,8 @@ window.addEventListener('load', () => {
     const blur = document.getElementById('blur');
     const nav = document.getElementById('mainnav');
     hamburger.addEventListener('click', () => {
-    nav.classList.toggle('open');
-    blur.classList.toggle('open');
-    hamburger.classList.toggle('open');
+        nav.classList.toggle('open');
+        blur.classList.toggle('open');
+        hamburger.classList.toggle('open');
     });
 });
