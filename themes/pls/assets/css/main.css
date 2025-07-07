@@ -348,6 +348,37 @@ header > h1 {
     width: 47%;
     font-size: 1em;
   }
+  main table.talks {
+    display: block;
+  }
+  main table.talks tbody {
+    display: flex;
+    flex-direction: column;
+  }
+  main table.talks tr {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+  }
+  main table.talks tr td:nth-child(1) {
+    width: 100%;
+    order: 2;
+    padding-bottom: 1rem;
+  }
+  main table.talks tr td:nth-child(2) {
+    width: 100%;
+    order: 1;
+    padding-top: 1rem;
+  }
+  main table.talks tr td:nth-child(3) {
+    width: 100%;
+    padding: 0;
+    order: 3;
+  }
+  main table.talks tr td:nth-child(3) button {
+    width: 100%;
+  }
   footer p.itu {
     min-height: 5rem;
   }
