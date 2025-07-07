@@ -2,7 +2,7 @@
   role: Associate Professor
   pure: https://pure.itu.dk/en/persons/patrick-bahr
   website: https://bahr.io/
-  photo: patrickbahr.png
+  photo:  patrickbahr.png
   supervision: |
     Patrick supervises projects related to compilers, type systems, functional programming, and formal verification. He is interested in topics such as functional reactive programming, the design and implementation of advanced type systems, compiler construction, and correct-by-construction compilers using formal methods. Students are encouraged to work in groups and can contact him for supervision on research projects, theses, or other related topics.
 - name: Jesper Bengtson
@@ -51,6 +51,6 @@
   role: Professor
   pure: https://pure.itu.dk/en/persons/carsten-sch%C3%BCrmann
   website: https://www.itu.dk/~carsten/
-  photo: CarstenSchürmann.png
+  photo: CarstenSchuermann.png
   supervision: |
     Carsten supervises projects in logic in computer science, logical frameworks, type theory, theorem proving, computational logic, and programming languages (both functional and logic programming). He is particularly interested in formal methods, proof assistants, and the development of logical frameworks such as Twelf and Delphin. Carsten welcomes students who are interested in foundational aspects of programming languages, formal verification, and applications of logic to real-world systems, including secure and trustworthy elections. He encourages students to propose research-oriented projects that align with his expertise in computational logic, formal digital libraries, and the intersection of logic and software engineering.

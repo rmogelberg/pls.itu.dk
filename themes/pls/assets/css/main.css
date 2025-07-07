@@ -247,12 +247,16 @@ header > nav > ul > li {
   margin: 1em;
 }
 
-header > h1 > span {
+header > h1 span {
   display: none;
 }
-header > h1 {
+header > h1 a {
+  display: block;
+  text-decoration: none;
   width: 145px;
   height: 74px;
+}
+header > h1 {
   margin: 0;
   padding: 0;
   background: url('../pls-logo.svg') no-repeat;
