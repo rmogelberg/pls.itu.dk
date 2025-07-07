@@ -201,6 +201,10 @@ ul.cards li {
   display: block;
   width: 23%;
 }
+ul.cards li img {
+  width: 100%;
+  height: auto;
+}
 
 footer {
   border-top: 1px solid #222;
@@ -334,7 +338,7 @@ header > h1 {
   }
   ul.cards li,
   main .explore ul li {
-    width: 100%;
+    width: 45%;
     font-size: 1em;
   }
   footer p.itu {

@@ -6,7 +6,7 @@
   <ul class=cards>
   {{ range .Site.Data.faculty }}
     <li>
-      <img src="{{ .photo }}" width=200px/><br/>
+      <img src="{{ .photo }}" class="staff-photo"/><br/>
       <strong>{{ .name }}</strong><br/>
       {{ .role }}<br/>
       <a href={{ .pure }}>ITU profile</a><br/>
@@ -19,7 +19,7 @@
   <ul class=cards>
   {{ range .Site.Data.staff }}
     <li>
-      <img src="../{{ .photo }}" width=200px/><br/>
+      <img src="../{{ .photo }}" class="staff-photo"/><br/>
       <strong>{{ .name }}</strong><br/>
       {{ .role }}<br/>
       <a href={{ .pure }}>ITU profile</a><br/>
