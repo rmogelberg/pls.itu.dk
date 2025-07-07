@@ -331,18 +331,25 @@ header > h1 {
     color: #EFB21B;
   }
   main .welcome,
-  main .about,
   main .guide {
     padding: 1rem;
     margin: 1rem 0;
   }
+  main .about {
+    padding: 1rem;
+    margin: -2rem 2rem 0;
+  }
+  main .whiteboard {
+    height: 200px;
+    background-size: cover;
+  }
   ul.cards li,
   main .explore ul li {
-    width: 45%;
+    width: 47%;
     font-size: 1em;
   }
   footer p.itu {
-    min-height; 5rem;
+    min-height: 5rem;
   }
   footer p.itu span {
     padding: 0 0.5rem;
