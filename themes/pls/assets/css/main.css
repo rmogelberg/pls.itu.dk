@@ -288,7 +288,8 @@ a {
   color: #000;
   text-decoration: none;
 }
-a.active {
+a.active,
+.toggleitem.active a {
   color: #D2482C;
 }
 

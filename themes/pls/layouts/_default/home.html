@@ -64,8 +64,8 @@
     <ul class="toggles">
       {{ $index := 0 }}
       {{ range first 3 .Site.Data.news }}
-        <li class="toggleitem">
-          <a class="{{ if eq $index 0 }}active{{ end }}"><span>{{ .title }}</span></a>
+        <li class="toggleitem{{ if eq $index 0 }} active{{ end }}">
+          <a><span>{{ .title }}</span></a>
         </li>
       {{ $index = add $index 1 }}
       {{ end }}
