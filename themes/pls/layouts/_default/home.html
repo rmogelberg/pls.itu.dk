@@ -59,17 +59,30 @@
       {{ $index = add $index 1 }}
     {{ end }}
     </ul>
-    <buttton class="prev" onclick="prev()"><span>Previous</span></buttton>
-    <buttton class="next" onclick="next()"><span>Next</span></buttton>
+    <buttton class="prev"><span>Previous</span></buttton>
+    <buttton class="next"><span>Next</span></buttton>
     <ul class="toggles">
       {{ $index := 0 }}
       {{ range first 3 .Site.Data.news }}
         <li class="toggleitem">
-          <a class="{{ if eq $index 0 }}active{{ end }}" href="#newsitem{{ $index }}" onclick="toggleItem()"><span>{{ .title }}</span></a>
+          <a class="{{ if eq $index 0 }}active{{ end }}"><span>{{ .title }}</span></a>
         </li>
       {{ $index = add $index 1 }}
       {{ end }}
     </ul>
   </div>
 </div>
+{{- with resources.Get "js/news.js" }}
+  {{- if eq hugo.Environment "development" }}
+    {{- with . | js.Build }}
+      <script src="{{ .RelPermalink }}"></script>
+    {{- end }}
+  {{- else }}
+    {{- $opts := dict "minify" true }}
+    {{- with . | js.Build $opts | fingerprint }}
+      <script src="{{ .RelPermalink }}" integrity="{{- .Data.Integrity }}" crossorigin="anonymous"></script>
+    {{- end }}
+  {{- end }}
+{{- end }}
+
 {{ end }}
