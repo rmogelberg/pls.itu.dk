@@ -3,5 +3,6 @@ window.addEventListener('load', () => {
     const nav = document.getElementById('mainnav');
     hamburger.addEventListener('click', () => {
     nav.classList.toggle('open');
+    hamburger.classList.toggle('open');
     });
 });

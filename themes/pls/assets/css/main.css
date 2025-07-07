@@ -258,22 +258,17 @@ header > h1 {
 /* Hamburger menu styles */
 .hamburger {
   display: none;
-  flex-direction: column;
   cursor: pointer;
   width: 32px;
   height: 32px;
-  justify-content: center;
-  align-items: center;
+  background: url('../hamburger.svg') no-repeat center center;
   z-index: 1001;
 }
-.hamburger span {
-  height: 4px;
-  width: 28px;
-  background: #1D3769;
-  margin: 4px 0;
-  border-radius: 2px;
-  display: block;
-  transition: 0.3s;
+.hamburger.open {
+  background: url('../close.svg') no-repeat center center;
+}
+.hamburger.open span {
+  display: none;
 }
 
 /* Responsive styles */
@@ -295,28 +290,29 @@ header > h1 {
     margin: 0 1rem;
   }
   .hamburger {
-    display: flex;
+    display: block;
     margin: 0 1rem;
   }
   header > nav {
     display: none;
-    width: 100%;
   }
   header > nav.open {
     display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    width: 80vw;
+    background-color: #1D3769;
   }
   header > nav > ul {
     display: flex;
     flex-direction: column;
-    background: #fff;
-    top: 70px;
-    left: 0;
-    z-index: 1000;
+    margin: calc(3rem + 32px) 0;
     padding: 1rem 0;
     text-align: center;
     text-transform: uppercase;
     font-weight: bold;
-    background-color: #1D3769;
   }
   header > nav > ul > li {
     display: block;
