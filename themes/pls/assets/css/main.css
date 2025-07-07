@@ -274,6 +274,15 @@ header > h1 {
 .hamburger.open span {
   display: none;
 }
+#blur.open {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 999;
+  backdrop-filter: blur(5px);
+}
 
 /* Responsive styles */
 @media (max-width: 768px) {
@@ -345,7 +354,7 @@ header > h1 {
   }
   ul.cards li,
   main .explore ul li {
-    width: 47%;
+    width: 45%;
     font-size: 1em;
   }
   main table.talks {
