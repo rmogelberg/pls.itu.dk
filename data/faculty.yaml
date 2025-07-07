@@ -34,7 +34,7 @@
   supervision: |
     Rosario is always interested in supervising new thesis projects and welcomes students with a passion for security, privacy, and formal methods. Some example topics include: feasibility studies of typosquatting attacks in forums and Q&A websites (such as Reddit, Stack Overflow, or Quora), improving password filters by enforcing random-looking passwords, usability studies of coercion-resistant voting systems, and the design and development of secure applications for decision systems (including e-voting and exams). Other areas of interest are the design and verification of accountability systems (like Google's Certificate Transparency, Ethereum's proof-of-stake, or voting systems) and the security analysis of socio-technical systems for fun and profit (such as transport tickets, car sharing, bike rental apps, or vending machines). Students are encouraged to reach out to discuss these or other related topics.
 - name: Rasmus Møgelberg
-  role: Professor
+  role: Professor, Head of Research group
   pure: https://pure.itu.dk/da/persons/rasmus-ejlers-m%C3%B8gelberg
   website: https://www.itu.dk/~mogel/
   photo: RasmusITU2023.png
