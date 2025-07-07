@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6, h7 {
 .projects li {
   display: block;
   padding: 1rem;
-  height: 5rem;
+  min-height: 5rem;
   vertical-align: middle;
 }
 .projects li:nth-child(odd) {
@@ -42,7 +42,7 @@ table.talks {
   width: 100%;
 }
 table.talks tr {
-  height: 5rem;
+  min-height: 5rem;
 }
 table.talks tr:nth-child(odd) {
   background-color: #EEE3C3;
