@@ -215,7 +215,7 @@ main .explore ul li:nth-child(odd) a {
   background-position: 0 -100px;
 }
 #ex-people {
-  background: url('../geo1.png');
+  background: url('../geo1.svg');
   background-size: cover;
 }
 #ex-projects {
@@ -223,7 +223,7 @@ main .explore ul li:nth-child(odd) a {
   background-size: cover;
 }
 #ex-talks {
-  background: url('../geo2.png');
+  background: url('../geo2.svg');
   background-size: cover;
 }
 #ex-students {
@@ -231,7 +231,7 @@ main .explore ul li:nth-child(odd) a {
   background-size: cover;
 }
 #ex-directions {
-  background: url('../geo3.png');
+  background: url('../geo3.svg');
   background-size: cover;
 }
 
