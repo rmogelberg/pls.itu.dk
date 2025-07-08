@@ -1,49 +1,66 @@
-- name: Dawit Tirore
+- name: Dawit Tirore (2025)
   note: "Supervisors: Marco Carbone and Jesper Bengtson"
-- name: Frederik Madsen
+- name: Frederik Madsen (2023)
   note: "Supervisor: Søren Debois"
-- name: Magnus Baunsgaard Kristensen
+- name: Magnus Baunsgaard Kristensen (2022)
   note: "Supervisor: Rasmus Møgelberg"
-- name: Christian Uldal Graulund
-  note: "Supervisor: Rasmus Møgelberg"
-- name: Jonas Kastberg Hinrichsen
+- name: Jonas Kastberg Hinrichsen (2021) 
   note: "Supervisor: Jesper Bengtson"
-- name: Håkon Norman
+- name: Christian Uldal Graulund (2021)
+  note: "Supervisor: Rasmus Møgelberg"
+- name: Håkon Norman (2019)
   note: "Supervisor: Thomas Hildebrandt"
-- name: Agata Murawska
+- name: Agata Murawska (2017)
   note: "Supervisor: Carsten Schuermann"
-- name: Marco Paviotti
+- name: Marco Paviotti (2016)
   note: "Denotational Semantics in Guarded Type Theory. Supervisor: Rasmus Ejlers Møgelberg. Co-supervisor: Jesper Bengtson"
-- name: Jian Wang
+- name: Jian Wang (2016)
   note: "Supervisor: Carsten Schuermann"
-- name: Daniel Gustafsson
+- name: Daniel Gustafsson (2016)
   note: "Supervisor: Carsten Schuermann"
-- name: Tijs Slaats
-  note: "Supervisor: Thomas Hildebrandt"
-- name: Fabrizio Montesi
+- name: Tijs Slaats (2014)
+  note: "Supervisor: Thomas Hildebrandt and Marco Carbone"
+- name: Fabrizio Montesi (2013)
   note: "Supervisor: Marco Carbone"
-- name: Gian Perrone
+- name: Gian Perrone (2013)
   note: "Supervisor: Thomas Hildebrandt"
-- name: Taus Brock-Nannestad
+- name: Lei Song (2012)
+  note: "Supervisor: Jens Chr. Godskesen"
+- name: Hugo A. López (2012)
+  note: "Supervisor: Thomas Hildebrandt and Marco Carbone"
+- name: Taus Brock-Nannestad 
   note: "Supervisor: Carsten Schuermann"
 - name: Filip Sieczkowski
   note: "Supervisor: Lars Birkedal"
 - name: Jonas B. Jensen
   note: "Supervisor: Lars Birkedal"
-- name: Hannes Mehnert
-- name: Bodil Biering
-- name: Nina Bohr
-- name: Mikkel Bundgaard
-- name: Troels C. Damgaard
-- name: Søren Debois
-- name: Ebbe Elsborg
 - name: Espen Højsgaard
-- name: Hugo A. López
-- name: Rasmus Ejlers Møgelberg
-- name: Rasmus Lerchedahl Petersen
-- name: Adam Poswolsky
-- name: Jeffrey Sarnat
-- name: Anders Schack-Nielsen
-- name: Lei Song
+  note: "Supervisor: Thomas Hildebrandt"
 - name: Jacob Thamsborg
+  note: "Supervisor: Lars Birkedal"
+- name: Anders Schack-Nielsen
+  note: "Supervisor: Carsten Schuermann"
+- name: Mikkel Bundgaard
+  note: "Supervisor: Thomas Hildebrandt"
+- name: Hannes Mehnert
+  note: "Supervisor: ?"
+- name: Bodil Biering
+  note: "Supervisor: Lars Birkedal"
+- name: Nina Bohr
+  note: "Supervisor: Lars Birkedal"
+- name: Troels C. Damgaard
+  note: "Supervisor: Lars Birkedal"
+- name: Søren Debois
+  note: "Supervisor: Lars Birkedal"
+- name: Ebbe Elsborg
+  note: "Supervisor: Lars Birkedal"
+- name: Rasmus Lerchedahl Petersen
+  note: "Supervisor: Lars Birkedal"
+- name: Adam Poswolsky
+  note: "Supervisor: Carsten Schuermann"
+- name: Jeffrey Sarnat
+  note: "Supervisor: Carsten Schuermann"
+- name: Rasmus Ejlers Møgelberg
+  note: "Supervisor: Lars Birkedal"
 - name: Noah Torp-Smith
+  note: "Supervisor: Lars Birkedal"
