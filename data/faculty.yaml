@@ -39,7 +39,7 @@
   website: https://www.itu.dk/~mogel/
   photo: RasmusITU2023.png
   supervision: |
-    Rasmus supervises projects in the theory and semantics of programming languages, type theory, category theory, and logic. He is particularly interested in topics such as denotational semantics, guarded recursion, domain theory, parametric polymorphism, and computational effects. Students interested in foundational aspects of programming languages, advanced type systems, or the mathematical structures underlying computation are encouraged to contact him for supervision.
+    Rasmus supervises projects in the theory and implementation of programming languages. He is particularly interetested the design of advanced type systems, such as those used for functional reactive programming, language based security, automatic differentiation, systems with dependent types, as well as other features. He is also interested in the use and implementation of proof assistants, and more theoretical topics in logic, category theory and mathematics in general.
 - name: Willard Rafnsson
   role: Associate Professor
   pure: https://pure.itu.dk/en/persons/willard-rafnsson
