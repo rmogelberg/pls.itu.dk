@@ -16,7 +16,7 @@
   {{ end }}
   </ul>
 
-  <h2 class=line><span>PhDs and Postdocs</span></h2>
+  <h2 class=line><span>Staff</span></h2>
   <ul class=cards>
   {{ range .Site.Data.staff }}
     <li>
@@ -24,11 +24,23 @@
       <img src='{{ ($img.Process "resize 450x webp").Permalink }}' class="staff-photo"/><br/>
       <strong>{{ .name }}</strong><br/>
       {{ .role }}<br/>
-      <a href={{ .pure }}>ITU profile</a><br/>
+      {{ if .pure }}<a href={{ .pure }}>ITU profile</a><br/>{{ end }}
       <a href={{ .website }}>Website</a>
     </li>
   {{ end }}
   </ul>
+
+  <h2 class=line><span>Hall of Fame</h2>
+  <ul class=cards>
+  {{ range .Site.Data.halloffame }}
+    <li>
+      <strong>{{ .name }}</strong><br/>
+      {{ .note }}<br/>
+      {{ if .period }}({{ .period }}){{ end }}
+    </li>
+  {{ end }}
+  </ul>
+  
 
   <h2 class=line><span>Graduated PhDs</span></h2>
   <ul class=cards>

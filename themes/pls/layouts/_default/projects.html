@@ -15,7 +15,7 @@
   <ul class=projects>
   {{ range .Site.Data.projects }}
     {{ if not (ge .end now.Year) }}
-    <li>{{ .title }}{{ if .pi }}, PI {{ .pi }}{{ end }}{{ if .copi }}, Co-PI {{ .copi }}{{ end }}{{ if .funded_by }}, funded by {{ .funded_by }}{{ end }}{{ if .start }}, {{ .start }}{{ end }}{{ if .end }} - {{ .end }}{{ end }}</li>
+    <li><span>{{ .title }}{{ if .pi }}, PI {{ .pi }}{{ end }}{{ if .copi }}, Co-PI {{ .copi }}{{ end }}{{ if .funded_by }}, funded by {{ .funded_by }}{{ end }}{{ if .start }}, {{ .start }}{{ end }}{{ if .end }} - {{ .end }}{{ end }}</span></li>
     {{ end }}
   {{ end }}
   </ul>
