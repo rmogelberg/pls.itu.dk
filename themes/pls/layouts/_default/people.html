@@ -10,8 +10,8 @@
       <img src='{{ ($img.Process "resize 450x webp").Permalink }}' class="staff-photo"/><br/>
       <strong>{{ .name }}</strong><br/>
       {{ .role }}<br/>
-      <a href={{ .pure }}>ITU profile</a><br/>
-      <a href={{ .website }}>Website</a>
+      {{ if .pure }}<a href={{ .pure }}>ITU profile</a><br/>{{ end }}
+      {{ if .website }}<a href={{ .website }}>Website</a>{{ end }}
     </li>
   {{ end }}
   </ul>
@@ -25,7 +25,7 @@
       <strong>{{ .name }}</strong><br/>
       {{ .role }}<br/>
       {{ if .pure }}<a href={{ .pure }}>ITU profile</a><br/>{{ end }}
-      <a href={{ .website }}>Website</a>
+      {{ if .website }}<a href={{ .website }}>Website</a>{{ end }}
     </li>
   {{ end }}
   </ul>

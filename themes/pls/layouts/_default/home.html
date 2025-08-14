@@ -54,7 +54,7 @@
     {{ range first 3 .Site.Data.news }}
       <li class="newsitem{{ if eq $index 0 }} active{{ end }}" id="newsitem{{ $index }}">
         <h3>{{ .title }}</h3>
-        <p>{{ .text }}</p>
+        <p>{{ .text | markdownify }}</p>
       </li>
       {{ $index = add $index 1 }}
     {{ end }}

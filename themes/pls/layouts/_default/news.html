@@ -14,7 +14,7 @@
   <h2 class=line><span>{{ . }}</span></h2>
   <ul class=news>
     {{ range where $.Site.Data.news ".year" . }}
-    <li>{{ .text }}</li>
+    <li>{{ .text | markdownify }}</li>
     {{ end }}
   </ul>
   {{ end }}
