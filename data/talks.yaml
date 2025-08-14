@@ -1,8 +1,8 @@
 - section: Upcoming Talks
   talks:
-   - date: 2025-08-05
-     speaker: TBA
-     title: TBA
+   - date: 2025-08-19
+     speaker: Joshua Smart (University of Southampton)
+     title: Implementation of a Rocq Backend to the Vehicle Neural Network Specification Language
 
 - section: Spring 2025
   talks:
