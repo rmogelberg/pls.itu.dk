@@ -4,7 +4,14 @@
   website: https://bahr.io/
   photo:  patrickbahr.png
   supervision: |
-    Patrick supervises projects related to compilers, type systems, functional programming, and formal verification. He is interested in topics such as functional reactive programming, the design and implementation of advanced type systems, compiler construction, and correct-by-construction compilers using formal methods.
+    Patrick supervises projects related to compilers, type systems,
+    functional programming, and formal verification. He is interested
+    in topics such as functional reactive programming, the design and
+    implementation of advanced type systems, compiler construction,
+    and correct-by-construction compilers using formal methods.
+
+    [More information including project ideas and previously
+    supervised theses.](https://bahr.io/students.html)
 - name: Jesper Bengtson
   role: Associate Professor
   pure: https://pure.itu.dk/da/persons/jesper-bengtson
