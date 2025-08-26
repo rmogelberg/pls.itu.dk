@@ -32,7 +32,7 @@
   website: https://carbonem.github.io/
   photo: marcocarbone.png
   supervision: |
-    Marco supervises projects related to the theory and practice of concurrency, semantics, type systems, and linear logic, with a particular focus on session types, the pi-calculus, and choreographies. He is interested in both foundational and applied aspects, including the mechanisation and verification of concurrent systems, probabilistic models, and secure communication protocols. Students keen to explore advanced topics in programming languages, formal methods, or concurrency theory are encouraged to contact him, especially if they are interested in research-oriented projects or contributing to ongoing research initiatives.
+    Marco supervises projects about concurrent and distributed systems, including visualisations, apps, tools, or simulations. Students from all study programmes (BSc and MSc, including theses) are welcome. More details and project ideas are available at https://carbonem.github.io/student_projects.html
 - name: Rosario Giustolisi
   role: Associate Professor
   pure: https://pure.itu.dk/da/persons/rosario-giustolisi
