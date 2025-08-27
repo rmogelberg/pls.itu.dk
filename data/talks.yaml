@@ -8,6 +8,7 @@
      title: Sketches of a distributive law
 
 - section: Autumn 2025
+  talks:
    - date: 2025-08-19
      speaker: Joshua Smart (University of Southampton)
      title: Implementation of a Rocq Backend to the Vehicle Neural Network Specification Language
