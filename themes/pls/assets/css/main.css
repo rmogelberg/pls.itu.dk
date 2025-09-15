@@ -2,7 +2,7 @@
 
 body {
   color: #000;
-  font-family: 'Fira Code', sans-serif;
+  font-family: 'Fira Code', sans-serif; 
   line-height: 1.5;
   margin: 1rem auto;
   max-width: 1024px;
@@ -91,7 +91,7 @@ ul.news li:nth-child(3n) {
 }
 .latestnews .newsbox ul.newslist {
   grid-row: 1;
-  grid-column: 2;
+  grid-column: 1;
   padding: 0;
   margin: 0 3rem;
 }
@@ -105,24 +105,10 @@ ul.news li:nth-child(3n) {
 .latestnews .newsbox .next span {
   display: none;
 }
-.latestnews .newsbox .prev {
-  grid-row: 1;
-  grid-column: 1;
-  width: 32px;
-  height: 64px;
-  background: url('../prev.svg') center no-repeat;
-}
-.latestnews .newsbox .next {
-  grid-row: 1;
-  grid-column: 3;
-  width: 32px;
-  height: 64px;
-  background: url('../next.svg') center no-repeat;
-}
 .latestnews .newsbox ul.toggles {
   display: flex;
   grid-row: 2;
-  grid-column: 2;
+  grid-column: 1;
   font-size: xx-large;
   margin: 0;
   padding: 0;
@@ -164,10 +150,13 @@ main .whiteboard {
 }
 main .about {
   max-width: 600px;
-  margin: -100px auto 3rem;
-  padding: 3rem;
+  margin: -100px auto 0;
   background-color: #EFB21B;
   color: #1D3769;
+  padding: 1px;
+}
+main .about-inner {
+  margin: 3rem;
 }
 main .guide {
   background-color: #1D3769;
@@ -188,7 +177,7 @@ main .explore ul {
 main .explore ul li {
   display: block;
   width: 31.5%;
-  line-height: 10rem;
+  line-height: 13rem;
   text-transform: uppercase;
   font-size: 1.5em;
   font-weight: bold;
@@ -202,7 +191,6 @@ main .explore ul li:nth-child(odd) a {
 #ex-news {
   background: url('../pexels1.jpg');
   background-size: cover;
-  background-position: 0 -100px;
 }
 #ex-people {
   background: url('../geo1.svg');
@@ -286,6 +274,9 @@ a {
 a.active,
 .toggleitem.active a {
   color: #D2482C;
+}
+.newsbox a {
+  color: #DDD;
 }
 
 header > nav > ul > li {
@@ -398,8 +389,10 @@ header > h1 {
     margin: 1rem 0;
   }
   main .about {
-    padding: 1rem;
     margin: -2rem 2rem 0;
+  }
+  main .about-inner {
+    margin: 3rem 2rem;
   }
   main .whiteboard {
     height: 200px;
@@ -407,7 +400,7 @@ header > h1 {
   }
   ul.cards li,
   main .explore ul li {
-    width: 45%;
+    width: 100%;
     font-size: 1em;
   }
   main table.talks {

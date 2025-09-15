@@ -16,20 +16,22 @@
 
 <div class=whiteboard></div>
 <div class=about>
-  <h2>About</h2>
+  <div class=about-inner>
+    <h2>About</h2>
 
-  <p>The PLS Group conducts research in the theory of programming
-    languages and logic. The aim of this research is to provide the tools
-    allowing for future software to be safe, reliable and trustworthy, and
-    the competences of the group span from mathematical modelling and
-    reasoning to implementation of tools.</p>
+    <p>The PLS Group conducts research in the theory of programming
+      languages and logic. The aim of this research is to provide the tools
+      allowing for future software to be safe, reliable and trustworthy, and
+      the competences of the group span from mathematical modelling and
+      reasoning to implementation of tools.</p>
 
-  <p>The research interests of the group currently span the following
-    areas: Logics for reasoning about programming languages, programming
-    language design, proof assistants, type theory, denotational
-    semantics, concurrency and security as well as applications of these
-    topics to digital elections, business process modeling and other
-    topics.</p>
+    <p>The research interests of the group currently span the following
+      areas: Logics for reasoning about programming languages, programming
+      language design, proof assistants, type theory, denotational
+      semantics, concurrency and security as well as applications of these
+      topics to digital elections, business process modeling and other
+      topics.</p>
+  </div>
 </div>
 
 <div class=explore>
@@ -59,8 +61,6 @@
       {{ $index = add $index 1 }}
     {{ end }}
     </ul>
-    <buttton class="prev"><span>Previous</span></buttton>
-    <buttton class="next"><span>Next</span></buttton>
     <ul class="toggles">
       {{ $index := 0 }}
       {{ range first 3 .Site.Data.news }}
