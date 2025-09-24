@@ -2,7 +2,7 @@
   talks:
    - date: 2025-09-25
      speaker: Alessandro Bruni
-     title: Formalizing Concentration Inequalities in Rocq: Infrastructure and Automation
+     title: "Formalizing Concentration Inequalities in Rocq: Infrastructure and Automation"
    - date: 2025-09-25
      speaker: Takafumi Saikawa (Nagoya University)
      title: Formalization of matching numbers with finmap and mathcomp-classical
