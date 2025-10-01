@@ -1,17 +1,17 @@
 - section: Upcoming Talks
   talks:
-   - date: 2025-09-25
-     speaker: Alessandro Bruni
-     title: "Formalizing Concentration Inequalities in Rocq: Infrastructure and Automation"
-   - date: 2025-09-25
-     speaker: Takafumi Saikawa (Nagoya University)
-     title: Formalization of matching numbers with finmap and mathcomp-classical
    - date: 2025-10-02
      speaker: Maaike Zwart
      title: Sketches of a distributive law
 
 - section: Autumn 2025
   talks:
+   - date: 2025-09-25
+     speaker: Alessandro Bruni
+     title: "Formalizing Concentration Inequalities in Rocq: Infrastructure and Automation"
+   - date: 2025-09-25
+     speaker: Takafumi Saikawa (Nagoya University)
+     title: Formalization of matching numbers with finmap and mathcomp-classical
    - date: 2025-09-18
      speaker: Patrick Bahr
      title: A simple modal type system for functional reactive programming without space leaks
