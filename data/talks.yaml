@@ -1,6 +1,9 @@
 - section: Upcoming Talks
   talks:
-
+   - date: 2025-11-13
+     speaker: Jens Christian Godskesen
+     title: Quantum Programming - From the perspective of a computer scientist
+     
 - section: Autumn 2025
   talks:
    - date: 2025-10-02
