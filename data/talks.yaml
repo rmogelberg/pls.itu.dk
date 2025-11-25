@@ -1,5 +1,8 @@
 - section: Upcoming Talks
   talks:
+   - date: 2025-11-25
+     speaker: Eike Ritter (Birmingham)
+     title: Skolemisation for Intuitionistic Linear Logic
      
 - section: Autumn 2025
   talks:
