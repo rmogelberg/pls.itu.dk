@@ -1,11 +1,17 @@
 - section: Upcoming Talks
   talks:
-   - date: 2025-12-08
-     speaker: Marino Miculan (Udine)
-     title: Towards a Formally Verified Language for Stateful Authorization Policies
+   - date: 2026-02-20
+     speaker: Sergei Stepanenko
+     title: TBD
+   - date: 2026-03-06
+     speaker: Markus Krabbe Larsen
+     title: TBD
      
 - section: Autumn 2025
   talks:
+   - date: 2025-12-08
+     speaker: Marino Miculan (Udine)
+     title: Towards a Formally Verified Language for Stateful Authorization Policies
    - date: 2025-11-25
      speaker: Eike Ritter (Birmingham)
      title: Skolemisation for Intuitionistic Linear Logic
