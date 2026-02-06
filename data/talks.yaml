@@ -1,11 +1,14 @@
 - section: Upcoming Talks
   talks:
-   - date: 2026-02-20
+   - date: 2026-02-27
      speaker: Sergei Stepanenko
-     title: TBD
+     title: Towards Guarded Type Theory in Lean
    - date: 2026-03-06
      speaker: Markus Krabbe Larsen
      title: TBD
+   - date: 2026-03-20
+     speaker: Rasmus Møgelberg
+     title: Linear and Graded Types for Memory Safety
      
 - section: Autumn 2025
   talks:
