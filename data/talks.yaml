@@ -3,9 +3,9 @@
    - date: 2026-02-27
      speaker: Sergei Stepanenko
      title: Towards Guarded Type Theory in Lean
-   - date: 2026-03-06
+   - date: 2026-03-03
      speaker: Markus Krabbe Larsen
-     title: TBD
+     title: Sound rules for building Sigma-protocols (in Rocq)
    - date: 2026-03-20
      speaker: Rasmus Møgelberg
      title: Linear and Graded Types for Memory Safety
