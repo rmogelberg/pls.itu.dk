@@ -8,14 +8,14 @@
 - name: Maria Bendix Mikkelsen
   role: PhD Student
   photo: Maria.png
-- name: Sergei Stepanenko
-  role: Postdoc
-  website: https://kaptch.link/
-  photo: Sergei.jpeg
 - name: Dawit Tirore
   role: Postdoc
   website: https://tirore96.github.io/
   photo: Dawit.jpg
+- name: Alessio Coltellacci
+  role: Postdoc
+  website: https://notbad4u.github.io/
+  photo: AlessioColtellacci.jpeg
 - name: Maaike Zwart
   role: Postdoc
   pure: https://pure.itu.dk/da/persons/maaike-annebet-zwart
