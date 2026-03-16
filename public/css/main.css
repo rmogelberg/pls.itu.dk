@@ -1,0 +1,456 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+
+body {
+  color: #000;
+  font-family: 'Fira Code', sans-serif; 
+  line-height: 1.5;
+  margin: 1rem auto;
+  max-width: 1024px;
+}
+
+h1, h2, h3, h4, h5, h6, h7 {
+  text-transform: uppercase;
+  margin: 2em 0;
+}
+
+.line {
+  background: linear-gradient(180deg, 
+      transparent calc(50% - 1px), 
+      black calc(50%), 
+      transparent calc(50% + 1px)
+  );
+}
+.line > * {
+  background: white; padding: 0 3rem;
+}
+.projects {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.projects li {
+  display: block;
+  padding: 1rem;
+  min-height: 5rem;
+  align-content: center;
+}
+.projects li:nth-child(odd) {
+  background-color: #EEE3C3;
+}
+table.talks {
+  display: block;
+}
+table.talks tbody {
+  display: flex;
+  flex-direction: column;
+}
+main table.talks tr {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-grow: 1;
+  min-height: 5rem;
+}
+table.talks tr:nth-child(odd) {
+  background-color: #EEE3C3;
+}
+table.talks tr td:nth-child(1) {
+  width: 80%;
+}
+table.talks tr td:nth-child(2) {
+  width: 20%;
+}
+
+ul.news {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-content: stretch;
+}
+ul.news li {
+  display: block;
+  min-height: 5rem;
+  align-content: center;
+}
+ul.news li:nth-child(3n+1) {
+  background-color: #EEE3C3;
+}
+ul.news li:nth-child(3n+2) {
+  background-color: #F6C43F;
+}
+ul.news li:nth-child(3n) {
+  background-color: #1D376A;
+  color: white;
+}
+
+.latestnews .newsbox {
+  background-color: #1D376A;
+  color: #EFB21B;
+  margin: 0;
+  padding: 3rem;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+}
+.latestnews .newsbox ul.newslist {
+  grid-row: 1;
+  grid-column: 1;
+  padding: 0;
+  margin: 0 3rem;
+}
+.latestnews .newsbox ul.newslist li {
+  display: none;
+}
+.latestnews .newsbox ul.newslist li.active {
+  display: block;
+}
+.latestnews .newsbox .prev span,
+.latestnews .newsbox .next span {
+  display: none;
+}
+.latestnews .newsbox ul.toggles {
+  display: flex;
+  grid-row: 2;
+  grid-column: 1;
+  font-size: xx-large;
+  margin: 0;
+  padding: 0;
+}
+.latestnews .newsbox ul.toggles li {
+  display: block;
+}
+.latestnews .newsbox ul.toggles li a::before {
+  content: "•";
+}
+.latestnews .newsbox ul.toggles li a span {
+  display: none;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 3rem;
+  padding-bottom: 3rem;
+  border-bottom: 1px solid #222;
+  margin-bottom: 3rem;
+}
+
+main {
+  text-align: center;
+}
+
+main .welcome {
+  max-width: 700px;
+  margin: 3rem auto;
+}
+
+main .whiteboard {
+  height: 489px;
+  background: url('../whiteboard.jpg');
+}
+main .about {
+  max-width: 600px;
+  margin: -100px auto 0;
+  background-color: #EFB21B;
+  color: #1D3769;
+  padding: 1px;
+}
+main .about-inner {
+  margin: 3rem;
+}
+main .guide {
+  background-color: #1D3769;
+  color: #EFB21B;
+  padding: 3rem;
+  margin: 3rem 0;
+}
+main .explore ul {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: space-between;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+main .explore ul li {
+  display: block;
+  width: 31.5%;
+  line-height: 13rem;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+main .explore ul li:nth-child(even) a {
+  color: #1D3769;
+}
+main .explore ul li:nth-child(odd) a {
+  color: #EFB21B;
+}
+#ex-news {
+  background: url('../pexels1.jpg');
+  background-size: cover;
+}
+#ex-people {
+  background: url('../geo1.svg');
+  background-size: cover;
+}
+#ex-projects {
+  background: url('../pexels2.jpg');
+  background-size: cover;
+}
+#ex-talks {
+  background: url('../geo2.svg');
+  background-size: cover;
+}
+#ex-students {
+  background: url('../pexels3.jpg');
+  background-size: cover;
+}
+#ex-directions {
+  background: url('../geo3.svg');
+  background-size: cover;
+}
+
+ul.cards {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: space-between;
+  justify-content: center;
+  gap: 1.5rem;
+}
+ul.cards li {
+  display: block;
+  width: 23%;
+}
+ul.cards li img {
+  width: 100%;
+  height: auto;
+}
+ul.cards li img.staff-photo {
+  aspect-ratio: 3/4;
+  object-fit: cover;
+  object-position: center;
+}
+
+footer {
+  border-top: 1px solid #222;
+  margin-top: 3rem;
+  padding-top: 3rem;
+  margin-bottom: 3rem;
+  text-align: center;
+  font-size: 80%;
+  color:  #1D3769;
+}
+
+footer > p {
+  margin-bottom: 3rem;
+}
+
+footer > p.itu {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+footer > p > span.institution {
+  border-right: 1px solid black;
+}
+footer > p > span {
+  padding: 0 3rem;
+  line-height: 3rem;
+  text-align: center;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+a.active,
+.toggleitem.active a {
+  color: #D2482C;
+}
+.newsbox a {
+  color: #DDD;
+}
+
+header > nav > ul > li {
+  display: inline;
+  margin: 1em;
+}
+
+header > h1 span {
+  display: none;
+}
+header > h1 a {
+  display: block;
+  text-decoration: none;
+  width: 145px;
+  height: 74px;
+}
+header > h1 {
+  margin: 0;
+  padding: 0;
+  background: url('../pls-logo.svg') no-repeat;
+  background-size: contain;
+}
+
+/* Hamburger menu styles */
+.hamburger {
+  display: none;
+  cursor: pointer;
+  width: 32px;
+  height: 32px;
+  background: url('../hamburger.svg') no-repeat center center;
+  z-index: 1001;
+}
+.hamburger.open {
+  background: url('../close.svg') no-repeat center center;
+}
+.hamburger.open span {
+  display: none;
+}
+#blur.open {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 999;
+  backdrop-filter: blur(5px);
+}
+
+/* Responsive styles */
+@media (max-width: 1024px) {
+  body {
+    margin: 0.5rem;
+    max-width: 100vw;
+  }
+  header {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  header > h1 {
+    margin: 0 1rem;
+  }
+  header > h1 a {
+    height: 50px;
+  }
+  .hamburger {
+    display: block;
+    margin: 0 1rem;
+  }
+  header > nav {
+    display: none;
+  }
+  header > nav.open {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    width: 80vw;
+    background-color: #1D3769;
+  }
+  header > nav > ul {
+    display: flex;
+    flex-direction: column;
+    margin: calc(3rem + 32px) 0;
+    padding: 1rem 0;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  header > nav > ul > li {
+    display: block;
+    padding: 0.5rem 0;
+    margin: 0;
+    border-bottom: 1px solid #EFB21B;
+  }
+  header > nav > ul > li:last-child {
+    border: 0;
+  }
+  header > nav > ul > li > a {
+    color: #EFB21B;
+  }
+  main .welcome,
+  main .guide {
+    padding: 1rem;
+    margin: 1rem 0;
+  }
+  main .about {
+    margin: -2rem 2rem 0;
+  }
+  main .about-inner {
+    margin: 3rem 2rem;
+  }
+  main .whiteboard {
+    height: 200px;
+    background-size: cover;
+  }
+  ul.cards li,
+  main .explore ul li {
+    width: 100%;
+    font-size: 1em;
+  }
+  main table.talks {
+    display: block;
+  }
+  main table.talks tbody {
+    display: flex;
+    flex-direction: column;
+  }
+  main table.talks tr {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+  }
+  main table.talks tr td:nth-child(1) {
+    width: 100%;
+    order: 2;
+    padding-bottom: 1rem;
+  }
+  main table.talks tr td:nth-child(2) {
+    width: 100%;
+    order: 1;
+    padding-top: 1rem;
+  }
+  main table.talks tr td:nth-child(3) {
+    width: 100%;
+    padding: 0;
+    order: 3;
+  }
+  main table.talks tr td:nth-child(3) button {
+    width: 100%;
+  }
+  .latestnews .newsbox {
+    padding: 3rem 1.5rem;
+  }
+  .latestnews .newsbox ul.newslist {
+    margin: 0 1.5rem;
+  }
+  footer p.itu {
+    min-height: 5rem;
+  }
+  footer p.itu span {
+    padding: 0 0.5rem;
+    line-height: inherit;
+  }
+}

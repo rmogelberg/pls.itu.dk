@@ -1,0 +1,1 @@
+(()=>{window.addEventListener("load",()=>{let e=document.getElementById("hamburger"),t=document.getElementById("blur"),n=document.getElementById("mainnav");e.addEventListener("click",()=>{n.classList.toggle("open"),t.classList.toggle("open"),e.classList.toggle("open")})});})();
