@@ -1,14 +1,16 @@
 - section: Upcoming Talks
   talks:
-   - date: 2026-03-03
-     speaker: Markus Krabbe Larsen
-     title: Sound rules for building Sigma-protocols (in Rocq)
    - date: 2026-03-20
      speaker: Rasmus Møgelberg
      title: Linear and Graded Types for Memory Safety
+   - date: 2026-03-23
+     title: Grant application discussion
      
 - section: Spring 2026
   talks:
+   - date: 2026-03-03
+     speaker: Markus Krabbe Larsen
+     title: Sound rules for building Sigma-protocols (in Rocq)
    - date: 2026-02-27
      speaker: Sergei Stepanenko
      title: Towards Guarded Type Theory in Lean
