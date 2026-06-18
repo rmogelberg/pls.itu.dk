@@ -3,6 +3,12 @@
      
 - section: Spring 2026
   talks:
+   - date: 2026-06-18
+     speaker: Eigil Rischel
+     title: The universal property of probability theory
+   - date: 2026-06-15
+     speaker: Julien Marquet-Wagner
+     title: A Methodology for the Mechanization of Dependent Type Theories
    - date: 2026-05-22
      speaker: Aslan Askarov
      title: The downgrading semantics of memory safety
