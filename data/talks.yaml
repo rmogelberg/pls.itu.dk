@@ -1,13 +1,21 @@
 - section: Upcoming Talks
   talks:
-   - date: 2026-03-20
-     speaker: Rasmus Møgelberg
-     title: Linear and Graded Types for Memory Safety
-   - date: 2026-03-23
-     title: Grant application discussions
      
 - section: Spring 2026
   talks:
+   - date: 2026-05-22
+     speaker: Aslan Askarov
+     title: The downgrading semantics of memory safety
+   - date: 2026-04-17
+     speaker: Alessio Coltellacci
+     title: Reconstruction of SMT proofs with Lambdapi
+   - date: 2026-04-10
+     title: Grant application discussions
+   - date: 2026-03-23
+     speaker: Rasmus Møgelberg
+     title: Linear and Graded Types for Memory Safety
+   - date: 2026-03-20
+     title: Grant application discussions
    - date: 2026-03-03
      speaker: Markus Krabbe Larsen
      title: Sound rules for building Sigma-protocols (in Rocq)
