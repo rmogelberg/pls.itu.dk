@@ -1,12 +1,18 @@
 - section: Upcoming Talks
   talks:
-   - date: 2026-09-16
-     speaker: Thomas Holme Surlykke
-     title: Formal Verification of LexBFS with Isabelle
    - date: 2026-09-11
      speaker: Marco Carbone
      title: Session Types and Probabilities
+   - date: 2026-10-09
+     speaker: Maria Bendix Mikkelsen
+     title: Global Probabilistic Multiparty Session Types
      
+- section: Autumn 2026
+  talks:
+   - date: 2026-09-16
+     speaker: Thomas Holme Surlykke
+     title: Formal Verification of LexBFS with Isabelle  
+
 - section: Spring 2026
   talks:
    - date: 2026-06-18
