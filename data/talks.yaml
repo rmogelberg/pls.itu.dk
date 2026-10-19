@@ -2,7 +2,7 @@
   talks:
    - date: 2026-11-13
      speaker: Daniele Varacca 
-     title: You've got mail: typing concurrency in Elixir
+     title: You've got mail. Typing concurrency in Elixir
      
 - section: Autumn 2026
   talks:
